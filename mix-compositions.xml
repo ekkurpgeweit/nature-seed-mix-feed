@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mix_compositions generated_at="2026-05-28T18:59:41.943Z" feed_last_updated="2026-05-28T12:58:56-06:00">
+<mix_compositions generated_at="2026-05-28T19:01:11.750Z" feed_last_updated="2026-05-28T13:00:30-06:00">
   <mix sku="CV-BGEC-10-LB" category="Conservation">
     <name>Prairie Native Drought-Tolerant &amp; Erosion Control Mix</name>
     <components>
@@ -553,42 +553,21 @@
         <common_name>Alfalfa</common_name>
         <species>Medicago sativa</species>
         <variety>Ladak 65</variety>
-        <percentage>15.40</percentage>
+        <percentage>17.30</percentage>
       </component>
       <component>
         <code>TRPR</code>
         <common_name>Red Clover</common_name>
         <species>Trifolium pratense</species>
         <variety>Medium</variety>
-        <percentage>9.00</percentage>
-      </component>
-      <component>
-        <code>LOCO</code>
-        <common_name>Birdsfoot Trefoil</common_name>
-        <species>Lotus corniculatus</species>
-        <variety>VNS</variety>
-        <percentage>6.60</percentage>
-      </component>
-      <component>
-        <code>LOCO</code>
-        <common_name>Birdsfoot Trefoil</common_name>
-        <species>Lotus corniculatus</species>
-        <variety>Bruce</variety>
-        <percentage>2.30</percentage>
+        <percentage>10</percentage>
       </component>
       <component>
         <code>DAGL</code>
         <common_name>Orchardgrass</common_name>
         <species>Dactylis glomerata</species>
         <variety>Potomac</variety>
-        <percentage>5.50</percentage>
-      </component>
-      <component>
-        <code>DAGL</code>
-        <common_name>Orchardgrass</common_name>
-        <species>Dactylis glomerata</species>
-        <variety>Paiute</variety>
-        <percentage>2.00</percentage>
+        <percentage>7.5</percentage>
       </component>
       <component>
         <code>PEAS</code>
@@ -609,7 +588,7 @@
         <common_name>Cicer Milkvetch</common_name>
         <species>Astragalus cicer</species>
         <variety>Monarch</variety>
-        <percentage>4.00</percentage>
+        <percentage>10</percentage>
       </component>
       <component>
         <code>CYDA</code>
