@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mix_compositions generated_at="2026-05-28T19:14:08.842Z" feed_last_updated="2026-05-28T13:13:27-06:00">
+<mix_compositions generated_at="2026-05-28T19:18:00.894Z" feed_last_updated="2026-05-28T13:13:46-06:00">
   <mix sku="CV-BGEC-10-LB" category="Conservation">
     <name>Prairie Native Drought-Tolerant &amp; Erosion Control Mix</name>
     <components>
@@ -1239,67 +1239,6 @@
         <species>Lotus corniculatus</species>
         <variety>Bruce</variety>
         <percentage>5.00</percentage>
-      </component>
-    </components>
-  </mix>
-  <mix sku="PB-TORT-2-LB" category="Pasture Blend">
-    <name>Tortoise Forage &amp; Habitat Mix</name>
-    <components>
-      <component>
-        <code>SCSC</code>
-        <common_name>Little Bluestem</common_name>
-        <species>Schizachyrium scoparium</species>
-        <variety>Badlands</variety>
-        <percentage>23.00</percentage>
-      </component>
-      <component>
-        <code>AGSM</code>
-        <common_name>Western Wheatgrass</common_name>
-        <species>Pascopyrum smithii</species>
-        <variety>Rosana</variety>
-        <percentage>19.50</percentage>
-      </component>
-      <component>
-        <code>FEAR2</code>
-        <common_name>Tall Fescue</common_name>
-        <species>Festuca arundinacea</species>
-        <variety>Atlas II (F)</variety>
-        <percentage>14.00</percentage>
-      </component>
-      <component>
-        <code>DAGL</code>
-        <common_name>Orchardgrass</common_name>
-        <species>Dactylis glomerata</species>
-        <variety>Potomac</variety>
-        <percentage>14.00</percentage>
-      </component>
-      <component>
-        <code>BUDA</code>
-        <common_name>Buffalograss</common_name>
-        <species>Buchloe dactyloides</species>
-        <variety>Texoka Trt</variety>
-        <percentage>10.16</percentage>
-      </component>
-      <component>
-        <code>FERU</code>
-        <common_name>Red Fescue</common_name>
-        <species>Festuca rubra</species>
-        <variety>Simmons</variety>
-        <percentage>8.84</percentage>
-      </component>
-      <component>
-        <code>CYDA</code>
-        <common_name>Bermuda Grass</common_name>
-        <species>Cynodon dactylon</species>
-        <variety>Unhulled</variety>
-        <percentage>7.00</percentage>
-      </component>
-      <component>
-        <code>BOGR</code>
-        <common_name>Blue Grama</common_name>
-        <species>Bouteloua gracilis</species>
-        <variety>Hachita</variety>
-        <percentage>3.50</percentage>
       </component>
     </components>
   </mix>
