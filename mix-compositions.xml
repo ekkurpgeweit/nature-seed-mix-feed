@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mix_compositions generated_at="2026-05-28T19:01:11.750Z" feed_last_updated="2026-05-28T13:00:30-06:00">
+<mix_compositions generated_at="2026-05-28T19:13:55.703Z" feed_last_updated="2026-05-28T13:13:10-06:00">
   <mix sku="CV-BGEC-10-LB" category="Conservation">
     <name>Prairie Native Drought-Tolerant &amp; Erosion Control Mix</name>
     <components>
@@ -603,67 +603,6 @@
         <species>Trifolium repens</species>
         <variety>Ladino</variety>
         <percentage>1.50</percentage>
-      </component>
-    </components>
-  </mix>
-  <mix sku="PB-GOAT-N-10-LB" category="Pasture Blend">
-    <name>Goat Pasture &amp; Forage Mix Cold Season</name>
-    <components>
-      <component>
-        <code>LOPE</code>
-        <common_name>Perennial Ryegrass</common_name>
-        <species>Lolium perenne</species>
-        <variety>Linn</variety>
-        <percentage>26.50</percentage>
-      </component>
-      <component>
-        <code>CHIN</code>
-        <common_name>Chicory</common_name>
-        <species>Cichorium intybus</species>
-        <variety>Six Point</variety>
-        <percentage>20.00</percentage>
-      </component>
-      <component>
-        <code>MESA</code>
-        <common_name>Alfalfa</common_name>
-        <species>Medicago sativa</species>
-        <variety>Ladak 65</variety>
-        <percentage>14.50</percentage>
-      </component>
-      <component>
-        <code>TRPR</code>
-        <common_name>Red Clover</common_name>
-        <species>Trifolium pratense</species>
-        <variety>Medium</variety>
-        <percentage>11.00</percentage>
-      </component>
-      <component>
-        <code>LOCO</code>
-        <common_name>Birdsfoot Trefoil</common_name>
-        <species>Lotus corniculatus</species>
-        <variety>Bruce</variety>
-        <percentage>11.00</percentage>
-      </component>
-      <component>
-        <code>DAGL</code>
-        <common_name>Orchardgrass</common_name>
-        <species>Dactylis glomerata</species>
-        <variety>Paiute</variety>
-        <percentage>9.50</percentage>
-      </component>
-      <component>
-        <code>PEAS</code>
-        <common_name>Peas</common_name>
-        <species>Pisum sativa</species>
-        <variety>Arvika/Austrian Peas</variety>
-        <percentage>6.17</percentage>
-      </component>
-      <component>
-        <code>ASCI</code>
-        <common_name>Cicer Milkvetch</common_name>
-        <species>Astragalus cicer</species>
-        <variety>Monarch</variety>
-        <percentage>1.33</percentage>
       </component>
     </components>
   </mix>
