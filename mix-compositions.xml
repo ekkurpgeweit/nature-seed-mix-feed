@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mix_compositions generated_at="2026-05-28T18:37:20.020Z" feed_last_updated="2026-05-28T12:25:03-06:00">
+<mix_compositions generated_at="2026-05-28T18:55:37.989Z" feed_last_updated="2026-05-28T12:54:47-06:00">
   <mix sku="CV-BGEC-10-LB" category="Conservation">
     <name>Prairie Native Drought-Tolerant &amp; Erosion Control Mix</name>
     <components>
@@ -256,21 +256,21 @@
         <common_name>Red Clover</common_name>
         <species>Trifolium pratense</species>
         <variety>Medium</variety>
-        <percentage>18.75</percentage>
+        <percentage>18</percentage>
       </component>
       <component>
         <code>LIUS</code>
         <common_name>Common Flax</common_name>
         <species>Linum usitatissimum</species>
         <variety>York</variety>
-        <percentage>17.50</percentage>
+        <percentage>16.5</percentage>
       </component>
       <component>
         <code>MESA</code>
         <common_name>Alfalfa</common_name>
         <species>Medicago sativa</species>
         <variety>Ladak 65</variety>
-        <percentage>17.50</percentage>
+        <percentage>17.0</percentage>
       </component>
       <component>
         <code>BUCK</code>
@@ -278,13 +278,6 @@
         <species>Fagopyrum esculentum</species>
         <variety>VNS</variety>
         <percentage>13.75</percentage>
-      </component>
-      <component>
-        <code>TRFR</code>
-        <common_name>Strawberry Clover</common_name>
-        <species>Trifolium fragiferum</species>
-        <variety>Palestine</variety>
-        <percentage>10.00</percentage>
       </component>
       <component>
         <code>PEAS</code>
@@ -305,7 +298,28 @@
         <common_name>Crimson Clover</common_name>
         <species>Trifolium incarnatum</species>
         <variety>Dixie</variety>
-        <percentage>6.25</percentage>
+        <percentage>6</percentage>
+      </component>
+      <component>
+        <code>HEAN</code>
+        <common_name>Annual Sunflower</common_name>
+        <species>Helianthus annuus</species>
+        <variety>Peredovik</variety>
+        <percentage>6</percentage>
+      </component>
+      <component>
+        <code>PAMI</code>
+        <common_name>Japanese Millet</common_name>
+        <species>Panicum miliaceum</species>
+        <variety>Rise</variety>
+        <percentage>3.5</percentage>
+      </component>
+      <component>
+        <code>CHIN</code>
+        <common_name>Chicory</common_name>
+        <species>Cichorium intybus</species>
+        <variety>Six Point</variety>
+        <percentage>3</percentage>
       </component>
     </components>
   </mix>
