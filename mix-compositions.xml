@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mix_compositions generated_at="2026-05-28T19:13:55.703Z" feed_last_updated="2026-05-28T13:13:10-06:00">
+<mix_compositions generated_at="2026-05-28T19:14:08.842Z" feed_last_updated="2026-05-28T13:13:27-06:00">
   <mix sku="CV-BGEC-10-LB" category="Conservation">
     <name>Prairie Native Drought-Tolerant &amp; Erosion Control Mix</name>
     <components>
@@ -603,107 +603,6 @@
         <species>Trifolium repens</species>
         <variety>Ladino</variety>
         <percentage>1.50</percentage>
-      </component>
-    </components>
-  </mix>
-  <mix sku="PB-GOAT-SO-10-LB" category="Pasture Blend">
-    <name>Goat Pasture &amp; Forage Mix Warm Season</name>
-    <components>
-      <component>
-        <code>ASCI</code>
-        <common_name>Cicer Milkvetch</common_name>
-        <species>Astragalus cicer</species>
-        <variety>Monarch</variety>
-        <percentage>25.00</percentage>
-      </component>
-      <component>
-        <code>PEAS</code>
-        <common_name>Peas</common_name>
-        <species>Pisum sativa</species>
-        <variety>Arvika/Austrian Peas</variety>
-        <percentage>20.00</percentage>
-      </component>
-      <component>
-        <code>MESA</code>
-        <common_name>Alfalfa</common_name>
-        <species>Medicago sativa</species>
-        <variety>Ladak 65</variety>
-        <percentage>20.00</percentage>
-      </component>
-      <component>
-        <code>CYDA</code>
-        <common_name>Bermuda Grass</common_name>
-        <species>Cynodon dactylon</species>
-        <variety>Unhulled</variety>
-        <percentage>15.00</percentage>
-      </component>
-      <component>
-        <code>TRRE</code>
-        <common_name>White Clover</common_name>
-        <species>Trifolium repens</species>
-        <variety>Ladino</variety>
-        <percentage>10.00</percentage>
-      </component>
-      <component>
-        <code>CHIN</code>
-        <common_name>Chicory</common_name>
-        <species>Cichorium intybus</species>
-        <variety>Six Point</variety>
-        <percentage>10.00</percentage>
-      </component>
-    </components>
-  </mix>
-  <mix sku="PB-GOAT-TR-10-LB" category="Pasture Blend">
-    <name>Goat Pasture &amp; Forage Mix Transitional</name>
-    <components>
-      <component>
-        <code>FEAR2</code>
-        <common_name>Tall Fescue</common_name>
-        <species>Festuca arundinacea</species>
-        <variety>Fawn (F)</variety>
-        <percentage>28.70</percentage>
-      </component>
-      <component>
-        <code>CHIN</code>
-        <common_name>Chicory</common_name>
-        <species>Cichorium intybus</species>
-        <variety>Six Point</variety>
-        <percentage>20.40</percentage>
-      </component>
-      <component>
-        <code>MESA</code>
-        <common_name>Alfalfa</common_name>
-        <species>Medicago sativa</species>
-        <variety>Ladak 65</variety>
-        <percentage>14.57</percentage>
-      </component>
-      <component>
-        <code>TRPR</code>
-        <common_name>Red Clover</common_name>
-        <species>Trifolium pratense</species>
-        <variety>Medium</variety>
-        <percentage>10.53</percentage>
-      </component>
-      <component>
-        <code>LOCO</code>
-        <common_name>Birdsfoot Trefoil</common_name>
-        <species>Lotus corniculatus</species>
-        <variety>VNS</variety>
-        <percentage>10.43</percentage>
-      </component>
-      <component>
-        <code>DAGL</code>
-        <common_name>Orchardgrass</common_name>
-        <species>Dactylis glomerata</species>
-        <variety>Potomac</variety>
-        <percentage>8.57</percentage>
-      </component>
-      <component>
-        <code>PEAS</code>
-        <common_name>Peas</common_name>
-        <species>Pisum sativa</species>
-        <variety>Arvika/Austrian Peas</variety>
-        <percentage>6.80</percentage>
       </component>
     </components>
   </mix>
