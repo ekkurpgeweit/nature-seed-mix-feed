@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mix_compositions generated_at="2026-05-28T18:55:37.989Z" feed_last_updated="2026-05-28T12:54:47-06:00">
+<mix_compositions generated_at="2026-05-28T18:57:38.173Z" feed_last_updated="2026-05-28T12:56:55-06:00">
   <mix sku="CV-BGEC-10-LB" category="Conservation">
     <name>Prairie Native Drought-Tolerant &amp; Erosion Control Mix</name>
     <components>
@@ -1047,28 +1047,28 @@
         <common_name>Kentucky Bluegrass</common_name>
         <species>Poa pratensis</species>
         <variety>Filly</variety>
-        <percentage>20.00</percentage>
+        <percentage>18</percentage>
       </component>
       <component>
         <code>DAGL</code>
         <common_name>Orchardgrass</common_name>
         <species>Dactylis glomerata</species>
         <variety>Potomac</variety>
-        <percentage>20.00</percentage>
+        <percentage>18</percentage>
       </component>
       <component>
         <code>HOVU</code>
         <common_name>Barley</common_name>
         <species>Hordeum vulgare</species>
         <variety>Poco</variety>
-        <percentage>15.00</percentage>
+        <percentage>14</percentage>
       </component>
       <component>
         <code>MESA</code>
         <common_name>Alfalfa</common_name>
         <species>Medicago sativa</species>
         <variety>Ladak 65</variety>
-        <percentage>15.00</percentage>
+        <percentage>14</percentage>
       </component>
       <component>
         <code>TRRE</code>
@@ -1078,25 +1078,32 @@
         <percentage>10.00</percentage>
       </component>
       <component>
-        <code>TRFR</code>
-        <common_name>Strawberry Clover</common_name>
-        <species>Trifolium fragiferum</species>
-        <variety>Palestine</variety>
-        <percentage>10.00</percentage>
-      </component>
-      <component>
         <code>CHIN</code>
         <common_name>Chicory</common_name>
         <species>Cichorium intybus</species>
         <variety>Six Point</variety>
-        <percentage>5.00</percentage>
+        <percentage>9</percentage>
       </component>
       <component>
-        <code>LOCO</code>
-        <common_name>Birdsfoot Trefoil</common_name>
-        <species>Lotus corniculatus</species>
-        <variety>Bruce</variety>
-        <percentage>5.00</percentage>
+        <code>PEAS</code>
+        <common_name>Peas</common_name>
+        <species>Pisum sativa</species>
+        <variety>Arvika/Austrian Peas</variety>
+        <percentage>7</percentage>
+      </component>
+      <component>
+        <code>AVSA</code>
+        <common_name>Oats</common_name>
+        <species>Avena sativa</species>
+        <variety>Monida</variety>
+        <percentage>6</percentage>
+      </component>
+      <component>
+        <code>HEAN</code>
+        <common_name>Annual Sunflower</common_name>
+        <species>Helianthus annuus</species>
+        <variety>Peredovik</variety>
+        <percentage>4</percentage>
       </component>
     </components>
   </mix>
