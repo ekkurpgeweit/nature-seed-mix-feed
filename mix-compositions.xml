@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mix_compositions generated_at="2026-06-18T04:41:16.859Z" feed_last_updated="2026-05-28T13:13:46-06:00">
+<mix_compositions generated_at="2026-06-18T18:47:12.350Z" feed_last_updated="2026-06-18T12:24:57-06:00">
   <mix sku="CV-BGEC-10-LB" category="Conservation">
     <name>Prairie Native Drought-Tolerant &amp; Erosion Control Mix</name>
     <components>
@@ -603,6 +603,60 @@
         <species>Trifolium repens</species>
         <variety>Ladino</variety>
         <percentage>1.50</percentage>
+      </component>
+    </components>
+  </mix>
+  <mix sku="PB-GRFD-10-LB" category="Pasture Blend">
+    <name>GreenField Cover Crop Mix</name>
+    <components>
+      <component>
+        <code>SOSU</code>
+        <common_name>Sudangrass</common_name>
+        <species>Sorghum sudanese</species>
+        <variety>VNS</variety>
+        <percentage>37.00</percentage>
+      </component>
+      <component>
+        <code>VIUN</code>
+        <common_name>Cowpeas</common_name>
+        <species>Vigna unguiculata</species>
+        <variety>Black eyes</variety>
+        <percentage>14.80</percentage>
+      </component>
+      <component>
+        <code>VIRA4</code>
+        <common_name>Mung Beans</common_name>
+        <species>Vigna radiata</species>
+        <variety>VNS</variety>
+        <percentage>14.80</percentage>
+      </component>
+      <component>
+        <code>BRCNA</code>
+        <common_name>Hybrid Brassica</common_name>
+        <species>Brassica campestris Brassica napus</species>
+        <variety>Pasja</variety>
+        <percentage>3.70</percentage>
+      </component>
+      <component>
+        <code>HEAN</code>
+        <common_name>Annual Sunflower</common_name>
+        <species>Helianthus annuus</species>
+        <variety>Peredovik</variety>
+        <percentage>3.70</percentage>
+      </component>
+      <component>
+        <code>PEGL2</code>
+        <common_name>Pearl Millet</common_name>
+        <species>PENNISETUM GLAUCUM</species>
+        <variety>All Star</variety>
+        <percentage>18.60</percentage>
+      </component>
+      <component>
+        <code>RASA</code>
+        <common_name>Forage Radish</common_name>
+        <species>Raphanus sativus</species>
+        <variety>Groundhog</variety>
+        <percentage>7.40</percentage>
       </component>
     </components>
   </mix>
@@ -1303,6 +1357,30 @@
       </component>
     </components>
   </mix>
+  <mix sku="PG-ANGE-5-LB" category="Pasture Grass (single species)">
+    <name>Big Bluestem</name>
+    <components>
+      <component>
+        <code>ANGE</code>
+        <common_name>Bluestem, Big</common_name>
+        <species>Andropogon gerardii</species>
+        <variety>Bison</variety>
+        <percentage>100.00</percentage>
+      </component>
+    </components>
+  </mix>
+  <mix sku="PG-BOCU-5-LB" category="Pasture Grass (single species)">
+    <name>Sideoats Grama</name>
+    <components>
+      <component>
+        <code>BOCU</code>
+        <common_name>Sideoats Grama</common_name>
+        <species>Bouteloua curtipendula</species>
+        <variety>Vaughn</variety>
+        <percentage>100.00</percentage>
+      </component>
+    </components>
+  </mix>
   <mix sku="PG-BOGR-5-LB" category="Pasture Grass (single species)">
     <name>Blue Grama</name>
     <components>
@@ -1311,6 +1389,18 @@
         <common_name>Blue Grama</common_name>
         <species>Bouteloua gracilis</species>
         <variety>Bad River</variety>
+        <percentage>100.00</percentage>
+      </component>
+    </components>
+  </mix>
+  <mix sku="PG-BRRA-5-LB" category="Pasture Grass (single species)">
+    <name>Turnips</name>
+    <components>
+      <component>
+        <code>BRRA</code>
+        <common_name>Forage Turnips</common_name>
+        <species>Brassica Rapa</species>
+        <variety>Purple Tops</variety>
         <percentage>100.00</percentage>
       </component>
     </components>
@@ -1335,6 +1425,30 @@
         <common_name>Buffalograss</common_name>
         <species>Buchloe dactyloides</species>
         <variety>Texoka Trt</variety>
+        <percentage>100.00</percentage>
+      </component>
+    </components>
+  </mix>
+  <mix sku="PG-CHIN-5-LB" category="Pasture Grass (single species)">
+    <name>Chicory</name>
+    <components>
+      <component>
+        <code>CHIN</code>
+        <common_name>Chicory</common_name>
+        <species>Cichorium intybus</species>
+        <variety>Antler</variety>
+        <percentage>100.00</percentage>
+      </component>
+    </components>
+  </mix>
+  <mix sku="PG-CRJU-5-LB" category="Pasture Grass (single species)">
+    <name>Sunn Hemp</name>
+    <components>
+      <component>
+        <code>CRJU</code>
+        <common_name>Sunn Hemp</common_name>
+        <species>Crotalaria juncea</species>
+        <variety>NCO</variety>
         <percentage>100.00</percentage>
       </component>
     </components>
@@ -1387,6 +1501,18 @@
       </component>
     </components>
   </mix>
+  <mix sku="PG-MEOF-5-LB" category="Pasture Grass (single species)">
+    <name>Sweetclover</name>
+    <components>
+      <component>
+        <code>MEOF</code>
+        <common_name>Sweetclover</common_name>
+        <species>Melilotus officinalis</species>
+        <variety>Yellow Blossom</variety>
+        <percentage>100.00</percentage>
+      </component>
+    </components>
+  </mix>
   <mix sku="PG-MESA-5-LB" category="Pasture Grass (single species)">
     <name>Alfalfa</name>
     <components>
@@ -1395,6 +1521,18 @@
         <common_name>Alfalfa</common_name>
         <species>Medicago sativa</species>
         <variety>Ladak 65</variety>
+        <percentage>100.00</percentage>
+      </component>
+    </components>
+  </mix>
+  <mix sku="PG-ORHY-5-LB" category="Pasture Grass (single species)">
+    <name>Indian Ricegrass</name>
+    <components>
+      <component>
+        <code>ORHY</code>
+        <common_name>Indian Ricegrass</common_name>
+        <species>Achnatherum hymenoides</species>
+        <variety>Paloma</variety>
         <percentage>100.00</percentage>
       </component>
     </components>
@@ -1447,6 +1585,18 @@
       </component>
     </components>
   </mix>
+  <mix sku="PG-SCSC-5-LB" category="Pasture Grass (single species)">
+    <name>Little Bluestem</name>
+    <components>
+      <component>
+        <code>SCSC</code>
+        <common_name>Little Bluestem</common_name>
+        <species>Schizachyrium scoparium</species>
+        <variety>Badlands</variety>
+        <percentage>100.00</percentage>
+      </component>
+    </components>
+  </mix>
   <mix sku="PG-SECE-5-LB" category="Pasture Grass (single species)">
     <name>Cereal Rye</name>
     <components>
@@ -1455,6 +1605,54 @@
         <common_name>Cereal Rye</common_name>
         <species>Secale cereale</species>
         <variety>Hazlet</variety>
+        <percentage>100.00</percentage>
+      </component>
+    </components>
+  </mix>
+  <mix sku="PG-SONU-5-LB" category="Pasture Grass (single species)">
+    <name>Indiangrass</name>
+    <components>
+      <component>
+        <code>SONU</code>
+        <common_name>Indiangrass</common_name>
+        <species>Sorghastrum nutans</species>
+        <variety>Tomahawk</variety>
+        <percentage>100.00</percentage>
+      </component>
+    </components>
+  </mix>
+  <mix sku="PG-SOSU-5-LB" category="Pasture Grass (single species)">
+    <name>Sudangrass</name>
+    <components>
+      <component>
+        <code>SOSU</code>
+        <common_name>Sorghum Sundangrass</common_name>
+        <species>Sorghum sudanese</species>
+        <variety>Hay N Graze</variety>
+        <percentage>100.00</percentage>
+      </component>
+    </components>
+  </mix>
+  <mix sku="PG-TRAL-5-LB" category="Pasture Grass (single species)">
+    <name>Berseem Clover</name>
+    <components>
+      <component>
+        <code>TRAL</code>
+        <common_name>Berseem Clover</common_name>
+        <species>Trifolium alexandronum</species>
+        <variety>Berseem NCO</variety>
+        <percentage>100.00</percentage>
+      </component>
+    </components>
+  </mix>
+  <mix sku="PG-TRCL-10-LB" category="Pasture Grass (single species)">
+    <name>Triticale 813 Hexaploid</name>
+    <components>
+      <component>
+        <code>TRCL</code>
+        <common_name>Triticale 813 Hexaploid</common_name>
+        <species>Triticale 813 Hexaploid</species>
+        <variety>VNS</variety>
         <percentage>100.00</percentage>
       </component>
     </components>
@@ -1483,6 +1681,18 @@
       </component>
     </components>
   </mix>
+  <mix sku="PG-TRMI-5-LB" category="Pasture Grass (single species)">
+    <name>Balansa Clover</name>
+    <components>
+      <component>
+        <code>TRMI</code>
+        <common_name>Balansa Clover</common_name>
+        <species>Trifolium michelianum</species>
+        <variety>Balansa PK</variety>
+        <percentage>100.00</percentage>
+      </component>
+    </components>
+  </mix>
   <mix sku="PG-TRPR-5-LB" category="Pasture Grass (single species)">
     <name>Red Clover</name>
     <components>
@@ -1503,6 +1713,30 @@
         <common_name>White Clover</common_name>
         <species>Trifolium repens</species>
         <variety>Ladino</variety>
+        <percentage>100.00</percentage>
+      </component>
+    </components>
+  </mix>
+  <mix sku="PG-VIUN-5-LB" category="Pasture Grass (single species)">
+    <name>Cowpeas</name>
+    <components>
+      <component>
+        <code>VIUN</code>
+        <common_name>Cowpeas</common_name>
+        <species>Vigna unguiculata</species>
+        <variety>Black Eyes</variety>
+        <percentage>100.00</percentage>
+      </component>
+    </components>
+  </mix>
+  <mix sku="PG-VIVI-5-LB" category="Pasture Grass (single species)">
+    <name>Hairy Vetch</name>
+    <components>
+      <component>
+        <code>VIVI</code>
+        <common_name>Hairy Vetch</common_name>
+        <species>Vicia villosa</species>
+        <variety>Patagonia</variety>
         <percentage>100.00</percentage>
       </component>
     </components>
@@ -2204,6 +2438,18 @@
       </component>
     </components>
   </mix>
+  <mix sku="W-BAMU-0.25-LB" category="Wildflower">
+    <name>Desert Marigold</name>
+    <components>
+      <component>
+        <code>BAMU</code>
+        <common_name>Desert Marigold</common_name>
+        <species>Baileya multiradiata</species>
+        <variety>VNS</variety>
+        <percentage>100.00</percentage>
+      </component>
+    </components>
+  </mix>
   <mix sku="W-COLA-0.25-LB" category="Wildflower">
     <name>Lanceleaf Tickseed (Coreopsis)</name>
     <components>
@@ -2345,6 +2591,18 @@
         <species>Oenothera speciosa</species>
         <variety>VNS</variety>
         <percentage>100</percentage>
+      </component>
+    </components>
+  </mix>
+  <mix sku="W-PEEA-0.25-LB" category="Wildflower">
+    <name>Firecracker Penstemon</name>
+    <components>
+      <component>
+        <code>PEEA</code>
+        <common_name>Firecracker Penstemon</common_name>
+        <species>Penstemon eatonii</species>
+        <variety>VNS</variety>
+        <percentage>100.00</percentage>
       </component>
     </components>
   </mix>
