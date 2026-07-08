@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<current_stock generated_at="2026-07-08T20:28:00.930Z" sales_channel="woocommerce" feed_last_updated="2026-07-08">
+<current_stock generated_at="2026-07-08T22:16:43.617Z" sales_channel="woocommerce" feed_last_updated="2026-07-08">
   <summary>
     <total_skus>127</total_skus>
     <total_value>10914</total_value>
@@ -150,10 +150,10 @@
     <item sku="PB-CHIX-5-LB" status="Optimal" alert="Good">
       <product_name>PB-CHIX-5-LB</product_name>
       <qty_on_hand>406</qty_on_hand>
-      <qty_available>405</qty_available>
-      <qty_allocated>1</qty_allocated>
+      <qty_available>404</qty_available>
+      <qty_allocated>2</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>46.1</days_in_stock>
+      <days_in_stock>46</days_in_stock>
       <inventory_age>1</inventory_age>
       <turnover_rate>11.89</turnover_rate>
       <sales_30_day>130</sales_30_day>
@@ -1200,10 +1200,10 @@
     <item sku="TURF-CLV-5-LB" status="Optimal" alert="Good">
       <product_name>TURF-CLV-5-LB</product_name>
       <qty_on_hand>463</qty_on_hand>
-      <qty_available>463</qty_available>
-      <qty_allocated>0</qty_allocated>
+      <qty_available>461</qty_available>
+      <qty_allocated>2</qty_allocated>
       <qty_on_order>1</qty_on_order>
-      <days_in_stock>41.6</days_in_stock>
+      <days_in_stock>41.4</days_in_stock>
       <inventory_age>1</inventory_age>
       <turnover_rate>13.03</turnover_rate>
       <sales_30_day>172</sales_30_day>
@@ -1395,10 +1395,10 @@
     <item sku="TURF-WSHD-5-LB" status="Optimal" alert="Good">
       <product_name>TURF-WSHD-5-LB</product_name>
       <qty_on_hand>97</qty_on_hand>
-      <qty_available>97</qty_available>
-      <qty_allocated>0</qty_allocated>
+      <qty_available>96</qty_available>
+      <qty_allocated>1</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>28.7</days_in_stock>
+      <days_in_stock>28.4</days_in_stock>
       <inventory_age>1</inventory_age>
       <turnover_rate>18.81</turnover_rate>
       <sales_30_day>53</sales_30_day>
@@ -1740,10 +1740,10 @@
     <item sku="WB-CALN-0.5-LB" status="Overstock" alert="Warning">
       <product_name>WB-CALN-0.5-LB</product_name>
       <qty_on_hand>189</qty_on_hand>
-      <qty_available>188</qty_available>
-      <qty_allocated>1</qty_allocated>
+      <qty_available>187</qty_available>
+      <qty_allocated>2</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>95.3</days_in_stock>
+      <days_in_stock>94.8</days_in_stock>
       <inventory_age>2</inventory_age>
       <turnover_rate>3.5</turnover_rate>
       <sales_30_day>64</sales_30_day>
