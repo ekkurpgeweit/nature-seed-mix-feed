@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<current_stock generated_at="2026-07-10T18:28:49.238Z" sales_channel="woocommerce" feed_last_updated="2026-07-10">
+<current_stock generated_at="2026-07-10T20:40:39.631Z" sales_channel="woocommerce" feed_last_updated="2026-07-10">
   <summary>
     <total_skus>127</total_skus>
     <total_value>10796</total_value>
@@ -795,10 +795,10 @@
     <item sku="PG-PHPR-5-LB" status="Overstock" alert="Warning">
       <product_name>PG-PHPR-5-LB</product_name>
       <qty_on_hand>94</qty_on_hand>
-      <qty_available>94</qty_available>
-      <qty_allocated>0</qty_allocated>
+      <qty_available>84</qty_available>
+      <qty_allocated>10</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>211.5</days_in_stock>
+      <days_in_stock>189</days_in_stock>
       <inventory_age>27</inventory_age>
       <turnover_rate>3.19</turnover_rate>
       <sales_30_day>2</sales_30_day>
@@ -870,10 +870,10 @@
     <item sku="PG-SOSU-5-LB" status="Optimal" alert="Good">
       <product_name>PG-SOSU-5-LB</product_name>
       <qty_on_hand>37</qty_on_hand>
-      <qty_available>22</qty_available>
-      <qty_allocated>15</qty_allocated>
+      <qty_available>20</qty_available>
+      <qty_allocated>17</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>45</days_in_stock>
+      <days_in_stock>40.9</days_in_stock>
       <inventory_age>2</inventory_age>
       <turnover_rate>2.41</turnover_rate>
       <sales_30_day>22</sales_30_day>
@@ -1875,10 +1875,10 @@
     <item sku="WB-TEXN-0.5-LB" status="Optimal" alert="Good">
       <product_name>WB-TEXN-0.5-LB</product_name>
       <qty_on_hand>18</qty_on_hand>
-      <qty_available>18</qty_available>
-      <qty_allocated>0</qty_allocated>
+      <qty_available>17</qty_available>
+      <qty_allocated>1</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>73.6</days_in_stock>
+      <days_in_stock>69.5</days_in_stock>
       <inventory_age>14</inventory_age>
       <turnover_rate>5.86</turnover_rate>
       <sales_30_day>6</sales_30_day>
