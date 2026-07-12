@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<current_stock generated_at="2026-07-12T20:11:09.018Z" sales_channel="woocommerce" feed_last_updated="2026-07-12">
+<current_stock generated_at="2026-07-12T22:00:56.118Z" sales_channel="woocommerce" feed_last_updated="2026-07-12">
   <summary>
     <total_skus>127</total_skus>
     <total_value>10796</total_value>
@@ -345,10 +345,10 @@
     <item sku="PB-HRSE-N-10-LB" status="Overstock" alert="Warning">
       <product_name>PB-HRSE-N-10-LB</product_name>
       <qty_on_hand>395</qty_on_hand>
-      <qty_available>367</qty_available>
-      <qty_allocated>28</qty_allocated>
+      <qty_available>366</qty_available>
+      <qty_allocated>29</qty_allocated>
       <qty_on_order>1</qty_on_order>
-      <days_in_stock>110.7</days_in_stock>
+      <days_in_stock>110.4</days_in_stock>
       <inventory_age>4</inventory_age>
       <turnover_rate>4.9</turnover_rate>
       <sales_30_day>40</sales_30_day>
@@ -1425,10 +1425,10 @@
     <item sku="W-ASFA-0.25-LB" status="Overstock" alert="Warning">
       <product_name>W-ASFA-0.25-LB</product_name>
       <qty_on_hand>165</qty_on_hand>
-      <qty_available>165</qty_available>
-      <qty_allocated>0</qty_allocated>
+      <qty_available>164</qty_available>
+      <qty_allocated>1</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>1563.2</days_in_stock>
+      <days_in_stock>1553.7</days_in_stock>
       <inventory_age>21</inventory_age>
       <turnover_rate>0.39</turnover_rate>
       <sales_30_day>1</sales_30_day>
