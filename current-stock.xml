@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<current_stock generated_at="2026-07-15T16:43:38.030Z" sales_channel="woocommerce" feed_last_updated="2026-07-15">
+<current_stock generated_at="2026-07-15T18:16:46.962Z" sales_channel="woocommerce" feed_last_updated="2026-07-15">
   <summary>
     <total_skus>127</total_skus>
     <total_value>10415</total_value>
@@ -150,10 +150,10 @@
     <item sku="PB-CHIX-5-LB" status="Optimal" alert="Good">
       <product_name>PB-CHIX-5-LB</product_name>
       <qty_on_hand>361</qty_on_hand>
-      <qty_available>336</qty_available>
-      <qty_allocated>25</qty_allocated>
+      <qty_available>334</qty_available>
+      <qty_allocated>27</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>40.9</days_in_stock>
+      <days_in_stock>40.7</days_in_stock>
       <inventory_age>2</inventory_age>
       <turnover_rate>11.81</turnover_rate>
       <sales_30_day>142</sales_30_day>
@@ -347,7 +347,7 @@
       <qty_on_hand>389</qty_on_hand>
       <qty_available>354</qty_available>
       <qty_allocated>35</qty_allocated>
-      <qty_on_order>1</qty_on_order>
+      <qty_on_order>0</qty_on_order>
       <days_in_stock>117.1</days_in_stock>
       <inventory_age>3</inventory_age>
       <turnover_rate>4.55</turnover_rate>
@@ -1157,7 +1157,7 @@
       <qty_on_hand>8</qty_on_hand>
       <qty_available>5</qty_available>
       <qty_allocated>3</qty_allocated>
-      <qty_on_order>0</qty_on_order>
+      <qty_on_order>30</qty_on_order>
       <days_in_stock>6.5</days_in_stock>
       <inventory_age>1</inventory_age>
       <turnover_rate>47.65</turnover_rate>
@@ -1740,10 +1740,10 @@
     <item sku="WB-CALN-0.5-LB" status="Optimal" alert="Good">
       <product_name>WB-CALN-0.5-LB</product_name>
       <qty_on_hand>171</qty_on_hand>
-      <qty_available>171</qty_available>
-      <qty_allocated>0</qty_allocated>
+      <qty_available>168</qty_available>
+      <qty_allocated>3</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>76.6</days_in_stock>
+      <days_in_stock>75.2</days_in_stock>
       <inventory_age>2</inventory_age>
       <turnover_rate>4.06</turnover_rate>
       <sales_30_day>77</sales_30_day>
