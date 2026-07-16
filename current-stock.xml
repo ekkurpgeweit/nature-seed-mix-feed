@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<current_stock generated_at="2026-07-16T18:14:51.133Z" sales_channel="woocommerce" feed_last_updated="2026-07-16">
+<current_stock generated_at="2026-07-16T20:09:50.273Z" sales_channel="woocommerce" feed_last_updated="2026-07-16">
   <summary>
     <total_skus>127</total_skus>
     <total_value>10895</total_value>
@@ -438,13 +438,13 @@
       <qty_available>75</qty_available>
       <qty_allocated>62</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>69.2</days_in_stock>
-      <inventory_age>5</inventory_age>
-      <turnover_rate>3.55</turnover_rate>
-      <sales_30_day>25</sales_30_day>
-      <sales_90_day>120</sales_90_day>
-      <weighted_daily_velocity>1.08</weighted_daily_velocity>
-      <last_sale_date>2026-07-11</last_sale_date>
+      <days_in_stock>67.8</days_in_stock>
+      <inventory_age>2</inventory_age>
+      <turnover_rate>3.58</turnover_rate>
+      <sales_30_day>26</sales_30_day>
+      <sales_90_day>121</sales_90_day>
+      <weighted_daily_velocity>1.11</weighted_daily_velocity>
+      <last_sale_date>2026-07-14</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
     <item sku="PB-PLPR-10-LB" status="Overstock" alert="Warning">
@@ -1125,10 +1125,10 @@
     <item sku="S-TACKI-50-LB" status="Overstock" alert="Warning">
       <product_name>S-TACKI-50-LB</product_name>
       <qty_on_hand>33</qty_on_hand>
-      <qty_available>33</qty_available>
-      <qty_allocated>0</qty_allocated>
+      <qty_available>32</qty_available>
+      <qty_allocated>1</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>212.1</days_in_stock>
+      <days_in_stock>205.7</days_in_stock>
       <inventory_age>8</inventory_age>
       <turnover_rate>2.7</turnover_rate>
       <sales_30_day>2</sales_30_day>
@@ -1425,10 +1425,10 @@
     <item sku="W-ASFA-0.25-LB" status="Overstock" alert="Warning">
       <product_name>W-ASFA-0.25-LB</product_name>
       <qty_on_hand>161</qty_on_hand>
-      <qty_available>161</qty_available>
-      <qty_allocated>0</qty_allocated>
+      <qty_available>157</qty_available>
+      <qty_allocated>4</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>1114.6</days_in_stock>
+      <days_in_stock>1086.9</days_in_stock>
       <inventory_age>3</inventory_age>
       <turnover_rate>0.43</turnover_rate>
       <sales_30_day>3</sales_30_day>
@@ -1545,10 +1545,10 @@
     <item sku="W-ESCA-0.25-LB" status="Optimal" alert="Good">
       <product_name>W-ESCA-0.25-LB</product_name>
       <qty_on_hand>200</qty_on_hand>
-      <qty_available>196</qty_available>
-      <qty_allocated>4</qty_allocated>
+      <qty_available>192</qty_available>
+      <qty_allocated>8</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>64</days_in_stock>
+      <days_in_stock>62.7</days_in_stock>
       <inventory_age>7</inventory_age>
       <turnover_rate>6.55</turnover_rate>
       <sales_30_day>76</sales_30_day>
