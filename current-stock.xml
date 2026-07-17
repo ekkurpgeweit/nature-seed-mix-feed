@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<current_stock generated_at="2026-07-17T20:14:19.027Z" sales_channel="woocommerce" feed_last_updated="2026-07-17">
+<current_stock generated_at="2026-07-17T22:02:29.190Z" sales_channel="woocommerce" feed_last_updated="2026-07-17">
   <summary>
     <total_skus>130</total_skus>
     <total_value>10895</total_value>
@@ -1080,10 +1080,10 @@
     <item sku="S-MICRO-1-LB" status="Overstock" alert="Warning">
       <product_name>S-MICRO-1-LB</product_name>
       <qty_on_hand>227</qty_on_hand>
-      <qty_available>212</qty_available>
-      <qty_allocated>15</qty_allocated>
+      <qty_available>207</qty_available>
+      <qty_allocated>20</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>114.3</days_in_stock>
+      <days_in_stock>111.6</days_in_stock>
       <inventory_age>6</inventory_age>
       <turnover_rate>4.31</turnover_rate>
       <sales_30_day>31</sales_30_day>
@@ -1185,10 +1185,10 @@
     <item sku="TURF-BUDA-3-LB" status="Optimal" alert="Good">
       <product_name>TURF-BUDA-3-LB</product_name>
       <qty_on_hand>64</qty_on_hand>
-      <qty_available>60</qty_available>
-      <qty_allocated>4</qty_allocated>
+      <qty_available>58</qty_available>
+      <qty_allocated>6</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>18.4</days_in_stock>
+      <days_in_stock>17.8</days_in_stock>
       <inventory_age>4</inventory_age>
       <turnover_rate>18.5</turnover_rate>
       <sales_30_day>98</sales_30_day>
