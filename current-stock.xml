@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<current_stock generated_at="2026-07-17T16:23:59.518Z" sales_channel="woocommerce" feed_last_updated="2026-07-17">
+<current_stock generated_at="2026-07-17T18:14:23.928Z" sales_channel="woocommerce" feed_last_updated="2026-07-17">
   <summary>
     <total_skus>127</total_skus>
     <total_value>10895</total_value>
@@ -285,8 +285,8 @@
     <item sku="PB-GOAT-10-LB" status="No Sales" alert="Review">
       <product_name>PB-GOAT-10-LB</product_name>
       <qty_on_hand>189</qty_on_hand>
-      <qty_available>179</qty_available>
-      <qty_allocated>10</qty_allocated>
+      <qty_available>173</qty_available>
+      <qty_allocated>16</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>0</days_in_stock>
       <inventory_age>999</inventory_age>
@@ -1200,10 +1200,10 @@
     <item sku="TURF-CLV-5-LB" status="Optimal" alert="Good">
       <product_name>TURF-CLV-5-LB</product_name>
       <qty_on_hand>443</qty_on_hand>
-      <qty_available>414</qty_available>
-      <qty_allocated>29</qty_allocated>
+      <qty_available>413</qty_available>
+      <qty_allocated>30</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>47.3</days_in_stock>
+      <days_in_stock>47.2</days_in_stock>
       <inventory_age>5</inventory_age>
       <turnover_rate>10.59</turnover_rate>
       <sales_30_day>139</sales_30_day>
@@ -1395,10 +1395,10 @@
     <item sku="TURF-WSHD-5-LB" status="Optimal" alert="Good">
       <product_name>TURF-WSHD-5-LB</product_name>
       <qty_on_hand>85</qty_on_hand>
-      <qty_available>80</qty_available>
-      <qty_allocated>5</qty_allocated>
+      <qty_available>79</qty_available>
+      <qty_allocated>6</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>27</days_in_stock>
+      <days_in_stock>26.6</days_in_stock>
       <inventory_age>4</inventory_age>
       <turnover_rate>18.46</turnover_rate>
       <sales_30_day>49</sales_30_day>
