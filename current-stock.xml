@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<current_stock generated_at="2026-07-17T18:14:23.928Z" sales_channel="woocommerce" feed_last_updated="2026-07-17">
+<current_stock generated_at="2026-07-17T20:14:19.027Z" sales_channel="woocommerce" feed_last_updated="2026-07-17">
   <summary>
-    <total_skus>127</total_skus>
+    <total_skus>130</total_skus>
     <total_value>10895</total_value>
     <low_stock_count>6</low_stock_count>
     <overstock_count>63</overstock_count>
-    <no_sales_count>14</no_sales_count>
+    <no_sales_count>17</no_sales_count>
     <new_count>0</new_count>
     <critical_alerts>3</critical_alerts>
     <warning_alerts>66</warning_alerts>
-    <avg_turnover_rate>8.08</avg_turnover_rate>
+    <avg_turnover_rate>7.89</avg_turnover_rate>
   </summary>
   <items>
     <item sku="2750AL-A" status="Overstock" alert="Warning">
@@ -1200,10 +1200,10 @@
     <item sku="TURF-CLV-5-LB" status="Optimal" alert="Good">
       <product_name>TURF-CLV-5-LB</product_name>
       <qty_on_hand>443</qty_on_hand>
-      <qty_available>413</qty_available>
-      <qty_allocated>30</qty_allocated>
+      <qty_available>407</qty_available>
+      <qty_allocated>36</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>47.2</days_in_stock>
+      <days_in_stock>46.5</days_in_stock>
       <inventory_age>5</inventory_age>
       <turnover_rate>10.59</turnover_rate>
       <sales_30_day>139</sales_30_day>
@@ -1755,16 +1755,61 @@
     <item sku="WB-CCN-0.5-LB" status="Overstock" alert="Warning">
       <product_name>WB-CCN-0.5-LB</product_name>
       <qty_on_hand>311</qty_on_hand>
-      <qty_available>309</qty_available>
-      <qty_allocated>2</qty_allocated>
+      <qty_available>308</qty_available>
+      <qty_allocated>3</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>363.5</days_in_stock>
+      <days_in_stock>362.4</days_in_stock>
       <inventory_age>7</inventory_age>
       <turnover_rate>1.06</turnover_rate>
       <sales_30_day>24</sales_30_day>
       <sales_90_day>81</sales_90_day>
       <weighted_daily_velocity>0.85</weighted_daily_velocity>
       <last_sale_date>2026-07-10</last_sale_date>
+      <estimated_value>0</estimated_value>
+    </item>
+    <item sku="WB-CUTC-0.5-LB" status="No Sales" alert="Review">
+      <product_name>WB-CUTC-0.5-LB</product_name>
+      <qty_on_hand>0</qty_on_hand>
+      <qty_available>0</qty_available>
+      <qty_allocated>0</qty_allocated>
+      <qty_on_order>20</qty_on_order>
+      <days_in_stock>0</days_in_stock>
+      <inventory_age>999</inventory_age>
+      <turnover_rate>0</turnover_rate>
+      <sales_30_day>0</sales_30_day>
+      <sales_90_day>0</sales_90_day>
+      <weighted_daily_velocity>0</weighted_daily_velocity>
+      <last_sale_date></last_sale_date>
+      <estimated_value>0</estimated_value>
+    </item>
+    <item sku="WB-CUTP-0.5-LB" status="No Sales" alert="Review">
+      <product_name>WB-CUTP-0.5-LB</product_name>
+      <qty_on_hand>0</qty_on_hand>
+      <qty_available>0</qty_available>
+      <qty_allocated>0</qty_allocated>
+      <qty_on_order>20</qty_on_order>
+      <days_in_stock>0</days_in_stock>
+      <inventory_age>999</inventory_age>
+      <turnover_rate>0</turnover_rate>
+      <sales_30_day>0</sales_30_day>
+      <sales_90_day>0</sales_90_day>
+      <weighted_daily_velocity>0</weighted_daily_velocity>
+      <last_sale_date></last_sale_date>
+      <estimated_value>0</estimated_value>
+    </item>
+    <item sku="WB-CUTS-0.5-LB" status="No Sales" alert="Review">
+      <product_name>WB-CUTS-0.5-LB</product_name>
+      <qty_on_hand>0</qty_on_hand>
+      <qty_available>0</qty_available>
+      <qty_allocated>0</qty_allocated>
+      <qty_on_order>20</qty_on_order>
+      <days_in_stock>0</days_in_stock>
+      <inventory_age>999</inventory_age>
+      <turnover_rate>0</turnover_rate>
+      <sales_30_day>0</sales_30_day>
+      <sales_90_day>0</sales_90_day>
+      <weighted_daily_velocity>0</weighted_daily_velocity>
+      <last_sale_date></last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
     <item sku="WB-DR-0.5-LB" status="Optimal" alert="Good">
