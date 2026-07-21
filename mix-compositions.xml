@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mix_compositions generated_at="2026-07-21T03:20:19.275Z" feed_last_updated="2026-06-18T12:24:57-06:00">
+<mix_compositions generated_at="2026-07-21T18:17:51.753Z" feed_last_updated="2026-07-21T12:17:11-06:00">
   <mix sku="CV-BGEC-10-LB" category="Conservation">
     <name>Prairie Native Drought-Tolerant &amp; Erosion Control Mix</name>
     <components>
@@ -2932,6 +2932,245 @@
         <species>Layia platyglossa</species>
         <variety>VNS</variety>
         <percentage>4.15</percentage>
+      </component>
+    </components>
+  </mix>
+  <mix sku="WB-CUTC-0.5-LB" category="Wildflower Blend">
+    <name>Cottage Cut Flower Mix</name>
+    <components>
+      <component>
+        <code>COBI</code>
+        <common_name>Cosmos Sensation</common_name>
+        <species>Cosmos bipinnatus</species>
+        <variety>Sensation Mix</variety>
+        <percentage>12.00</percentage>
+      </component>
+      <component>
+        <code>DIBA</code>
+        <common_name>Sweet William</common_name>
+        <species>Dianthus barbatus</species>
+        <variety>Tall Single Mix</variety>
+        <percentage>11.00</percentage>
+      </component>
+      <component>
+        <code>ANMA2</code>
+        <common_name>Snapdragon</common_name>
+        <species>Antirrhinum majus</species>
+        <variety>VNS</variety>
+        <percentage>10.00</percentage>
+      </component>
+      <component>
+        <code>DEAJ</code>
+        <common_name>Rocket Larkspur</common_name>
+        <species>Consolida ajacis</species>
+        <variety>VNS</variety>
+        <percentage>10.00</percentage>
+      </component>
+      <component>
+        <code>PANU</code>
+        <common_name>Iceland Poppy</common_name>
+        <species>Papaver nudicaule</species>
+        <variety>VNS</variety>
+        <percentage>8.00</percentage>
+      </component>
+      <component>
+        <code>CECY</code>
+        <common_name>Bachelor Button</common_name>
+        <species>Centaurea cyanus</species>
+        <variety>Tall Blue</variety>
+        <percentage>8.00</percentage>
+      </component>
+      <component>
+        <code>ZIEL</code>
+        <common_name>Zinnia</common_name>
+        <species>Zinnia elegans</species>
+        <variety>Miss Wilmont Rose</variety>
+        <percentage>8.00</percentage>
+      </component>
+      <component>
+        <code>AMMA</code>
+        <common_name>Queen Anns Lace</common_name>
+        <species>Ammi Majus</species>
+        <variety>VNS</variety>
+        <percentage>8.00</percentage>
+      </component>
+      <component>
+        <code>CLAM</code>
+        <common_name>Farewell-to-Spring</common_name>
+        <species>Clarkia amoena</species>
+        <variety>Tall</variety>
+        <percentage>7.00</percentage>
+      </component>
+      <component>
+        <code>LAOD</code>
+        <common_name>Sweet Pea</common_name>
+        <species>Lathyrus odoratus</species>
+        <variety>Bijou Mix</variety>
+        <percentage>6.00</percentage>
+      </component>
+      <component>
+        <code>ACMI</code>
+        <common_name>White Yarrow</common_name>
+        <species>Achillea millefolium</species>
+        <variety>VNS</variety>
+        <percentage>6.00</percentage>
+      </component>
+      <component>
+        <code>ANGR</code>
+        <common_name>Dill</common_name>
+        <species>Anethum Graveolens</species>
+        <variety>Bouquet</variety>
+        <percentage>6.00</percentage>
+      </component>
+    </components>
+  </mix>
+  <mix sku="WB-CUTP-0.5-LB" category="Wildflower Blend">
+    <name>Perennial Cut Flower Mix</name>
+    <components>
+      <component>
+        <code>ECPU</code>
+        <common_name>Purple Coneflower</common_name>
+        <species>Echinacea purpurea</species>
+        <variety>VNS</variety>
+        <percentage>16.00</percentage>
+      </component>
+      <component>
+        <code>CHMA</code>
+        <common_name>Shasta Daisy</common_name>
+        <species>Chrysanthemum maximum</species>
+        <variety>Alaska</variety>
+        <percentage>14.00</percentage>
+      </component>
+      <component>
+        <code>DIBA</code>
+        <common_name>Sweet William</common_name>
+        <species>Dianthus barbatus</species>
+        <variety>Tall Single Mix</variety>
+        <percentage>12.00</percentage>
+      </component>
+      <component>
+        <code>MOFI</code>
+        <common_name>Wild Bergamot</common_name>
+        <species>Monarda Fistulaosa</species>
+        <variety>VNS</variety>
+        <percentage>11.00</percentage>
+      </component>
+      <component>
+        <code>LUPO</code>
+        <common_name>Big Leaf Lupine</common_name>
+        <species>Lupinus polyphyllus</species>
+        <variety>Russell Hybrid</variety>
+        <percentage>9.00</percentage>
+      </component>
+      <component>
+        <code>LISP</code>
+        <common_name>Blazing Star</common_name>
+        <species>Liatris spicata</species>
+        <variety>VNS</variety>
+        <percentage>9.00</percentage>
+      </component>
+      <component>
+        <code>ASCH</code>
+        <common_name>Pacific Aster</common_name>
+        <species>Aster cilensis</species>
+        <variety>VNS</variety>
+        <percentage>8.00</percentage>
+      </component>
+      <component>
+        <code>ACMI</code>
+        <common_name>White Yarrow</common_name>
+        <species>Achillea millefolium</species>
+        <variety>VNS</variety>
+        <percentage>8.00</percentage>
+      </component>
+      <component>
+        <code>PEST</code>
+        <common_name>Penstemon, Rocky Mountain</common_name>
+        <species>Penstemon strictus</species>
+        <variety>VNS</variety>
+        <percentage>7.00</percentage>
+      </component>
+      <component>
+        <code>AQCO</code>
+        <common_name>Columbine</common_name>
+        <species>Aquilegia coerulea</species>
+        <variety>McKana&apos;s Giants Mix</variety>
+        <percentage>6.00</percentage>
+      </component>
+    </components>
+  </mix>
+  <mix sku="WB-CUTS-0.5-LB" category="Wildflower Blend">
+    <name>Sunset Cut Flower Mix</name>
+    <components>
+      <component>
+        <code>CAOF</code>
+        <common_name>Pot Marigold</common_name>
+        <species>Calendula officinalis</species>
+        <variety>Pacific Beauty</variety>
+        <percentage>15.00</percentage>
+      </component>
+      <component>
+        <code>COSU</code>
+        <common_name>Sulfur Cosmos</common_name>
+        <species>Cosmos sulphureus</species>
+        <variety>Bright Lights</variety>
+        <percentage>14.00</percentage>
+      </component>
+      <component>
+        <code>TAER</code>
+        <common_name>African Marigold</common_name>
+        <species>Tagetes erecta</species>
+        <variety>Cracker Jack</variety>
+        <percentage>12.00</percentage>
+      </component>
+      <component>
+        <code>RUGL</code>
+        <common_name>Gloriosa Daisy</common_name>
+        <species>Rudbeckia gloriosa</species>
+        <variety>VNS</variety>
+        <percentage>12.00</percentage>
+      </component>
+      <component>
+        <code>TIRO</code>
+        <common_name>Mexican Sunflower</common_name>
+        <species>Tithonia rotundifolia</species>
+        <variety>Torch</variety>
+        <percentage>10.00</percentage>
+      </component>
+      <component>
+        <code>GAAR</code>
+        <common_name>Blanketflower</common_name>
+        <species>Gaillardia aristata</species>
+        <variety>VNS</variety>
+        <percentage>10.00</percentage>
+      </component>
+      <component>
+        <code>ZIEL</code>
+        <common_name>Zinnia</common_name>
+        <species>Zinnia elegans</species>
+        <variety>Salmon Queen</variety>
+        <percentage>9.00</percentage>
+      </component>
+      <component>
+        <code>SACO</code>
+        <common_name>Scarlet Sage</common_name>
+        <species>Salvia coccinea</species>
+        <variety>VNS</variety>
+        <percentage>8.00</percentage>
+      </component>
+      <component>
+        <code>COTI</code>
+        <common_name>Plains Coreopsis</common_name>
+        <species>Coreopsis tinctoria</species>
+        <variety>Tall</variety>
+        <percentage>6.00</percentage>
+      </component>
+      <component>
+        <code>GAPU</code>
+        <common_name>Firewheel</common_name>
+        <species>Gaillardia pulchella</species>
+        <variety>VNS</variety>
+        <percentage>4.00</percentage>
       </component>
     </components>
   </mix>
