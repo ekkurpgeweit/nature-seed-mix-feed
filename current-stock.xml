@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<current_stock generated_at="2026-07-22T20:19:19.867Z" sales_channel="woocommerce" feed_last_updated="2026-07-22">
+<current_stock generated_at="2026-07-22T22:14:11.967Z" sales_channel="woocommerce" feed_last_updated="2026-07-22">
   <summary>
     <total_skus>132</total_skus>
-    <total_value>10356</total_value>
+    <total_value>10342</total_value>
     <low_stock_count>6</low_stock_count>
     <overstock_count>66</overstock_count>
     <no_sales_count>18</no_sales_count>
     <new_count>0</new_count>
     <critical_alerts>3</critical_alerts>
     <warning_alerts>69</warning_alerts>
-    <avg_turnover_rate>7.54</avg_turnover_rate>
+    <avg_turnover_rate>7.55</avg_turnover_rate>
   </summary>
   <items>
     <item sku="2750AL-A" status="Overstock" alert="Warning">
@@ -974,13 +974,13 @@
     </item>
     <item sku="PG-TRPR-5-LB" status="Optimal" alert="Good">
       <product_name>PG-TRPR-5-LB</product_name>
-      <qty_on_hand>32</qty_on_hand>
+      <qty_on_hand>31</qty_on_hand>
       <qty_available>31</qty_available>
-      <qty_allocated>1</qty_allocated>
+      <qty_allocated>0</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>22.1</days_in_stock>
       <inventory_age>2</inventory_age>
-      <turnover_rate>18</turnover_rate>
+      <turnover_rate>18.58</turnover_rate>
       <sales_30_day>37</sales_30_day>
       <sales_90_day>142</sales_90_day>
       <weighted_daily_velocity>1.41</weighted_daily_velocity>
@@ -1049,13 +1049,13 @@
     </item>
     <item sku="S-DUTCH-5-LB" status="Optimal" alert="Good">
       <product_name>S-DUTCH-5-LB</product_name>
-      <qty_on_hand>311</qty_on_hand>
+      <qty_on_hand>310</qty_on_hand>
       <qty_available>308</qty_available>
-      <qty_allocated>3</qty_allocated>
+      <qty_allocated>2</qty_allocated>
       <qty_on_order>1</qty_on_order>
       <days_in_stock>75.6</days_in_stock>
       <inventory_age>3</inventory_age>
-      <turnover_rate>5.18</turnover_rate>
+      <turnover_rate>5.19</turnover_rate>
       <sales_30_day>112</sales_30_day>
       <sales_90_day>397</sales_90_day>
       <weighted_daily_velocity>4.07</weighted_daily_velocity>
@@ -1229,13 +1229,13 @@
     </item>
     <item sku="TURF-FINE-5-LB" status="Optimal" alert="Good">
       <product_name>TURF-FINE-5-LB</product_name>
-      <qty_on_hand>254</qty_on_hand>
+      <qty_on_hand>242</qty_on_hand>
       <qty_available>226</qty_available>
-      <qty_allocated>28</qty_allocated>
+      <qty_allocated>16</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>52.9</days_in_stock>
       <inventory_age>1</inventory_age>
-      <turnover_rate>7.73</turnover_rate>
+      <turnover_rate>8.11</turnover_rate>
       <sales_30_day>95</sales_30_day>
       <sales_90_day>484</sales_90_day>
       <weighted_daily_velocity>4.27</weighted_daily_velocity>
