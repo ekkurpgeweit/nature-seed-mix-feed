@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<current_stock generated_at="2026-07-30T20:22:10.237Z" sales_channel="woocommerce" feed_last_updated="2026-07-30">
+<current_stock generated_at="2026-07-30T22:16:08.193Z" sales_channel="woocommerce" feed_last_updated="2026-07-30">
   <summary>
     <total_skus>132</total_skus>
     <total_value>10422</total_value>
@@ -60,10 +60,10 @@
     <item sku="CV-CNEC-5-LB" status="Optimal" alert="Good">
       <product_name>CV-CNEC-5-LB</product_name>
       <qty_on_hand>3</qty_on_hand>
-      <qty_available>3</qty_available>
-      <qty_allocated>0</qty_allocated>
+      <qty_available>2</qty_available>
+      <qty_allocated>1</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>28.4</days_in_stock>
+      <days_in_stock>18.9</days_in_stock>
       <inventory_age>17</inventory_age>
       <turnover_rate>21.63</turnover_rate>
       <sales_30_day>1</sales_30_day>
@@ -1050,10 +1050,10 @@
     <item sku="S-DUTCH-5-LB" status="Optimal" alert="Good">
       <product_name>S-DUTCH-5-LB</product_name>
       <qty_on_hand>263</qty_on_hand>
-      <qty_available>260</qty_available>
-      <qty_allocated>3</qty_allocated>
+      <qty_available>259</qty_available>
+      <qty_allocated>4</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>68.2</days_in_stock>
+      <days_in_stock>68</days_in_stock>
       <inventory_age>1</inventory_age>
       <turnover_rate>5.86</turnover_rate>
       <sales_30_day>102</sales_30_day>
@@ -1110,10 +1110,10 @@
     <item sku="S-RICE-45-LB" status="Overstock" alert="Warning">
       <product_name>S-RICE-45-LB</product_name>
       <qty_on_hand>42</qty_on_hand>
-      <qty_available>42</qty_available>
-      <qty_allocated>0</qty_allocated>
+      <qty_available>41</qty_available>
+      <qty_allocated>1</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>151.2</days_in_stock>
+      <days_in_stock>147.6</days_in_stock>
       <inventory_age>17</inventory_age>
       <turnover_rate>3.38</turnover_rate>
       <sales_30_day>5</sales_30_day>
@@ -1755,10 +1755,10 @@
     <item sku="WB-AN-0.5-LB" status="Overstock" alert="Warning">
       <product_name>WB-AN-0.5-LB</product_name>
       <qty_on_hand>113</qty_on_hand>
-      <qty_available>113</qty_available>
-      <qty_allocated>0</qty_allocated>
+      <qty_available>111</qty_available>
+      <qty_allocated>2</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>228.5</days_in_stock>
+      <days_in_stock>224.5</days_in_stock>
       <inventory_age>4</inventory_age>
       <turnover_rate>2.55</turnover_rate>
       <sales_30_day>6</sales_30_day>
@@ -1770,10 +1770,10 @@
     <item sku="WB-CALN-0.5-LB" status="Optimal" alert="Good">
       <product_name>WB-CALN-0.5-LB</product_name>
       <qty_on_hand>151</qty_on_hand>
-      <qty_available>151</qty_available>
-      <qty_allocated>0</qty_allocated>
+      <qty_available>149</qty_available>
+      <qty_allocated>2</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>68.8</days_in_stock>
+      <days_in_stock>67.9</days_in_stock>
       <inventory_age>2</inventory_age>
       <turnover_rate>4.73</turnover_rate>
       <sales_30_day>73</sales_30_day>
