@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<current_stock generated_at="2026-07-31T20:26:53.769Z" sales_channel="woocommerce" feed_last_updated="2026-07-31">
+<current_stock generated_at="2026-07-31T22:14:12.831Z" sales_channel="woocommerce" feed_last_updated="2026-07-31">
   <summary>
     <total_skus>132</total_skus>
     <total_value>10335</total_value>
@@ -7,8 +7,8 @@
     <overstock_count>66</overstock_count>
     <no_sales_count>15</no_sales_count>
     <new_count>0</new_count>
-    <critical_alerts>2</critical_alerts>
-    <warning_alerts>67</warning_alerts>
+    <critical_alerts>3</critical_alerts>
+    <warning_alerts>66</warning_alerts>
     <avg_turnover_rate>7.14</avg_turnover_rate>
   </summary>
   <items>
@@ -300,8 +300,8 @@
     <item sku="PB-GOAT-10-LB" status="No Sales" alert="Review">
       <product_name>PB-GOAT-10-LB</product_name>
       <qty_on_hand>135</qty_on_hand>
-      <qty_available>135</qty_available>
-      <qty_allocated>0</qty_allocated>
+      <qty_available>133</qty_available>
+      <qty_allocated>2</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>0</days_in_stock>
       <inventory_age>999</inventory_age>
@@ -1065,10 +1065,10 @@
     <item sku="S-FEOV-5-LB" status="Overstock" alert="Warning">
       <product_name>S-FEOV-5-LB</product_name>
       <qty_on_hand>168</qty_on_hand>
-      <qty_available>168</qty_available>
-      <qty_allocated>0</qty_allocated>
+      <qty_available>166</qty_available>
+      <qty_allocated>2</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>170.8</days_in_stock>
+      <days_in_stock>168.8</days_in_stock>
       <inventory_age>6</inventory_age>
       <turnover_rate>2.53</turnover_rate>
       <sales_30_day>24</sales_30_day>
@@ -1347,13 +1347,13 @@
       <last_sale_date>2026-07-30</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
-    <item sku="TURF-W-BR-5-LB" status="Low Stock" alert="Warning">
+    <item sku="TURF-W-BR-5-LB" status="Low Stock" alert="Critical">
       <product_name>TURF-W-BR-5-LB</product_name>
       <qty_on_hand>29</qty_on_hand>
-      <qty_available>27</qty_available>
-      <qty_allocated>2</qty_allocated>
+      <qty_available>22</qty_available>
+      <qty_allocated>7</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>8.2</days_in_stock>
+      <days_in_stock>6.7</days_in_stock>
       <inventory_age>0</inventory_age>
       <turnover_rate>47.83</turnover_rate>
       <sales_30_day>84</sales_30_day>
@@ -1425,10 +1425,10 @@
     <item sku="W-ACLA-0.25-LB" status="Optimal" alert="Good">
       <product_name>W-ACLA-0.25-LB</product_name>
       <qty_on_hand>16</qty_on_hand>
-      <qty_available>16</qty_available>
-      <qty_allocated>0</qty_allocated>
+      <qty_available>15</qty_available>
+      <qty_allocated>1</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>27.7</days_in_stock>
+      <days_in_stock>26</days_in_stock>
       <inventory_age>4</inventory_age>
       <turnover_rate>18</turnover_rate>
       <sales_30_day>11</sales_30_day>
@@ -1860,10 +1860,10 @@
     <item sku="WB-FLCO-0.5-LB" status="Overstock" alert="Warning">
       <product_name>WB-FLCO-0.5-LB</product_name>
       <qty_on_hand>58</qty_on_hand>
-      <qty_available>58</qty_available>
-      <qty_allocated>0</qty_allocated>
+      <qty_available>56</qty_available>
+      <qty_allocated>2</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>114.7</days_in_stock>
+      <days_in_stock>110.8</days_in_stock>
       <inventory_age>6</inventory_age>
       <turnover_rate>4.06</turnover_rate>
       <sales_30_day>11</sales_30_day>
