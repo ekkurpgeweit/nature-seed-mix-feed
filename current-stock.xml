@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<current_stock generated_at="2026-08-01T20:15:21.088Z" sales_channel="woocommerce" feed_last_updated="2026-08-01">
+<current_stock generated_at="2026-08-01T22:04:17.506Z" sales_channel="woocommerce" feed_last_updated="2026-08-01">
   <summary>
     <total_skus>132</total_skus>
     <total_value>10335</total_value>
@@ -375,10 +375,10 @@
     <item sku="PB-HRSE-SO-10-LB" status="Optimal" alert="Good">
       <product_name>PB-HRSE-SO-10-LB</product_name>
       <qty_on_hand>163</qty_on_hand>
-      <qty_available>158</qty_available>
-      <qty_allocated>5</qty_allocated>
+      <qty_available>156</qty_available>
+      <qty_allocated>7</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>61.6</days_in_stock>
+      <days_in_stock>60.8</days_in_stock>
       <inventory_age>5</inventory_age>
       <turnover_rate>7.54</turnover_rate>
       <sales_30_day>53</sales_30_day>
@@ -735,10 +735,10 @@
     <item sku="PG-MEOF-5-LB" status="Overstock" alert="Warning">
       <product_name>PG-MEOF-5-LB</product_name>
       <qty_on_hand>39</qty_on_hand>
-      <qty_available>39</qty_available>
-      <qty_allocated>0</qty_allocated>
+      <qty_available>37</qty_available>
+      <qty_allocated>2</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>101.7</days_in_stock>
+      <days_in_stock>96.5</days_in_stock>
       <inventory_age>5</inventory_age>
       <turnover_rate>2.18</turnover_rate>
       <sales_30_day>16</sales_30_day>
@@ -1410,10 +1410,10 @@
     <item sku="TURF-WSHD-5-LB" status="Optimal" alert="Good">
       <product_name>TURF-WSHD-5-LB</product_name>
       <qty_on_hand>58</qty_on_hand>
-      <qty_available>54</qty_available>
-      <qty_allocated>4</qty_allocated>
+      <qty_available>52</qty_available>
+      <qty_allocated>6</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>25.1</days_in_stock>
+      <days_in_stock>24.1</days_in_stock>
       <inventory_age>3</inventory_age>
       <turnover_rate>18.32</turnover_rate>
       <sales_30_day>42</sales_30_day>
