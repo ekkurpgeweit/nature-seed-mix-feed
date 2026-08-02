@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<current_stock generated_at="2026-08-02T14:42:58.389Z" sales_channel="woocommerce" feed_last_updated="2026-08-02">
+<current_stock generated_at="2026-08-02T16:09:12.359Z" sales_channel="woocommerce" feed_last_updated="2026-08-02">
   <summary>
     <total_skus>132</total_skus>
     <total_value>10335</total_value>
@@ -1035,10 +1035,10 @@
     <item sku="S-AGPA8-1-LB" status="Optimal" alert="Good">
       <product_name>S-AGPA8-1-LB</product_name>
       <qty_on_hand>6</qty_on_hand>
-      <qty_available>6</qty_available>
-      <qty_allocated>0</qty_allocated>
+      <qty_available>5</qty_available>
+      <qty_allocated>1</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>45</days_in_stock>
+      <days_in_stock>37.5</days_in_stock>
       <inventory_age>3</inventory_age>
       <turnover_rate>8.11</turnover_rate>
       <sales_30_day>4</sales_30_day>
@@ -1530,10 +1530,10 @@
     <item sku="W-ENFA-0.25-LB" status="Optimal" alert="Good">
       <product_name>W-ENFA-0.25-LB</product_name>
       <qty_on_hand>26</qty_on_hand>
-      <qty_available>26</qty_available>
-      <qty_allocated>0</qty_allocated>
+      <qty_available>25</qty_available>
+      <qty_allocated>1</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>64.1</days_in_stock>
+      <days_in_stock>61.6</days_in_stock>
       <inventory_age>7</inventory_age>
       <turnover_rate>7.18</turnover_rate>
       <sales_30_day>9</sales_30_day>
@@ -1770,10 +1770,10 @@
     <item sku="WB-CALN-0.5-LB" status="Optimal" alert="Good">
       <product_name>WB-CALN-0.5-LB</product_name>
       <qty_on_hand>149</qty_on_hand>
-      <qty_available>149</qty_available>
-      <qty_allocated>0</qty_allocated>
+      <qty_available>148</qty_available>
+      <qty_allocated>1</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>86.5</days_in_stock>
+      <days_in_stock>85.9</days_in_stock>
       <inventory_age>3</inventory_age>
       <turnover_rate>4.84</turnover_rate>
       <sales_30_day>44</sales_30_day>
