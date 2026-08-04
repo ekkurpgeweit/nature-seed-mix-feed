@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<current_stock generated_at="2026-08-04T20:40:03.252Z" sales_channel="woocommerce" feed_last_updated="2026-08-04">
+<current_stock generated_at="2026-08-04T22:20:41.460Z" sales_channel="woocommerce" feed_last_updated="2026-08-04">
   <summary>
     <total_skus>132</total_skus>
     <total_value>10184</total_value>
@@ -450,10 +450,10 @@
     <item sku="PB-PIG-10-LB" status="Overstock" alert="Warning">
       <product_name>PB-PIG-10-LB</product_name>
       <qty_on_hand>75</qty_on_hand>
-      <qty_available>72</qty_available>
-      <qty_allocated>3</qty_allocated>
+      <qty_available>68</qty_available>
+      <qty_allocated>7</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>101.3</days_in_stock>
+      <days_in_stock>95.6</days_in_stock>
       <inventory_age>6</inventory_age>
       <turnover_rate>4.81</turnover_rate>
       <sales_30_day>13</sales_30_day>
@@ -1980,10 +1980,10 @@
     <item sku="WB-XCVP-0.5-LB" status="Overstock" alert="Warning">
       <product_name>WB-XCVP-0.5-LB</product_name>
       <qty_on_hand>60</qty_on_hand>
-      <qty_available>60</qty_available>
-      <qty_allocated>0</qty_allocated>
+      <qty_available>59</qty_available>
+      <qty_allocated>1</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>174.2</days_in_stock>
+      <days_in_stock>171.3</days_in_stock>
       <inventory_age>6</inventory_age>
       <turnover_rate>2.16</turnover_rate>
       <sales_30_day>10</sales_30_day>
