@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<current_stock generated_at="2026-08-08T21:39:30.773Z" sales_channel="woocommerce" feed_last_updated="2026-08-08">
+<current_stock generated_at="2026-08-08T23:37:57.212Z" sales_channel="woocommerce" feed_last_updated="2026-08-08">
   <summary>
     <total_skus>132</total_skus>
     <total_value>10055</total_value>
@@ -1215,10 +1215,10 @@
     <item sku="TURF-CLV-5-LB" status="Optimal" alert="Good">
       <product_name>TURF-CLV-5-LB</product_name>
       <qty_on_hand>244</qty_on_hand>
-      <qty_available>220</qty_available>
-      <qty_allocated>24</qty_allocated>
+      <qty_available>218</qty_available>
+      <qty_allocated>26</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>30.2</days_in_stock>
+      <days_in_stock>29.9</days_in_stock>
       <inventory_age>1</inventory_age>
       <turnover_rate>11.98</turnover_rate>
       <sales_30_day>197</sales_30_day>
@@ -1230,10 +1230,10 @@
     <item sku="TURF-FINE-5-LB" status="Optimal" alert="Good">
       <product_name>TURF-FINE-5-LB</product_name>
       <qty_on_hand>153</qty_on_hand>
-      <qty_available>138</qty_available>
-      <qty_allocated>15</qty_allocated>
+      <qty_available>136</qty_available>
+      <qty_allocated>17</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>32.9</days_in_stock>
+      <days_in_stock>32.5</days_in_stock>
       <inventory_age>2</inventory_age>
       <turnover_rate>10.52</turnover_rate>
       <sales_30_day>119</sales_30_day>
@@ -1350,10 +1350,10 @@
     <item sku="TURF-W-BR-5-LB" status="Optimal" alert="Good">
       <product_name>TURF-W-BR-5-LB</product_name>
       <qty_on_hand>281</qty_on_hand>
-      <qty_available>270</qty_available>
-      <qty_allocated>11</qty_allocated>
+      <qty_available>268</qty_available>
+      <qty_allocated>13</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>73.3</days_in_stock>
+      <days_in_stock>72.8</days_in_stock>
       <inventory_age>1</inventory_age>
       <turnover_rate>4.59</turnover_rate>
       <sales_30_day>115</sales_30_day>
