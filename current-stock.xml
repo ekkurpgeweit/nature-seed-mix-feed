@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<current_stock generated_at="2026-08-10T21:52:50.463Z" sales_channel="woocommerce" feed_last_updated="2026-08-10">
+<current_stock generated_at="2026-08-10T23:44:00.654Z" sales_channel="woocommerce" feed_last_updated="2026-08-10">
   <summary>
     <total_skus>132</total_skus>
     <total_value>10052</total_value>
     <low_stock_count>8</low_stock_count>
-    <overstock_count>66</overstock_count>
+    <overstock_count>65</overstock_count>
     <no_sales_count>17</no_sales_count>
     <new_count>0</new_count>
     <critical_alerts>4</critical_alerts>
-    <warning_alerts>70</warning_alerts>
+    <warning_alerts>69</warning_alerts>
     <avg_turnover_rate>17.15</avg_turnover_rate>
   </summary>
   <items>
@@ -285,10 +285,10 @@
     <item sku="PB-GAME-10-LB" status="Optimal" alert="Good">
       <product_name>PB-GAME-10-LB</product_name>
       <qty_on_hand>96</qty_on_hand>
-      <qty_available>91</qty_available>
-      <qty_allocated>5</qty_allocated>
+      <qty_available>87</qty_available>
+      <qty_allocated>9</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>40.3</days_in_stock>
+      <days_in_stock>38.6</days_in_stock>
       <inventory_age>3</inventory_age>
       <turnover_rate>10.18</turnover_rate>
       <sales_30_day>55</sales_30_day>
@@ -390,10 +390,10 @@
     <item sku="PB-HRSE-TR-10-LB" status="Overstock" alert="Warning">
       <product_name>PB-HRSE-TR-10-LB</product_name>
       <qty_on_hand>398</qty_on_hand>
-      <qty_available>386</qty_available>
-      <qty_allocated>12</qty_allocated>
+      <qty_available>385</qty_available>
+      <qty_allocated>13</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>311.6</days_in_stock>
+      <days_in_stock>310.8</days_in_stock>
       <inventory_age>7</inventory_age>
       <turnover_rate>1.11</turnover_rate>
       <sales_30_day>38</sales_30_day>
@@ -777,13 +777,13 @@
       <last_sale_date></last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
-    <item sku="PG-PANO-5-LB" status="Overstock" alert="Warning">
+    <item sku="PG-PANO-5-LB" status="Optimal" alert="Good">
       <product_name>PG-PANO-5-LB</product_name>
       <qty_on_hand>18</qty_on_hand>
-      <qty_available>18</qty_available>
-      <qty_allocated>0</qty_allocated>
+      <qty_available>3</qty_available>
+      <qty_allocated>15</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>135</days_in_stock>
+      <days_in_stock>22.5</days_in_stock>
       <inventory_age>8</inventory_age>
       <turnover_rate>1.35</turnover_rate>
       <sales_30_day>6</sales_30_day>
@@ -1155,10 +1155,10 @@
     <item sku="SUSTANE-18-1-8+FE" status="Overstock" alert="Warning">
       <product_name>SUSTANE-18-1-8+FE</product_name>
       <qty_on_hand>30</qty_on_hand>
-      <qty_available>30</qty_available>
-      <qty_allocated>0</qty_allocated>
+      <qty_available>26</qty_available>
+      <qty_allocated>4</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>1800</days_in_stock>
+      <days_in_stock>1560</days_in_stock>
       <inventory_age>37</inventory_age>
       <turnover_rate>0.41</turnover_rate>
       <sales_30_day>0</sales_30_day>
@@ -1170,10 +1170,10 @@
     <item sku="SUSTANE-4-6-4" status="Optimal" alert="Good">
       <product_name>SUSTANE-4-6-4</product_name>
       <qty_on_hand>23</qty_on_hand>
-      <qty_available>22</qty_available>
-      <qty_allocated>1</qty_allocated>
+      <qty_available>18</qty_available>
+      <qty_allocated>5</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>34.4</days_in_stock>
+      <days_in_stock>28.2</days_in_stock>
       <inventory_age>4</inventory_age>
       <turnover_rate>11.29</turnover_rate>
       <sales_30_day>17</sales_30_day>
