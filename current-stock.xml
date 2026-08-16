@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<current_stock generated_at="2026-08-16T21:29:14.317Z" sales_channel="woocommerce" feed_last_updated="2026-08-16">
+<current_stock generated_at="2026-08-16T23:29:11.201Z" sales_channel="woocommerce" feed_last_updated="2026-08-16">
   <summary>
     <total_skus>132</total_skus>
     <total_value>10628</total_value>
@@ -225,10 +225,10 @@
     <item sku="PB-COW-SO-10-LB" status="Optimal" alert="Good">
       <product_name>PB-COW-SO-10-LB</product_name>
       <qty_on_hand>62</qty_on_hand>
-      <qty_available>62</qty_available>
-      <qty_allocated>0</qty_allocated>
+      <qty_available>57</qty_available>
+      <qty_allocated>5</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>45.9</days_in_stock>
+      <days_in_stock>42.2</days_in_stock>
       <inventory_age>6</inventory_age>
       <turnover_rate>8.05</turnover_rate>
       <sales_30_day>40</sales_30_day>
@@ -510,8 +510,8 @@
     <item sku="PB-SHEP-10-LB" status="No Sales" alert="Review">
       <product_name>PB-SHEP-10-LB</product_name>
       <qty_on_hand>180</qty_on_hand>
-      <qty_available>179</qty_available>
-      <qty_allocated>1</qty_allocated>
+      <qty_available>174</qty_available>
+      <qty_allocated>6</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>0</days_in_stock>
       <inventory_age>999</inventory_age>
@@ -855,10 +855,10 @@
     <item sku="PG-SECE-5-LB" status="Optimal" alert="Good">
       <product_name>PG-SECE-5-LB</product_name>
       <qty_on_hand>78</qty_on_hand>
-      <qty_available>68</qty_available>
-      <qty_allocated>10</qty_allocated>
+      <qty_available>67</qty_available>
+      <qty_allocated>11</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>32.6</days_in_stock>
+      <days_in_stock>32.1</days_in_stock>
       <inventory_age>3</inventory_age>
       <turnover_rate>8.01</turnover_rate>
       <sales_30_day>74</sales_30_day>
@@ -1050,10 +1050,10 @@
     <item sku="S-DUTCH-5-LB" status="Optimal" alert="Good">
       <product_name>S-DUTCH-5-LB</product_name>
       <qty_on_hand>199</qty_on_hand>
-      <qty_available>194</qty_available>
-      <qty_allocated>5</qty_allocated>
+      <qty_available>193</qty_available>
+      <qty_allocated>6</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>51</days_in_stock>
+      <days_in_stock>50.7</days_in_stock>
       <inventory_age>2</inventory_age>
       <turnover_rate>7.05</turnover_rate>
       <sales_30_day>113</sales_30_day>
@@ -1110,10 +1110,10 @@
     <item sku="S-RICE-45-LB" status="Overstock" alert="Warning">
       <product_name>S-RICE-45-LB</product_name>
       <qty_on_hand>28</qty_on_hand>
-      <qty_available>23</qty_available>
-      <qty_allocated>5</qty_allocated>
+      <qty_available>22</qty_available>
+      <qty_allocated>6</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>108.9</days_in_stock>
+      <days_in_stock>104.2</days_in_stock>
       <inventory_age>9</inventory_age>
       <turnover_rate>4.2</turnover_rate>
       <sales_30_day>3</sales_30_day>
@@ -1125,10 +1125,10 @@
     <item sku="S-RICE-5-LB" status="Overstock" alert="Warning">
       <product_name>S-RICE-5-LB</product_name>
       <qty_on_hand>500</qty_on_hand>
-      <qty_available>480</qty_available>
-      <qty_allocated>20</qty_allocated>
+      <qty_available>479</qty_available>
+      <qty_allocated>21</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>164.9</days_in_stock>
+      <days_in_stock>164.5</days_in_stock>
       <inventory_age>4</inventory_age>
       <turnover_rate>2.28</turnover_rate>
       <sales_30_day>81</sales_30_day>
@@ -1230,10 +1230,10 @@
     <item sku="TURF-FINE-5-LB" status="Optimal" alert="Good">
       <product_name>TURF-FINE-5-LB</product_name>
       <qty_on_hand>96</qty_on_hand>
-      <qty_available>70</qty_available>
-      <qty_allocated>26</qty_allocated>
+      <qty_available>69</qty_available>
+      <qty_allocated>27</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>15.1</days_in_stock>
+      <days_in_stock>14.9</days_in_stock>
       <inventory_age>3</inventory_age>
       <turnover_rate>17.07</turnover_rate>
       <sales_30_day>144</sales_30_day>
@@ -1350,10 +1350,10 @@
     <item sku="TURF-W-BR-5-LB" status="Optimal" alert="Good">
       <product_name>TURF-W-BR-5-LB</product_name>
       <qty_on_hand>222</qty_on_hand>
-      <qty_available>174</qty_available>
-      <qty_allocated>48</qty_allocated>
+      <qty_available>170</qty_available>
+      <qty_allocated>52</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>38.4</days_in_stock>
+      <days_in_stock>37.5</days_in_stock>
       <inventory_age>2</inventory_age>
       <turnover_rate>6.34</turnover_rate>
       <sales_30_day>156</sales_30_day>
