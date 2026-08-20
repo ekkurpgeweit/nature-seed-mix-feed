@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<current_stock generated_at="2026-08-20T13:53:46.326Z" sales_channel="woocommerce" feed_last_updated="2026-08-20">
+<current_stock generated_at="2026-08-20T15:42:05.050Z" sales_channel="woocommerce" feed_last_updated="2026-08-20">
   <summary>
     <total_skus>132</total_skus>
-    <total_value>10389</total_value>
-    <low_stock_count>11</low_stock_count>
-    <overstock_count>73</overstock_count>
+    <total_value>10591</total_value>
+    <low_stock_count>10</low_stock_count>
+    <overstock_count>74</overstock_count>
     <no_sales_count>13</no_sales_count>
     <new_count>0</new_count>
     <critical_alerts>7</critical_alerts>
     <warning_alerts>77</warning_alerts>
-    <avg_turnover_rate>13.92</avg_turnover_rate>
+    <avg_turnover_rate>13.74</avg_turnover_rate>
   </summary>
   <items>
     <item sku="2750AL-A" status="Overstock" alert="Warning">
@@ -330,10 +330,10 @@
     <item sku="PB-GRSC-10-LB" status="Optimal" alert="Good">
       <product_name>PB-GRSC-10-LB</product_name>
       <qty_on_hand>122</qty_on_hand>
-      <qty_available>122</qty_available>
-      <qty_allocated>0</qty_allocated>
+      <qty_available>117</qty_available>
+      <qty_allocated>5</qty_allocated>
       <qty_on_order>500</qty_on_order>
-      <days_in_stock>46.5</days_in_stock>
+      <days_in_stock>44.6</days_in_stock>
       <inventory_age>3</inventory_age>
       <turnover_rate>10.21</turnover_rate>
       <sales_30_day>55</sales_30_day>
@@ -1050,10 +1050,10 @@
     <item sku="S-DUTCH-5-LB" status="Optimal" alert="Good">
       <product_name>S-DUTCH-5-LB</product_name>
       <qty_on_hand>179</qty_on_hand>
-      <qty_available>177</qty_available>
-      <qty_allocated>2</qty_allocated>
+      <qty_available>175</qty_available>
+      <qty_allocated>4</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>43.6</days_in_stock>
+      <days_in_stock>43.2</days_in_stock>
       <inventory_age>1</inventory_age>
       <turnover_rate>7.98</turnover_rate>
       <sales_30_day>126</sales_30_day>
@@ -1095,10 +1095,10 @@
     <item sku="S-MICRO-1-LB" status="Optimal" alert="Good">
       <product_name>S-MICRO-1-LB</product_name>
       <qty_on_hand>139</qty_on_hand>
-      <qty_available>138</qty_available>
-      <qty_allocated>1</qty_allocated>
+      <qty_available>137</qty_available>
+      <qty_allocated>2</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>72.8</days_in_stock>
+      <days_in_stock>72.3</days_in_stock>
       <inventory_age>1</inventory_age>
       <turnover_rate>4.61</turnover_rate>
       <sales_30_day>61</sales_30_day>
@@ -1215,10 +1215,10 @@
     <item sku="TURF-CLV-5-LB" status="Low Stock" alert="Warning">
       <product_name>TURF-CLV-5-LB</product_name>
       <qty_on_hand>86</qty_on_hand>
-      <qty_available>84</qty_available>
-      <qty_allocated>2</qty_allocated>
+      <qty_available>82</qty_available>
+      <qty_allocated>4</qty_allocated>
       <qty_on_order>600</qty_on_order>
-      <days_in_stock>9.6</days_in_stock>
+      <days_in_stock>9.4</days_in_stock>
       <inventory_age>1</inventory_age>
       <turnover_rate>33.72</turnover_rate>
       <sales_30_day>286</sales_30_day>
@@ -1272,15 +1272,15 @@
       <last_sale_date>2026-08-17</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
-    <item sku="TURF-JBR-5-LB" status="Low Stock" alert="Warning">
+    <item sku="TURF-JBR-5-LB" status="Overstock" alert="Warning">
       <product_name>TURF-JBR-5-LB</product_name>
-      <qty_on_hand>22</qty_on_hand>
-      <qty_available>16</qty_available>
-      <qty_allocated>6</qty_allocated>
-      <qty_on_order>200</qty_on_order>
-      <days_in_stock>8.2</days_in_stock>
+      <qty_on_hand>224</qty_on_hand>
+      <qty_available>217</qty_available>
+      <qty_allocated>7</qty_allocated>
+      <qty_on_order>0</qty_on_order>
+      <days_in_stock>111</days_in_stock>
       <inventory_age>2</inventory_age>
-      <turnover_rate>26.18</turnover_rate>
+      <turnover_rate>2.57</turnover_rate>
       <sales_30_day>70</sales_30_day>
       <sales_90_day>142</sales_90_day>
       <weighted_daily_velocity>1.96</weighted_daily_velocity>
