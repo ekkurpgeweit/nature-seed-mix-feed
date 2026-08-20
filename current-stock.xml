@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<current_stock generated_at="2026-08-20T21:36:36.844Z" sales_channel="woocommerce" feed_last_updated="2026-08-20">
+<current_stock generated_at="2026-08-20T23:34:20.202Z" sales_channel="woocommerce" feed_last_updated="2026-08-20">
   <summary>
     <total_skus>132</total_skus>
     <total_value>10506</total_value>
@@ -240,10 +240,10 @@
     <item sku="PB-DOVE-10-LB" status="Overstock" alert="Warning">
       <product_name>PB-DOVE-10-LB</product_name>
       <qty_on_hand>37</qty_on_hand>
-      <qty_available>37</qty_available>
-      <qty_allocated>0</qty_allocated>
+      <qty_available>36</qty_available>
+      <qty_allocated>1</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>151.4</days_in_stock>
+      <days_in_stock>147.3</days_in_stock>
       <inventory_age>3</inventory_age>
       <turnover_rate>1.21</turnover_rate>
       <sales_30_day>11</sales_30_day>
@@ -255,10 +255,10 @@
     <item sku="PB-DRY-10-LB" status="Optimal" alert="Good">
       <product_name>PB-DRY-10-LB</product_name>
       <qty_on_hand>61</qty_on_hand>
-      <qty_available>61</qty_available>
-      <qty_allocated>0</qty_allocated>
+      <qty_available>60</qty_available>
+      <qty_allocated>1</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>56.9</days_in_stock>
+      <days_in_stock>56</days_in_stock>
       <inventory_age>6</inventory_age>
       <turnover_rate>6.85</turnover_rate>
       <sales_30_day>30</sales_30_day>
@@ -510,8 +510,8 @@
     <item sku="PB-SHEP-10-LB" status="No Sales" alert="Review">
       <product_name>PB-SHEP-10-LB</product_name>
       <qty_on_hand>148</qty_on_hand>
-      <qty_available>148</qty_available>
-      <qty_allocated>0</qty_allocated>
+      <qty_available>143</qty_available>
+      <qty_allocated>5</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>0</days_in_stock>
       <inventory_age>999</inventory_age>
@@ -1050,10 +1050,10 @@
     <item sku="S-DUTCH-5-LB" status="Optimal" alert="Good">
       <product_name>S-DUTCH-5-LB</product_name>
       <qty_on_hand>179</qty_on_hand>
-      <qty_available>175</qty_available>
-      <qty_allocated>4</qty_allocated>
+      <qty_available>170</qty_available>
+      <qty_allocated>9</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>43.2</days_in_stock>
+      <days_in_stock>41.9</days_in_stock>
       <inventory_age>1</inventory_age>
       <turnover_rate>7.98</turnover_rate>
       <sales_30_day>126</sales_30_day>
@@ -1215,10 +1215,10 @@
     <item sku="TURF-CLV-5-LB" status="Low Stock" alert="Warning">
       <product_name>TURF-CLV-5-LB</product_name>
       <qty_on_hand>84</qty_on_hand>
-      <qty_available>80</qty_available>
-      <qty_allocated>4</qty_allocated>
+      <qty_available>79</qty_available>
+      <qty_allocated>5</qty_allocated>
       <qty_on_order>600</qty_on_order>
-      <days_in_stock>9.1</days_in_stock>
+      <days_in_stock>9</days_in_stock>
       <inventory_age>1</inventory_age>
       <turnover_rate>34.62</turnover_rate>
       <sales_30_day>288</sales_30_day>
@@ -1305,10 +1305,10 @@
     <item sku="TURF-NFF-5-LB" status="Optimal" alert="Good">
       <product_name>TURF-NFF-5-LB</product_name>
       <qty_on_hand>16</qty_on_hand>
-      <qty_available>11</qty_available>
-      <qty_allocated>5</qty_allocated>
+      <qty_available>8</qty_available>
+      <qty_allocated>8</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>53.5</days_in_stock>
+      <days_in_stock>38.9</days_in_stock>
       <inventory_age>3</inventory_age>
       <turnover_rate>4.06</turnover_rate>
       <sales_30_day>7</sales_30_day>
