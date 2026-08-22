@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<current_stock generated_at="2026-08-22T21:30:30.126Z" sales_channel="woocommerce" feed_last_updated="2026-08-22">
+<current_stock generated_at="2026-08-22T23:29:29.195Z" sales_channel="woocommerce" feed_last_updated="2026-08-22">
   <summary>
     <total_skus>132</total_skus>
     <total_value>10423</total_value>
@@ -600,10 +600,10 @@
     <item sku="PG-BOGR-5-LB" status="Overstock" alert="Warning">
       <product_name>PG-BOGR-5-LB</product_name>
       <qty_on_hand>40</qty_on_hand>
-      <qty_available>40</qty_available>
-      <qty_allocated>0</qty_allocated>
+      <qty_available>39</qty_available>
+      <qty_allocated>1</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>450</days_in_stock>
+      <days_in_stock>438.8</days_in_stock>
       <inventory_age>20</inventory_age>
       <turnover_rate>1.32</turnover_rate>
       <sales_30_day>1</sales_30_day>
@@ -1305,10 +1305,10 @@
     <item sku="TURF-NFF-5-LB" status="Optimal" alert="Good">
       <product_name>TURF-NFF-5-LB</product_name>
       <qty_on_hand>16</qty_on_hand>
-      <qty_available>8</qty_available>
-      <qty_allocated>8</qty_allocated>
+      <qty_available>7</qty_available>
+      <qty_allocated>9</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>38.9</days_in_stock>
+      <days_in_stock>34.1</days_in_stock>
       <inventory_age>5</inventory_age>
       <turnover_rate>4.06</turnover_rate>
       <sales_30_day>7</sales_30_day>
@@ -1410,10 +1410,10 @@
     <item sku="TURF-WSHD-5-LB" status="Optimal" alert="Good">
       <product_name>TURF-WSHD-5-LB</product_name>
       <qty_on_hand>269</qty_on_hand>
-      <qty_available>245</qty_available>
-      <qty_allocated>24</qty_allocated>
+      <qty_available>244</qty_available>
+      <qty_allocated>25</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>78.2</days_in_stock>
+      <days_in_stock>77.9</days_in_stock>
       <inventory_age>2</inventory_age>
       <turnover_rate>3.57</turnover_rate>
       <sales_30_day>109</sales_30_day>
