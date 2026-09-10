@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<current_stock generated_at="2026-09-10T16:59:27.729Z" sales_channel="woocommerce" feed_last_updated="2026-09-10">
+<current_stock generated_at="2026-09-10T19:34:40.853Z" sales_channel="woocommerce" feed_last_updated="2026-09-10">
   <summary>
     <total_skus>132</total_skus>
-    <total_value>12049</total_value>
+    <total_value>12047</total_value>
     <low_stock_count>15</low_stock_count>
     <overstock_count>62</overstock_count>
     <no_sales_count>10</no_sales_count>
@@ -149,9 +149,9 @@
     </item>
     <item sku="PB-CHIX-5-LB" status="Overstock" alert="Warning">
       <product_name>PB-CHIX-5-LB</product_name>
-      <qty_on_hand>601</qty_on_hand>
+      <qty_on_hand>600</qty_on_hand>
       <qty_available>565</qty_available>
-      <qty_allocated>36</qty_allocated>
+      <qty_allocated>35</qty_allocated>
       <qty_on_order>1</qty_on_order>
       <days_in_stock>116.2</days_in_stock>
       <inventory_age>8</inventory_age>
@@ -1049,13 +1049,13 @@
     </item>
     <item sku="S-DUTCH-5-LB" status="Low Stock" alert="Warning">
       <product_name>S-DUTCH-5-LB</product_name>
-      <qty_on_hand>73</qty_on_hand>
+      <qty_on_hand>72</qty_on_hand>
       <qty_available>53</qty_available>
-      <qty_allocated>20</qty_allocated>
+      <qty_allocated>19</qty_allocated>
       <qty_on_order>300</qty_on_order>
       <days_in_stock>12.9</days_in_stock>
       <inventory_age>9</inventory_age>
-      <turnover_rate>20</turnover_rate>
+      <turnover_rate>20.28</turnover_rate>
       <sales_30_day>127</sales_30_day>
       <sales_90_day>360</sales_90_day>
       <weighted_daily_velocity>4.12</weighted_daily_velocity>
