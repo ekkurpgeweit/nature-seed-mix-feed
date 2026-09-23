@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mix_compositions generated_at="2026-09-23T04:15:12.871Z" feed_last_updated="2026-07-21T12:17:11-06:00">
+<mix_compositions generated_at="2026-09-23T19:06:09.423Z" feed_last_updated="2026-09-23T13:05:21-06:00">
   <mix sku="CV-BGEC-10-LB" category="Conservation">
     <name>Prairie Native Drought-Tolerant &amp; Erosion Control Mix</name>
     <components>
@@ -762,35 +762,28 @@
         <common_name>Perennial Ryegrass</common_name>
         <species>Lolium perenne</species>
         <variety>Chevalier (F)</variety>
-        <percentage>44.41</percentage>
+        <percentage>40</percentage>
       </component>
       <component>
         <code>MESA</code>
         <common_name>Alfalfa</common_name>
         <species>Medicago sativa</species>
         <variety>Ladak 65</variety>
-        <percentage>23.64</percentage>
-      </component>
-      <component>
-        <code>DAGL</code>
-        <common_name>Orchardgrass</common_name>
-        <species>Dactylis glomerata</species>
-        <variety>Potomac</variety>
-        <percentage>19.92</percentage>
+        <percentage>22</percentage>
       </component>
       <component>
         <code>PHPR</code>
         <common_name>Timothy</common_name>
         <species>Phleum pratense</species>
         <variety>Climax</variety>
-        <percentage>7.37</percentage>
+        <percentage>25</percentage>
       </component>
       <component>
         <code>POPR</code>
         <common_name>Kentucky Bluegrass</common_name>
         <species>Poa pratensis</species>
         <variety>Ginger</variety>
-        <percentage>4.66</percentage>
+        <percentage>13</percentage>
       </component>
     </components>
   </mix>
@@ -1072,147 +1065,6 @@
         <species>Phleum pratense</species>
         <variety>Climax</variety>
         <percentage>2</percentage>
-      </component>
-    </components>
-  </mix>
-  <mix sku="PB-SHEP-N-10-LB" category="Pasture Blend">
-    <name>Sheep Pasture &amp; Forage Mix Cold Season</name>
-    <components>
-      <component>
-        <code>LOPE</code>
-        <common_name>Perrenial Ryegrass</common_name>
-        <species>Lolium perenne</species>
-        <variety>Chevalier (F)</variety>
-        <percentage>36.00</percentage>
-      </component>
-      <component>
-        <code>DAGL</code>
-        <common_name>Orchardgrass</common_name>
-        <species>Dactylis glomerata</species>
-        <variety>Potomac</variety>
-        <percentage>25.00</percentage>
-      </component>
-      <component>
-        <code>LOCO</code>
-        <common_name>Birdsfoot Trefoil</common_name>
-        <species>Lotus corniculatus</species>
-        <variety>Bruce</variety>
-        <percentage>13.00</percentage>
-      </component>
-      <component>
-        <code>CHIN</code>
-        <common_name>Chicory</common_name>
-        <species>Cichorium intybus</species>
-        <variety>Six Point</variety>
-        <percentage>12.00</percentage>
-      </component>
-      <component>
-        <code>POPR</code>
-        <common_name>Kentucky Bluegrass</common_name>
-        <species>Poa pratensis</species>
-        <variety>Ginger</variety>
-        <percentage>8.00</percentage>
-      </component>
-      <component>
-        <code>TRRE</code>
-        <common_name>White Clover</common_name>
-        <species>Trifolium repens</species>
-        <variety>Ladino</variety>
-        <percentage>6.00</percentage>
-      </component>
-    </components>
-  </mix>
-  <mix sku="PB-SHEP-SO-10-LB" category="Pasture Blend">
-    <name>Sheep Pasture &amp; Forage Mix Warm Season</name>
-    <components>
-      <component>
-        <code>FEAR2</code>
-        <common_name>Tall Fescue</common_name>
-        <species>Festuca arundinacea</species>
-        <variety>Fawn (F)</variety>
-        <percentage>42.00</percentage>
-      </component>
-      <component>
-        <code>CYDA</code>
-        <common_name>Bermuda Grass</common_name>
-        <species>Cynodon dactylon</species>
-        <variety>Unhulled</variety>
-        <percentage>16.00</percentage>
-      </component>
-      <component>
-        <code>LOCO</code>
-        <common_name>Birdsfoot Trefoil</common_name>
-        <species>Lotus corniculatus</species>
-        <variety>Bruce</variety>
-        <percentage>15.00</percentage>
-      </component>
-      <component>
-        <code>CHIN</code>
-        <common_name>Chicory</common_name>
-        <species>Cichorium intybus</species>
-        <variety>Six Point</variety>
-        <percentage>14.00</percentage>
-      </component>
-      <component>
-        <code>TRRE</code>
-        <common_name>White Clover</common_name>
-        <species>Trifolium repens</species>
-        <variety>Jura</variety>
-        <percentage>8.00</percentage>
-      </component>
-      <component>
-        <code>PHPR</code>
-        <common_name>Timothy</common_name>
-        <species>Phleum pratense</species>
-        <variety>Climax</variety>
-        <percentage>5.00</percentage>
-      </component>
-    </components>
-  </mix>
-  <mix sku="PB-SHEP-TR-10-LB" category="Pasture Blend">
-    <name>Sheep Pasture &amp; Forage Mix Transitional</name>
-    <components>
-      <component>
-        <code>FEAR2</code>
-        <common_name>Tall Fescue</common_name>
-        <species>Festuca arundinacea</species>
-        <variety>Fawn (F)</variety>
-        <percentage>65.00</percentage>
-      </component>
-      <component>
-        <code>LOCO</code>
-        <common_name>Birdsfoot Trefoil</common_name>
-        <species>Lotus corniculatus</species>
-        <variety>Bruce</variety>
-        <percentage>9.00</percentage>
-      </component>
-      <component>
-        <code>CHIN</code>
-        <common_name>Chicory</common_name>
-        <species>Cichorium intybus</species>
-        <variety>Six Point</variety>
-        <percentage>8.00</percentage>
-      </component>
-      <component>
-        <code>DAGL</code>
-        <common_name>Orchardgrass</common_name>
-        <species>Dactylis glomerata</species>
-        <variety>Potomac</variety>
-        <percentage>8.00</percentage>
-      </component>
-      <component>
-        <code>POPR</code>
-        <common_name>Kentucky Bluegrass</common_name>
-        <species>Poa pratensis</species>
-        <variety>Ginger</variety>
-        <percentage>5.00</percentage>
-      </component>
-      <component>
-        <code>TRRE</code>
-        <common_name>White Clover</common_name>
-        <species>Trifolium repens</species>
-        <variety>Ladino</variety>
-        <percentage>5.00</percentage>
       </component>
     </components>
   </mix>
