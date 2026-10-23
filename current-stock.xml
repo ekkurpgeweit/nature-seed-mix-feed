@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<current_stock generated_at="2026-10-22T22:16:43.764Z" sales_channel="woocommerce" feed_last_updated="2026-10-22">
+<current_stock generated_at="2026-10-23T01:25:31.045Z" sales_channel="woocommerce" feed_last_updated="2026-10-23">
   <summary>
     <total_skus>132</total_skus>
     <total_value>8670</total_value>
     <low_stock_count>27</low_stock_count>
-    <overstock_count>34</overstock_count>
+    <overstock_count>35</overstock_count>
     <no_sales_count>10</no_sales_count>
     <new_count>0</new_count>
     <critical_alerts>23</critical_alerts>
-    <warning_alerts>38</warning_alerts>
-    <avg_turnover_rate>29.71</avg_turnover_rate>
+    <warning_alerts>39</warning_alerts>
+    <avg_turnover_rate>29.47</avg_turnover_rate>
   </summary>
   <items>
     <item sku="2750AL-A" status="Overstock" alert="Warning">
@@ -19,7 +19,7 @@
       <qty_allocated>0</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>353.1</days_in_stock>
-      <inventory_age>11</inventory_age>
+      <inventory_age>12</inventory_age>
       <turnover_rate>0.87</turnover_rate>
       <sales_30_day>5</sales_30_day>
       <sales_90_day>11</sales_90_day>
@@ -34,7 +34,7 @@
       <qty_allocated>0</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>9000</days_in_stock>
-      <inventory_age>78</inventory_age>
+      <inventory_age>79</inventory_age>
       <turnover_rate>0.08</turnover_rate>
       <sales_30_day>0</sales_30_day>
       <sales_90_day>1</sales_90_day>
@@ -49,7 +49,7 @@
       <qty_allocated>2</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>27.5</days_in_stock>
-      <inventory_age>13</inventory_age>
+      <inventory_age>14</inventory_age>
       <turnover_rate>8.48</turnover_rate>
       <sales_30_day>12</sales_30_day>
       <sales_90_day>23</sales_90_day>
@@ -63,12 +63,12 @@
       <qty_available>-19</qty_available>
       <qty_allocated>20</qty_allocated>
       <qty_on_order>40</qty_on_order>
-      <days_in_stock>-44.4</days_in_stock>
-      <inventory_age>9</inventory_age>
+      <days_in_stock>-48.2</days_in_stock>
+      <inventory_age>10</inventory_age>
       <turnover_rate>129.78</turnover_rate>
-      <sales_30_day>15</sales_30_day>
+      <sales_30_day>13</sales_30_day>
       <sales_90_day>32</sales_90_day>
-      <weighted_daily_velocity>0.43</weighted_daily_velocity>
+      <weighted_daily_velocity>0.39</weighted_daily_velocity>
       <last_sale_date>2026-10-13</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
@@ -79,7 +79,7 @@
       <qty_allocated>0</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>164.3</days_in_stock>
-      <inventory_age>11</inventory_age>
+      <inventory_age>12</inventory_age>
       <turnover_rate>1.54</turnover_rate>
       <sales_30_day>5</sales_30_day>
       <sales_90_day>8</sales_90_day>
@@ -94,7 +94,7 @@
       <qty_allocated>0</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>64.3</days_in_stock>
-      <inventory_age>11</inventory_age>
+      <inventory_age>12</inventory_age>
       <turnover_rate>4.06</turnover_rate>
       <sales_30_day>6</sales_30_day>
       <sales_90_day>10</sales_90_day>
@@ -109,11 +109,11 @@
       <qty_allocated>5</qty_allocated>
       <qty_on_order>250</qty_on_order>
       <days_in_stock>-0.5</days_in_stock>
-      <inventory_age>1</inventory_age>
-      <turnover_rate>762.44</turnover_rate>
-      <sales_30_day>218</sales_30_day>
-      <sales_90_day>376</sales_90_day>
-      <weighted_daily_velocity>5.72</weighted_daily_velocity>
+      <inventory_age>2</inventory_age>
+      <turnover_rate>760.42</turnover_rate>
+      <sales_30_day>209</sales_30_day>
+      <sales_90_day>375</sales_90_day>
+      <weighted_daily_velocity>5.57</weighted_daily_velocity>
       <last_sale_date>2026-10-21</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
@@ -124,7 +124,7 @@
       <qty_allocated>0</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>2232</days_in_stock>
-      <inventory_age>31</inventory_age>
+      <inventory_age>32</inventory_age>
       <turnover_rate>0.33</turnover_rate>
       <sales_30_day>0</sales_30_day>
       <sales_90_day>5</sales_90_day>
@@ -138,12 +138,12 @@
       <qty_available>42</qty_available>
       <qty_allocated>0</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>57.3</days_in_stock>
-      <inventory_age>2</inventory_age>
+      <days_in_stock>60</days_in_stock>
+      <inventory_age>3</inventory_age>
       <turnover_rate>6.08</turnover_rate>
-      <sales_30_day>23</sales_30_day>
+      <sales_30_day>21</sales_30_day>
       <sales_90_day>63</sales_90_day>
-      <weighted_daily_velocity>0.73</weighted_daily_velocity>
+      <weighted_daily_velocity>0.7</weighted_daily_velocity>
       <last_sale_date>2026-10-20</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
@@ -153,12 +153,12 @@
       <qty_available>285</qty_available>
       <qty_allocated>13</qty_allocated>
       <qty_on_order>1</qty_on_order>
-      <days_in_stock>44.4</days_in_stock>
-      <inventory_age>1</inventory_age>
-      <turnover_rate>7.23</turnover_rate>
-      <sales_30_day>208</sales_30_day>
-      <sales_90_day>531</sales_90_day>
-      <weighted_daily_velocity>6.42</weighted_daily_velocity>
+      <days_in_stock>45.6</days_in_stock>
+      <inventory_age>2</inventory_age>
+      <turnover_rate>7.2</turnover_rate>
+      <sales_30_day>199</sales_30_day>
+      <sales_90_day>529</sales_90_day>
+      <weighted_daily_velocity>6.26</weighted_daily_velocity>
       <last_sale_date>2026-10-21</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
@@ -168,12 +168,12 @@
       <qty_available>31</qty_available>
       <qty_allocated>1</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>40.7</days_in_stock>
-      <inventory_age>1</inventory_age>
+      <days_in_stock>42.6</days_in_stock>
+      <inventory_age>2</inventory_age>
       <turnover_rate>6.72</turnover_rate>
-      <sales_30_day>28</sales_30_day>
+      <sales_30_day>26</sales_30_day>
       <sales_90_day>53</sales_90_day>
-      <weighted_daily_velocity>0.76</weighted_daily_velocity>
+      <weighted_daily_velocity>0.73</weighted_daily_velocity>
       <last_sale_date>2026-10-21</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
@@ -183,12 +183,12 @@
       <qty_available>10</qty_available>
       <qty_allocated>0</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>39.1</days_in_stock>
-      <inventory_age>2</inventory_age>
-      <turnover_rate>6.49</turnover_rate>
+      <days_in_stock>40</days_in_stock>
+      <inventory_age>3</inventory_age>
+      <turnover_rate>6.08</turnover_rate>
       <sales_30_day>10</sales_30_day>
-      <sales_90_day>16</sales_90_day>
-      <weighted_daily_velocity>0.26</weighted_daily_velocity>
+      <sales_90_day>15</sales_90_day>
+      <weighted_daily_velocity>0.25</weighted_daily_velocity>
       <last_sale_date>2026-10-20</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
@@ -199,7 +199,7 @@
       <qty_allocated>10</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>2.7</days_in_stock>
-      <inventory_age>1</inventory_age>
+      <inventory_age>2</inventory_age>
       <turnover_rate>20.28</turnover_rate>
       <sales_30_day>45</sales_30_day>
       <sales_90_day>65</sales_90_day>
@@ -213,12 +213,12 @@
       <qty_available>96</qty_available>
       <qty_allocated>4</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>20.2</days_in_stock>
-      <inventory_age>3</inventory_age>
-      <turnover_rate>16.59</turnover_rate>
-      <sales_30_day>149</sales_30_day>
-      <sales_90_day>409</sales_90_day>
-      <weighted_daily_velocity>4.76</weighted_daily_velocity>
+      <days_in_stock>21.6</days_in_stock>
+      <inventory_age>4</inventory_age>
+      <turnover_rate>16.51</turnover_rate>
+      <sales_30_day>131</sales_30_day>
+      <sales_90_day>407</sales_90_day>
+      <weighted_daily_velocity>4.44</weighted_daily_velocity>
       <last_sale_date>2026-10-19</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
@@ -228,12 +228,12 @@
       <qty_available>84</qty_available>
       <qty_allocated>17</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>43.2</days_in_stock>
-      <inventory_age>10</inventory_age>
-      <turnover_rate>7.67</turnover_rate>
+      <days_in_stock>44.5</days_in_stock>
+      <inventory_age>11</inventory_age>
+      <turnover_rate>7.27</turnover_rate>
       <sales_30_day>53</sales_30_day>
-      <sales_90_day>191</sales_90_day>
-      <weighted_daily_velocity>1.94</weighted_daily_velocity>
+      <sales_90_day>181</sales_90_day>
+      <weighted_daily_velocity>1.89</weighted_daily_velocity>
       <last_sale_date>2026-10-12</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
@@ -244,7 +244,7 @@
       <qty_allocated>0</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>57.6</days_in_stock>
-      <inventory_age>14</inventory_age>
+      <inventory_age>15</inventory_age>
       <turnover_rate>7.35</turnover_rate>
       <sales_30_day>7</sales_30_day>
       <sales_90_day>29</sales_90_day>
@@ -258,12 +258,12 @@
       <qty_available>-18</qty_available>
       <qty_allocated>41</qty_allocated>
       <qty_on_order>50</qty_on_order>
-      <days_in_stock>-5.8</days_in_stock>
-      <inventory_age>9</inventory_age>
-      <turnover_rate>48.14</turnover_rate>
-      <sales_30_day>94</sales_30_day>
-      <sales_90_day>273</sales_90_day>
-      <weighted_daily_velocity>3.08</weighted_daily_velocity>
+      <days_in_stock>-6</days_in_stock>
+      <inventory_age>10</inventory_age>
+      <turnover_rate>46.37</turnover_rate>
+      <sales_30_day>92</sales_30_day>
+      <sales_90_day>263</sales_90_day>
+      <weighted_daily_velocity>2.99</weighted_daily_velocity>
       <last_sale_date>2026-10-13</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
@@ -274,7 +274,7 @@
       <qty_allocated>0</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>720</days_in_stock>
-      <inventory_age>33</inventory_age>
+      <inventory_age>34</inventory_age>
       <turnover_rate>1.01</turnover_rate>
       <sales_30_day>0</sales_30_day>
       <sales_90_day>5</sales_90_day>
@@ -289,7 +289,7 @@
       <qty_allocated>1</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>15.3</days_in_stock>
-      <inventory_age>1</inventory_age>
+      <inventory_age>2</inventory_age>
       <turnover_rate>20.64</turnover_rate>
       <sales_30_day>146</sales_30_day>
       <sales_90_day>341</sales_90_day>
@@ -319,7 +319,7 @@
       <qty_allocated>0</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>540</days_in_stock>
-      <inventory_age>51</inventory_age>
+      <inventory_age>52</inventory_age>
       <turnover_rate>1.35</turnover_rate>
       <sales_30_day>0</sales_30_day>
       <sales_90_day>5</sales_90_day>
@@ -333,12 +333,12 @@
       <qty_available>606</qty_available>
       <qty_allocated>5</qty_allocated>
       <qty_on_order>2</qty_on_order>
-      <days_in_stock>1059</days_in_stock>
-      <inventory_age>0</inventory_age>
+      <days_in_stock>1090.8</days_in_stock>
+      <inventory_age>1</inventory_age>
       <turnover_rate>0.5</turnover_rate>
-      <sales_30_day>9</sales_30_day>
+      <sales_30_day>8</sales_30_day>
       <sales_90_day>76</sales_90_day>
-      <weighted_daily_velocity>0.57</weighted_daily_velocity>
+      <weighted_daily_velocity>0.56</weighted_daily_velocity>
       <last_sale_date>2026-10-22</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
@@ -349,7 +349,7 @@
       <qty_allocated>7</qty_allocated>
       <qty_on_order>120</qty_on_order>
       <days_in_stock>-2.4</days_in_stock>
-      <inventory_age>3</inventory_age>
+      <inventory_age>4</inventory_age>
       <turnover_rate>148.7</turnover_rate>
       <sales_30_day>64</sales_30_day>
       <sales_90_day>110</sales_90_day>
@@ -363,27 +363,27 @@
       <qty_available>109</qty_available>
       <qty_allocated>23</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>17.8</days_in_stock>
-      <inventory_age>0</inventory_age>
-      <turnover_rate>15.21</turnover_rate>
-      <sales_30_day>203</sales_30_day>
-      <sales_90_day>495</sales_90_day>
-      <weighted_daily_velocity>6.13</weighted_daily_velocity>
+      <days_in_stock>18.3</days_in_stock>
+      <inventory_age>1</inventory_age>
+      <turnover_rate>14.56</turnover_rate>
+      <sales_30_day>199</sales_30_day>
+      <sales_90_day>474</sales_90_day>
+      <weighted_daily_velocity>5.95</weighted_daily_velocity>
       <last_sale_date>2026-10-22</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
     <item sku="PB-HRSE-SO-10-LB" status="Optimal" alert="Good">
       <product_name>PB-HRSE-SO-10-LB</product_name>
       <qty_on_hand>231</qty_on_hand>
-      <qty_available>231</qty_available>
-      <qty_allocated>0</qty_allocated>
+      <qty_available>230</qty_available>
+      <qty_allocated>1</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>72.6</days_in_stock>
-      <inventory_age>1</inventory_age>
-      <turnover_rate>5.21</turnover_rate>
-      <sales_30_day>92</sales_30_day>
-      <sales_90_day>297</sales_90_day>
-      <weighted_daily_velocity>3.18</weighted_daily_velocity>
+      <days_in_stock>72.9</days_in_stock>
+      <inventory_age>2</inventory_age>
+      <turnover_rate>5.18</turnover_rate>
+      <sales_30_day>91</sales_30_day>
+      <sales_90_day>295</sales_90_day>
+      <weighted_daily_velocity>3.16</weighted_daily_velocity>
       <last_sale_date>2026-10-21</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
@@ -394,7 +394,7 @@
       <qty_allocated>0</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>22.3</days_in_stock>
-      <inventory_age>2</inventory_age>
+      <inventory_age>3</inventory_age>
       <turnover_rate>16.67</turnover_rate>
       <sales_30_day>107</sales_30_day>
       <sales_90_day>333</sales_90_day>
@@ -408,12 +408,12 @@
       <qty_available>48</qty_available>
       <qty_allocated>0</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>154.3</days_in_stock>
-      <inventory_age>22</inventory_age>
-      <turnover_rate>3.97</turnover_rate>
+      <days_in_stock>169.4</days_in_stock>
+      <inventory_age>23</inventory_age>
+      <turnover_rate>3.55</turnover_rate>
       <sales_30_day>3</sales_30_day>
-      <sales_90_day>47</sales_90_day>
-      <weighted_daily_velocity>0.31</weighted_daily_velocity>
+      <sales_90_day>42</sales_90_day>
+      <weighted_daily_velocity>0.28</weighted_daily_velocity>
       <last_sale_date>2026-09-30</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
@@ -424,7 +424,7 @@
       <qty_allocated>0</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>225</days_in_stock>
-      <inventory_age>35</inventory_age>
+      <inventory_age>36</inventory_age>
       <turnover_rate>3.24</turnover_rate>
       <sales_30_day>0</sales_30_day>
       <sales_90_day>20</sales_90_day>
@@ -439,7 +439,7 @@
       <qty_allocated>12</qty_allocated>
       <qty_on_order>25</qty_on_order>
       <days_in_stock>-78.3</days_in_stock>
-      <inventory_age>16</inventory_age>
+      <inventory_age>17</inventory_age>
       <turnover_rate>22.31</turnover_rate>
       <sales_30_day>4</sales_30_day>
       <sales_90_day>11</sales_90_day>
@@ -453,12 +453,12 @@
       <qty_available>15</qty_available>
       <qty_allocated>3</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>22.7</days_in_stock>
-      <inventory_age>3</inventory_age>
+      <days_in_stock>26</days_in_stock>
+      <inventory_age>4</inventory_age>
       <turnover_rate>13.29</turnover_rate>
-      <sales_30_day>20</sales_30_day>
+      <sales_30_day>15</sales_30_day>
       <sales_90_day>59</sales_90_day>
-      <weighted_daily_velocity>0.66</weighted_daily_velocity>
+      <weighted_daily_velocity>0.58</weighted_daily_velocity>
       <last_sale_date>2026-10-19</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
@@ -484,7 +484,7 @@
       <qty_allocated>0</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>1656</days_in_stock>
-      <inventory_age>12</inventory_age>
+      <inventory_age>13</inventory_age>
       <turnover_rate>0.18</turnover_rate>
       <sales_30_day>1</sales_30_day>
       <sales_90_day>2</sales_90_day>
@@ -499,7 +499,7 @@
       <qty_allocated>0</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>780</days_in_stock>
-      <inventory_age>60</inventory_age>
+      <inventory_age>61</inventory_age>
       <turnover_rate>0.94</turnover_rate>
       <sales_30_day>0</sales_30_day>
       <sales_90_day>3</sales_90_day>
@@ -529,7 +529,7 @@
       <qty_allocated>0</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>720</days_in_stock>
-      <inventory_age>43</inventory_age>
+      <inventory_age>44</inventory_age>
       <turnover_rate>1.01</turnover_rate>
       <sales_30_day>0</sales_30_day>
       <sales_90_day>3</sales_90_day>
@@ -544,7 +544,7 @@
       <qty_allocated>14</qty_allocated>
       <qty_on_order>50</qty_on_order>
       <days_in_stock>-8.2</days_in_stock>
-      <inventory_age>18</inventory_age>
+      <inventory_age>19</inventory_age>
       <turnover_rate>41.06</turnover_rate>
       <sales_30_day>17</sales_30_day>
       <sales_90_day>81</sales_90_day>
@@ -558,12 +558,12 @@
       <qty_available>-4</qty_available>
       <qty_allocated>4</qty_allocated>
       <qty_on_order>25</qty_on_order>
-      <days_in_stock>-12.6</days_in_stock>
-      <inventory_age>10</inventory_age>
+      <days_in_stock>-13.3</days_in_stock>
+      <inventory_age>11</inventory_age>
       <turnover_rate>73</turnover_rate>
-      <sales_30_day>13</sales_30_day>
+      <sales_30_day>12</sales_30_day>
       <sales_90_day>18</sales_90_day>
-      <weighted_daily_velocity>0.32</weighted_daily_velocity>
+      <weighted_daily_velocity>0.3</weighted_daily_velocity>
       <last_sale_date>2026-10-12</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
@@ -574,7 +574,7 @@
       <qty_allocated>0</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>32.6</days_in_stock>
-      <inventory_age>4</inventory_age>
+      <inventory_age>5</inventory_age>
       <turnover_rate>9.54</turnover_rate>
       <sales_30_day>18</sales_30_day>
       <sales_90_day>40</sales_90_day>
@@ -604,7 +604,7 @@
       <qty_allocated>1</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>284.2</days_in_stock>
-      <inventory_age>7</inventory_age>
+      <inventory_age>8</inventory_age>
       <turnover_rate>1.31</turnover_rate>
       <sales_30_day>3</sales_30_day>
       <sales_90_day>10</sales_90_day>
@@ -618,12 +618,12 @@
       <qty_available>55</qty_available>
       <qty_allocated>6</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>55.6</days_in_stock>
-      <inventory_age>9</inventory_age>
+      <days_in_stock>56.6</days_in_stock>
+      <inventory_age>10</inventory_age>
       <turnover_rate>5.45</turnover_rate>
-      <sales_30_day>32</sales_30_day>
+      <sales_30_day>31</sales_30_day>
       <sales_90_day>82</sales_90_day>
-      <weighted_daily_velocity>0.99</weighted_daily_velocity>
+      <weighted_daily_velocity>0.97</weighted_daily_velocity>
       <last_sale_date>2026-10-13</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
@@ -633,12 +633,12 @@
       <qty_available>28</qty_available>
       <qty_allocated>17</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>136.2</days_in_stock>
-      <inventory_age>25</inventory_age>
+      <days_in_stock>148.2</days_in_stock>
+      <inventory_age>26</inventory_age>
       <turnover_rate>2.52</turnover_rate>
-      <sales_30_day>3</sales_30_day>
+      <sales_30_day>2</sales_30_day>
       <sales_90_day>28</sales_90_day>
-      <weighted_daily_velocity>0.21</weighted_daily_velocity>
+      <weighted_daily_velocity>0.19</weighted_daily_velocity>
       <last_sale_date>2026-09-27</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
@@ -649,7 +649,7 @@
       <qty_allocated>0</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>450</days_in_stock>
-      <inventory_age>29</inventory_age>
+      <inventory_age>30</inventory_age>
       <turnover_rate>0.81</turnover_rate>
       <sales_30_day>1</sales_30_day>
       <sales_90_day>3</sales_90_day>
@@ -664,7 +664,7 @@
       <qty_allocated>1</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>26.9</days_in_stock>
-      <inventory_age>1</inventory_age>
+      <inventory_age>2</inventory_age>
       <turnover_rate>11.43</turnover_rate>
       <sales_30_day>12</sales_30_day>
       <sales_90_day>31</sales_90_day>
@@ -679,7 +679,7 @@
       <qty_allocated>1</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>900</days_in_stock>
-      <inventory_age>53</inventory_age>
+      <inventory_age>54</inventory_age>
       <turnover_rate>0.74</turnover_rate>
       <sales_30_day>0</sales_30_day>
       <sales_90_day>2</sales_90_day>
@@ -694,11 +694,11 @@
       <qty_allocated>7</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>-0.7</days_in_stock>
-      <inventory_age>9</inventory_age>
-      <turnover_rate>281.46</turnover_rate>
-      <sales_30_day>67</sales_30_day>
-      <sales_90_day>347</sales_90_day>
-      <weighted_daily_velocity>3.04</weighted_daily_velocity>
+      <inventory_age>10</inventory_age>
+      <turnover_rate>273.34</turnover_rate>
+      <sales_30_day>66</sales_30_day>
+      <sales_90_day>337</sales_90_day>
+      <weighted_daily_velocity>2.97</weighted_daily_velocity>
       <last_sale_date>2026-10-13</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
@@ -708,12 +708,12 @@
       <qty_available>42</qty_available>
       <qty_allocated>0</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>31.2</days_in_stock>
-      <inventory_age>5</inventory_age>
+      <days_in_stock>33.3</days_in_stock>
+      <inventory_age>6</inventory_age>
       <turnover_rate>10.62</turnover_rate>
-      <sales_30_day>44</sales_30_day>
+      <sales_30_day>39</sales_30_day>
       <sales_90_day>110</sales_90_day>
-      <weighted_daily_velocity>1.34</weighted_daily_velocity>
+      <weighted_daily_velocity>1.26</weighted_daily_velocity>
       <last_sale_date>2026-10-17</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
@@ -723,12 +723,12 @@
       <qty_available>115</qty_available>
       <qty_allocated>2</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>82.8</days_in_stock>
-      <inventory_age>5</inventory_age>
-      <turnover_rate>5.44</turnover_rate>
+      <days_in_stock>83.1</days_in_stock>
+      <inventory_age>6</inventory_age>
+      <turnover_rate>5.41</turnover_rate>
       <sales_30_day>31</sales_30_day>
-      <sales_90_day>157</sales_90_day>
-      <weighted_daily_velocity>1.39</weighted_daily_velocity>
+      <sales_90_day>156</sales_90_day>
+      <weighted_daily_velocity>1.38</weighted_daily_velocity>
       <last_sale_date>2026-10-17</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
@@ -739,7 +739,7 @@
       <qty_allocated>0</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>48.3</days_in_stock>
-      <inventory_age>7</inventory_age>
+      <inventory_age>8</inventory_age>
       <turnover_rate>10.69</turnover_rate>
       <sales_30_day>4</sales_30_day>
       <sales_90_day>29</sales_90_day>
@@ -753,11 +753,11 @@
       <qty_available>92</qty_available>
       <qty_allocated>1</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>150.5</days_in_stock>
-      <inventory_age>1</inventory_age>
-      <turnover_rate>3.1</turnover_rate>
+      <days_in_stock>151.9</days_in_stock>
+      <inventory_age>2</inventory_age>
+      <turnover_rate>3.05</turnover_rate>
       <sales_30_day>13</sales_30_day>
-      <sales_90_day>71</sales_90_day>
+      <sales_90_day>70</sales_90_day>
       <weighted_daily_velocity>0.61</weighted_daily_velocity>
       <last_sale_date>2026-10-21</last_sale_date>
       <estimated_value>0</estimated_value>
@@ -769,7 +769,7 @@
       <qty_allocated>0</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>411.4</days_in_stock>
-      <inventory_age>25</inventory_age>
+      <inventory_age>26</inventory_age>
       <turnover_rate>1.01</turnover_rate>
       <sales_30_day>1</sales_30_day>
       <sales_90_day>4</sales_90_day>
@@ -784,7 +784,7 @@
       <qty_allocated>0</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>428.6</days_in_stock>
-      <inventory_age>72</inventory_age>
+      <inventory_age>73</inventory_age>
       <turnover_rate>1.7</turnover_rate>
       <sales_30_day>0</sales_30_day>
       <sales_90_day>21</sales_90_day>
@@ -799,7 +799,7 @@
       <qty_allocated>0</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>401.5</days_in_stock>
-      <inventory_age>3</inventory_age>
+      <inventory_age>4</inventory_age>
       <turnover_rate>0.56</turnover_rate>
       <sales_30_day>3</sales_30_day>
       <sales_90_day>4</sales_90_day>
@@ -813,12 +813,12 @@
       <qty_available>76</qty_available>
       <qty_allocated>0</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>35.9</days_in_stock>
-      <inventory_age>2</inventory_age>
-      <turnover_rate>10.57</turnover_rate>
+      <days_in_stock>36.4</days_in_stock>
+      <inventory_age>3</inventory_age>
+      <turnover_rate>10.3</turnover_rate>
       <sales_30_day>61</sales_30_day>
-      <sales_90_day>198</sales_90_day>
-      <weighted_daily_velocity>2.12</weighted_daily_velocity>
+      <sales_90_day>193</sales_90_day>
+      <weighted_daily_velocity>2.09</weighted_daily_velocity>
       <last_sale_date>2026-10-20</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
@@ -829,7 +829,7 @@
       <qty_allocated>0</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>226</days_in_stock>
-      <inventory_age>12</inventory_age>
+      <inventory_age>13</inventory_age>
       <turnover_rate>2.51</turnover_rate>
       <sales_30_day>7</sales_30_day>
       <sales_90_day>73</sales_90_day>
@@ -844,7 +844,7 @@
       <qty_allocated>0</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>51.4</days_in_stock>
-      <inventory_age>18</inventory_age>
+      <inventory_age>19</inventory_age>
       <turnover_rate>11.76</turnover_rate>
       <sales_30_day>2</sales_30_day>
       <sales_90_day>29</sales_90_day>
@@ -859,10 +859,10 @@
       <qty_allocated>134</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>32.2</days_in_stock>
-      <inventory_age>2</inventory_age>
-      <turnover_rate>5.1</turnover_rate>
+      <inventory_age>3</inventory_age>
+      <turnover_rate>5.08</turnover_rate>
       <sales_30_day>110</sales_30_day>
-      <sales_90_day>313</sales_90_day>
+      <sales_90_day>312</sales_90_day>
       <weighted_daily_velocity>3.57</weighted_daily_velocity>
       <last_sale_date>2026-10-20</last_sale_date>
       <estimated_value>0</estimated_value>
@@ -888,12 +888,12 @@
       <qty_available>77</qty_available>
       <qty_allocated>2</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>165</days_in_stock>
-      <inventory_age>24</inventory_age>
-      <turnover_rate>3.7</turnover_rate>
+      <days_in_stock>173.3</days_in_stock>
+      <inventory_age>25</inventory_age>
+      <turnover_rate>3.49</turnover_rate>
       <sales_30_day>4</sales_30_day>
-      <sales_90_day>72</sales_90_day>
-      <weighted_daily_velocity>0.47</weighted_daily_velocity>
+      <sales_90_day>68</sales_90_day>
+      <weighted_daily_velocity>0.44</weighted_daily_velocity>
       <last_sale_date>2026-09-28</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
@@ -904,7 +904,7 @@
       <qty_allocated>0</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>98.2</days_in_stock>
-      <inventory_age>15</inventory_age>
+      <inventory_age>16</inventory_age>
       <turnover_rate>2.37</turnover_rate>
       <sales_30_day>5</sales_30_day>
       <sales_90_day>7</sales_90_day>
@@ -919,7 +919,7 @@
       <qty_allocated>0</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>747</days_in_stock>
-      <inventory_age>10</inventory_age>
+      <inventory_age>11</inventory_age>
       <turnover_rate>0.39</turnover_rate>
       <sales_30_day>4</sales_30_day>
       <sales_90_day>8</sales_90_day>
@@ -964,7 +964,7 @@
       <qty_allocated>0</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>146.3</days_in_stock>
-      <inventory_age>9</inventory_age>
+      <inventory_age>10</inventory_age>
       <turnover_rate>2.18</turnover_rate>
       <sales_30_day>3</sales_30_day>
       <sales_90_day>7</sales_90_day>
@@ -978,11 +978,11 @@
       <qty_available>55</qty_available>
       <qty_allocated>8</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>32.5</days_in_stock>
-      <inventory_age>1</inventory_age>
-      <turnover_rate>9.4</turnover_rate>
+      <days_in_stock>32.6</days_in_stock>
+      <inventory_age>2</inventory_age>
+      <turnover_rate>9.33</turnover_rate>
       <sales_30_day>53</sales_30_day>
-      <sales_90_day>146</sales_90_day>
+      <sales_90_day>145</sales_90_day>
       <weighted_daily_velocity>1.69</weighted_daily_velocity>
       <last_sale_date>2026-10-21</last_sale_date>
       <estimated_value>0</estimated_value>
@@ -990,30 +990,30 @@
     <item sku="PG-TRRE-5-LB" status="Optimal" alert="Good">
       <product_name>PG-TRRE-5-LB</product_name>
       <qty_on_hand>90</qty_on_hand>
-      <qty_available>80</qty_available>
-      <qty_allocated>10</qty_allocated>
+      <qty_available>78</qty_available>
+      <qty_allocated>12</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>23.1</days_in_stock>
-      <inventory_age>0</inventory_age>
-      <turnover_rate>15.1</turnover_rate>
-      <sales_30_day>96</sales_30_day>
-      <sales_90_day>335</sales_90_day>
-      <weighted_daily_velocity>3.46</weighted_daily_velocity>
+      <days_in_stock>23.7</days_in_stock>
+      <inventory_age>1</inventory_age>
+      <turnover_rate>15.05</turnover_rate>
+      <sales_30_day>86</sales_30_day>
+      <sales_90_day>334</sales_90_day>
+      <weighted_daily_velocity>3.29</weighted_daily_velocity>
       <last_sale_date>2026-10-22</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
-    <item sku="PG-VIUN-5-LB" status="Optimal" alert="Good">
+    <item sku="PG-VIUN-5-LB" status="Overstock" alert="Warning">
       <product_name>PG-VIUN-5-LB</product_name>
       <qty_on_hand>70</qty_on_hand>
       <qty_available>68</qty_available>
       <qty_allocated>2</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>71.2</days_in_stock>
-      <inventory_age>22</inventory_age>
+      <days_in_stock>235.4</days_in_stock>
+      <inventory_age>23</inventory_age>
       <turnover_rate>2.84</turnover_rate>
-      <sales_30_day>41</sales_30_day>
+      <sales_30_day>1</sales_30_day>
       <sales_90_day>49</sales_90_day>
-      <weighted_daily_velocity>0.96</weighted_daily_velocity>
+      <weighted_daily_velocity>0.29</weighted_daily_velocity>
       <last_sale_date>2026-09-30</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
@@ -1023,12 +1023,12 @@
       <qty_available>47</qty_available>
       <qty_allocated>4</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>79.1</days_in_stock>
-      <inventory_age>1</inventory_age>
+      <days_in_stock>83.8</days_in_stock>
+      <inventory_age>2</inventory_age>
       <turnover_rate>3.98</turnover_rate>
-      <sales_30_day>19</sales_30_day>
+      <sales_30_day>17</sales_30_day>
       <sales_90_day>50</sales_90_day>
-      <weighted_daily_velocity>0.59</weighted_daily_velocity>
+      <weighted_daily_velocity>0.56</weighted_daily_velocity>
       <last_sale_date>2026-10-21</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
@@ -1039,7 +1039,7 @@
       <qty_allocated>1</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>-1.7</days_in_stock>
-      <inventory_age>6</inventory_age>
+      <inventory_age>7</inventory_age>
       <turnover_rate>223.06</turnover_rate>
       <sales_30_day>18</sales_30_day>
       <sales_90_day>55</sales_90_day>
@@ -1053,12 +1053,12 @@
       <qty_available>94</qty_available>
       <qty_allocated>3</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>18.2</days_in_stock>
-      <inventory_age>1</inventory_age>
-      <turnover_rate>20.36</turnover_rate>
-      <sales_30_day>147</sales_30_day>
-      <sales_90_day>487</sales_90_day>
-      <weighted_daily_velocity>5.16</weighted_daily_velocity>
+      <days_in_stock>18.9</days_in_stock>
+      <inventory_age>2</inventory_age>
+      <turnover_rate>20.24</turnover_rate>
+      <sales_30_day>137</sales_30_day>
+      <sales_90_day>484</sales_90_day>
+      <weighted_daily_velocity>4.97</weighted_daily_velocity>
       <last_sale_date>2026-10-21</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
@@ -1069,7 +1069,7 @@
       <qty_allocated>6</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>59</days_in_stock>
-      <inventory_age>4</inventory_age>
+      <inventory_age>5</inventory_age>
       <turnover_rate>6.25</turnover_rate>
       <sales_30_day>86</sales_30_day>
       <sales_90_day>282</sales_90_day>
@@ -1083,12 +1083,12 @@
       <qty_available>82</qty_available>
       <qty_allocated>0</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>150.6</days_in_stock>
-      <inventory_age>2</inventory_age>
-      <turnover_rate>2.77</turnover_rate>
-      <sales_30_day>14</sales_30_day>
-      <sales_90_day>56</sales_90_day>
-      <weighted_daily_velocity>0.54</weighted_daily_velocity>
+      <days_in_stock>157</days_in_stock>
+      <inventory_age>3</inventory_age>
+      <turnover_rate>2.72</turnover_rate>
+      <sales_30_day>13</sales_30_day>
+      <sales_90_day>55</sales_90_day>
+      <weighted_daily_velocity>0.52</weighted_daily_velocity>
       <last_sale_date>2026-10-20</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
@@ -1098,12 +1098,12 @@
       <qty_available>23</qty_available>
       <qty_allocated>8</qty_allocated>
       <qty_on_order>200</qty_on_order>
-      <days_in_stock>7.4</days_in_stock>
-      <inventory_age>1</inventory_age>
-      <turnover_rate>44.09</turnover_rate>
+      <days_in_stock>7.5</days_in_stock>
+      <inventory_age>2</inventory_age>
+      <turnover_rate>43.96</turnover_rate>
       <sales_30_day>73</sales_30_day>
-      <sales_90_day>337</sales_90_day>
-      <weighted_daily_velocity>3.09</weighted_daily_velocity>
+      <sales_90_day>336</sales_90_day>
+      <weighted_daily_velocity>3.08</weighted_daily_velocity>
       <last_sale_date>2026-10-21</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
@@ -1114,7 +1114,7 @@
       <qty_allocated>3</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>87.6</days_in_stock>
-      <inventory_age>2</inventory_age>
+      <inventory_age>3</inventory_age>
       <turnover_rate>3.95</turnover_rate>
       <sales_30_day>12</sales_30_day>
       <sales_90_day>38</sales_90_day>
@@ -1125,15 +1125,15 @@
     <item sku="S-RICE-5-LB" status="Low Stock" alert="Critical">
       <product_name>S-RICE-5-LB</product_name>
       <qty_on_hand>54</qty_on_hand>
-      <qty_available>28</qty_available>
-      <qty_allocated>26</qty_allocated>
+      <qty_available>26</qty_available>
+      <qty_allocated>28</qty_allocated>
       <qty_on_order>400</qty_on_order>
-      <days_in_stock>5.4</days_in_stock>
-      <inventory_age>1</inventory_age>
+      <days_in_stock>5.1</days_in_stock>
+      <inventory_age>2</inventory_age>
       <turnover_rate>33.65</turnover_rate>
-      <sales_30_day>162</sales_30_day>
+      <sales_30_day>157</sales_30_day>
       <sales_90_day>448</sales_90_day>
-      <weighted_daily_velocity>5.19</weighted_daily_velocity>
+      <weighted_daily_velocity>5.11</weighted_daily_velocity>
       <last_sale_date>2026-10-21</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
@@ -1143,12 +1143,12 @@
       <qty_available>30</qty_available>
       <qty_allocated>2</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>85.7</days_in_stock>
-      <inventory_age>0</inventory_age>
+      <days_in_stock>90</days_in_stock>
+      <inventory_age>1</inventory_age>
       <turnover_rate>4.94</turnover_rate>
-      <sales_30_day>8</sales_30_day>
+      <sales_30_day>7</sales_30_day>
       <sales_90_day>39</sales_90_day>
-      <weighted_daily_velocity>0.35</weighted_daily_velocity>
+      <weighted_daily_velocity>0.33</weighted_daily_velocity>
       <last_sale_date>2026-10-22</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
@@ -1159,7 +1159,7 @@
       <qty_allocated>0</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>562.5</days_in_stock>
-      <inventory_age>16</inventory_age>
+      <inventory_age>17</inventory_age>
       <turnover_rate>0.81</turnover_rate>
       <sales_30_day>1</sales_30_day>
       <sales_90_day>5</sales_90_day>
@@ -1173,12 +1173,12 @@
       <qty_available>26</qty_available>
       <qty_allocated>3</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>33.4</days_in_stock>
-      <inventory_age>2</inventory_age>
-      <turnover_rate>13.29</turnover_rate>
+      <days_in_stock>33.9</days_in_stock>
+      <inventory_age>3</inventory_age>
+      <turnover_rate>13.01</turnover_rate>
       <sales_30_day>15</sales_30_day>
-      <sales_90_day>95</sales_90_day>
-      <weighted_daily_velocity>0.78</weighted_daily_velocity>
+      <sales_90_day>93</sales_90_day>
+      <weighted_daily_velocity>0.77</weighted_daily_velocity>
       <last_sale_date>2026-10-20</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
@@ -1188,11 +1188,11 @@
       <qty_available>73</qty_available>
       <qty_allocated>0</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>876</days_in_stock>
-      <inventory_age>14</inventory_age>
-      <turnover_rate>0.33</turnover_rate>
+      <days_in_stock>938.6</days_in_stock>
+      <inventory_age>15</inventory_age>
+      <turnover_rate>0.28</turnover_rate>
       <sales_30_day>3</sales_30_day>
-      <sales_90_day>6</sales_90_day>
+      <sales_90_day>5</sales_90_day>
       <weighted_daily_velocity>0.08</weighted_daily_velocity>
       <last_sale_date>2026-10-08</last_sale_date>
       <estimated_value>0</estimated_value>
@@ -1203,27 +1203,27 @@
       <qty_available>-22</qty_available>
       <qty_allocated>22</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>-37.4</days_in_stock>
-      <inventory_age>23</inventory_age>
-      <turnover_rate>283.89</turnover_rate>
+      <days_in_stock>-38.4</days_in_stock>
+      <inventory_age>24</inventory_age>
+      <turnover_rate>271.72</turnover_rate>
       <sales_30_day>12</sales_30_day>
-      <sales_90_day>70</sales_90_day>
-      <weighted_daily_velocity>0.59</weighted_daily_velocity>
+      <sales_90_day>67</sales_90_day>
+      <weighted_daily_velocity>0.57</weighted_daily_velocity>
       <last_sale_date>2026-09-29</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
     <item sku="TURF-CLV-5-LB" status="Optimal" alert="Good">
       <product_name>TURF-CLV-5-LB</product_name>
       <qty_on_hand>695</qty_on_hand>
-      <qty_available>680</qty_available>
-      <qty_allocated>15</qty_allocated>
+      <qty_available>678</qty_available>
+      <qty_allocated>17</qty_allocated>
       <qty_on_order>2</qty_on_order>
-      <days_in_stock>69</days_in_stock>
-      <inventory_age>1</inventory_age>
-      <turnover_rate>6.15</turnover_rate>
-      <sales_30_day>240</sales_30_day>
-      <sales_90_day>1054</sales_90_day>
-      <weighted_daily_velocity>9.86</weighted_daily_velocity>
+      <days_in_stock>71.6</days_in_stock>
+      <inventory_age>2</inventory_age>
+      <turnover_rate>6.08</turnover_rate>
+      <sales_30_day>221</sales_30_day>
+      <sales_90_day>1042</sales_90_day>
+      <weighted_daily_velocity>9.47</weighted_daily_velocity>
       <last_sale_date>2026-10-21</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
@@ -1233,12 +1233,12 @@
       <qty_available>317</qty_available>
       <qty_allocated>2</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>37.4</days_in_stock>
-      <inventory_age>2</inventory_age>
-      <turnover_rate>11.14</turnover_rate>
-      <sales_30_day>217</sales_30_day>
-      <sales_90_day>876</sales_90_day>
-      <weighted_daily_velocity>8.48</weighted_daily_velocity>
+      <days_in_stock>37.8</days_in_stock>
+      <inventory_age>3</inventory_age>
+      <turnover_rate>11.12</turnover_rate>
+      <sales_30_day>211</sales_30_day>
+      <sales_90_day>875</sales_90_day>
+      <weighted_daily_velocity>8.38</weighted_daily_velocity>
       <last_sale_date>2026-10-20</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
@@ -1248,12 +1248,12 @@
       <qty_available>14</qty_available>
       <qty_allocated>0</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>19.7</days_in_stock>
-      <inventory_age>3</inventory_age>
-      <turnover_rate>16.22</turnover_rate>
+      <days_in_stock>20</days_in_stock>
+      <inventory_age>4</inventory_age>
+      <turnover_rate>15.64</turnover_rate>
       <sales_30_day>24</sales_30_day>
-      <sales_90_day>56</sales_90_day>
-      <weighted_daily_velocity>0.71</weighted_daily_velocity>
+      <sales_90_day>54</sales_90_day>
+      <weighted_daily_velocity>0.7</weighted_daily_velocity>
       <last_sale_date>2026-10-19</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
@@ -1263,12 +1263,12 @@
       <qty_available>54</qty_available>
       <qty_allocated>0</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>78.4</days_in_stock>
-      <inventory_age>1</inventory_age>
+      <days_in_stock>89.2</days_in_stock>
+      <inventory_age>2</inventory_age>
       <turnover_rate>5.71</turnover_rate>
-      <sales_30_day>16</sales_30_day>
+      <sales_30_day>11</sales_30_day>
       <sales_90_day>76</sales_90_day>
-      <weighted_daily_velocity>0.69</weighted_daily_velocity>
+      <weighted_daily_velocity>0.61</weighted_daily_velocity>
       <last_sale_date>2026-10-21</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
@@ -1278,12 +1278,12 @@
       <qty_available>48</qty_available>
       <qty_allocated>4</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>23.2</days_in_stock>
-      <inventory_age>1</inventory_age>
+      <days_in_stock>25.3</days_in_stock>
+      <inventory_age>2</inventory_age>
       <turnover_rate>18.48</turnover_rate>
-      <sales_30_day>45</sales_30_day>
+      <sales_30_day>35</sales_30_day>
       <sales_90_day>237</sales_90_day>
-      <weighted_daily_velocity>2.07</weighted_daily_velocity>
+      <weighted_daily_velocity>1.9</weighted_daily_velocity>
       <last_sale_date>2026-10-21</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
@@ -1294,7 +1294,7 @@
       <qty_allocated>0</qty_allocated>
       <qty_on_order>50</qty_on_order>
       <days_in_stock>9.9</days_in_stock>
-      <inventory_age>8</inventory_age>
+      <inventory_age>9</inventory_age>
       <turnover_rate>42.18</turnover_rate>
       <sales_30_day>26</sales_30_day>
       <sales_90_day>104</sales_90_day>
@@ -1309,7 +1309,7 @@
       <qty_allocated>3</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>16.5</days_in_stock>
-      <inventory_age>2</inventory_age>
+      <inventory_age>3</inventory_age>
       <turnover_rate>13.86</turnover_rate>
       <sales_30_day>19</sales_30_day>
       <sales_90_day>41</sales_90_day>
@@ -1323,11 +1323,11 @@
       <qty_available>83</qty_available>
       <qty_allocated>20</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>304.9</days_in_stock>
-      <inventory_age>5</inventory_age>
-      <turnover_rate>0.75</turnover_rate>
+      <days_in_stock>311.3</days_in_stock>
+      <inventory_age>6</inventory_age>
+      <turnover_rate>0.71</turnover_rate>
       <sales_30_day>10</sales_30_day>
-      <sales_90_day>19</sales_90_day>
+      <sales_90_day>18</sales_90_day>
       <weighted_daily_velocity>0.27</weighted_daily_velocity>
       <last_sale_date>2026-10-17</last_sale_date>
       <estimated_value>0</estimated_value>
@@ -1339,7 +1339,7 @@
       <qty_allocated>2</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>47.1</days_in_stock>
-      <inventory_age>3</inventory_age>
+      <inventory_age>4</inventory_age>
       <turnover_rate>9.79</turnover_rate>
       <sales_30_day>19</sales_30_day>
       <sales_90_day>111</sales_90_day>
@@ -1353,12 +1353,12 @@
       <qty_available>159</qty_available>
       <qty_allocated>0</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>32</days_in_stock>
-      <inventory_age>1</inventory_age>
-      <turnover_rate>15.1</turnover_rate>
-      <sales_30_day>101</sales_30_day>
-      <sales_90_day>592</sales_90_day>
-      <weighted_daily_velocity>4.97</weighted_daily_velocity>
+      <days_in_stock>33</days_in_stock>
+      <inventory_age>2</inventory_age>
+      <turnover_rate>14.92</turnover_rate>
+      <sales_30_day>94</sales_30_day>
+      <sales_90_day>585</sales_90_day>
+      <weighted_daily_velocity>4.82</weighted_daily_velocity>
       <last_sale_date>2026-10-21</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
@@ -1369,7 +1369,7 @@
       <qty_allocated>1</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>110.9</days_in_stock>
-      <inventory_age>1</inventory_age>
+      <inventory_age>2</inventory_age>
       <turnover_rate>3.01</turnover_rate>
       <sales_30_day>20</sales_30_day>
       <sales_90_day>52</sales_90_day>
@@ -1383,12 +1383,12 @@
       <qty_available>79</qty_available>
       <qty_allocated>1</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>38.3</days_in_stock>
-      <inventory_age>1</inventory_age>
-      <turnover_rate>9.83</turnover_rate>
+      <days_in_stock>38.5</days_in_stock>
+      <inventory_age>2</inventory_age>
+      <turnover_rate>9.73</turnover_rate>
       <sales_30_day>59</sales_30_day>
-      <sales_90_day>194</sales_90_day>
-      <weighted_daily_velocity>2.06</weighted_daily_velocity>
+      <sales_90_day>192</sales_90_day>
+      <weighted_daily_velocity>2.05</weighted_daily_velocity>
       <last_sale_date>2026-10-21</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
@@ -1398,12 +1398,12 @@
       <qty_available>119</qty_available>
       <qty_allocated>0</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>20.3</days_in_stock>
-      <inventory_age>0</inventory_age>
-      <turnover_rate>20.99</turnover_rate>
-      <sales_30_day>147</sales_30_day>
-      <sales_90_day>616</sales_90_day>
-      <weighted_daily_velocity>5.87</weighted_daily_velocity>
+      <days_in_stock>20.5</days_in_stock>
+      <inventory_age>1</inventory_age>
+      <turnover_rate>20.82</turnover_rate>
+      <sales_30_day>144</sales_30_day>
+      <sales_90_day>611</sales_90_day>
+      <weighted_daily_velocity>5.79</weighted_daily_velocity>
       <last_sale_date>2026-10-22</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
@@ -1413,12 +1413,12 @@
       <qty_available>106</qty_available>
       <qty_allocated>54</qty_allocated>
       <qty_on_order>1</qty_on_order>
-      <days_in_stock>35.9</days_in_stock>
-      <inventory_age>13</inventory_age>
-      <turnover_rate>9.45</turnover_rate>
-      <sales_30_day>53</sales_30_day>
-      <sales_90_day>373</sales_90_day>
-      <weighted_daily_velocity>2.96</weighted_daily_velocity>
+      <days_in_stock>36.1</days_in_stock>
+      <inventory_age>14</inventory_age>
+      <turnover_rate>9.43</turnover_rate>
+      <sales_30_day>52</sales_30_day>
+      <sales_90_day>372</sales_90_day>
+      <weighted_daily_velocity>2.93</weighted_daily_velocity>
       <last_sale_date>2026-10-09</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
@@ -1428,12 +1428,12 @@
       <qty_available>-19</qty_available>
       <qty_allocated>28</qty_allocated>
       <qty_on_order>100</qty_on_order>
-      <days_in_stock>-12.5</days_in_stock>
-      <inventory_age>7</inventory_age>
+      <days_in_stock>-13.1</days_in_stock>
+      <inventory_age>8</inventory_age>
       <turnover_rate>51.82</turnover_rate>
-      <sales_30_day>53</sales_30_day>
+      <sales_30_day>49</sales_30_day>
       <sales_90_day>115</sales_90_day>
-      <weighted_daily_velocity>1.52</weighted_daily_velocity>
+      <weighted_daily_velocity>1.46</weighted_daily_velocity>
       <last_sale_date>2026-10-15</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
@@ -1444,7 +1444,7 @@
       <qty_allocated>5</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>290.1</days_in_stock>
-      <inventory_age>5</inventory_age>
+      <inventory_age>6</inventory_age>
       <turnover_rate>1.44</turnover_rate>
       <sales_30_day>9</sales_30_day>
       <sales_90_day>40</sales_90_day>
@@ -1458,12 +1458,12 @@
       <qty_available>-31</qty_available>
       <qty_allocated>32</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>-29.1</days_in_stock>
-      <inventory_age>17</inventory_age>
+      <days_in_stock>-31</days_in_stock>
+      <inventory_age>18</inventory_age>
       <turnover_rate>328.5</turnover_rate>
-      <sales_30_day>37</sales_30_day>
+      <sales_30_day>33</sales_30_day>
       <sales_90_day>81</sales_90_day>
-      <weighted_daily_velocity>1.07</weighted_daily_velocity>
+      <weighted_daily_velocity>1</weighted_daily_velocity>
       <last_sale_date>2026-10-05</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
@@ -1474,7 +1474,7 @@
       <qty_allocated>2</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>33.5</days_in_stock>
-      <inventory_age>20</inventory_age>
+      <inventory_age>21</inventory_age>
       <turnover_rate>12.62</turnover_rate>
       <sales_30_day>10</sales_30_day>
       <sales_90_day>56</sales_90_day>
@@ -1489,7 +1489,7 @@
       <qty_allocated>0</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>43.8</days_in_stock>
-      <inventory_age>17</inventory_age>
+      <inventory_age>18</inventory_age>
       <turnover_rate>6.53</turnover_rate>
       <sales_30_day>15</sales_30_day>
       <sales_90_day>29</sales_90_day>
@@ -1504,7 +1504,7 @@
       <qty_allocated>0</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>24.3</days_in_stock>
-      <inventory_age>14</inventory_age>
+      <inventory_age>15</inventory_age>
       <turnover_rate>10.81</turnover_rate>
       <sales_30_day>19</sales_30_day>
       <sales_90_day>32</sales_90_day>
@@ -1518,12 +1518,12 @@
       <qty_available>-18</qty_available>
       <qty_allocated>20</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>-30.9</days_in_stock>
-      <inventory_age>8</inventory_age>
+      <days_in_stock>-32.7</days_in_stock>
+      <inventory_age>9</inventory_age>
       <turnover_rate>73</turnover_rate>
-      <sales_30_day>23</sales_30_day>
+      <sales_30_day>21</sales_30_day>
       <sales_90_day>36</sales_90_day>
-      <weighted_daily_velocity>0.58</weighted_daily_velocity>
+      <weighted_daily_velocity>0.55</weighted_daily_velocity>
       <last_sale_date>2026-10-14</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
@@ -1533,12 +1533,12 @@
       <qty_available>40</qty_available>
       <qty_allocated>5</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>300</days_in_stock>
-      <inventory_age>30</inventory_age>
+      <days_in_stock>342.9</days_in_stock>
+      <inventory_age>31</inventory_age>
       <turnover_rate>1.89</turnover_rate>
-      <sales_30_day>1</sales_30_day>
+      <sales_30_day>0</sales_30_day>
       <sales_90_day>21</sales_90_day>
-      <weighted_daily_velocity>0.13</weighted_daily_velocity>
+      <weighted_daily_velocity>0.12</weighted_daily_velocity>
       <last_sale_date>2026-09-22</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
@@ -1549,7 +1549,7 @@
       <qty_allocated>0</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>123.4</days_in_stock>
-      <inventory_age>6</inventory_age>
+      <inventory_age>7</inventory_age>
       <turnover_rate>2.37</turnover_rate>
       <sales_30_day>7</sales_30_day>
       <sales_90_day>14</sales_90_day>
@@ -1560,15 +1560,15 @@
     <item sku="W-ESCA-0.25-LB" status="Low Stock" alert="Critical">
       <product_name>W-ESCA-0.25-LB</product_name>
       <qty_on_hand>309</qty_on_hand>
-      <qty_available>-471</qty_available>
-      <qty_allocated>780</qty_allocated>
+      <qty_available>-479</qty_available>
+      <qty_allocated>788</qty_allocated>
       <qty_on_order>400</qty_on_order>
-      <days_in_stock>-42.3</days_in_stock>
-      <inventory_age>2</inventory_age>
-      <turnover_rate>11.39</turnover_rate>
-      <sales_30_day>378</sales_30_day>
-      <sales_90_day>868</sales_90_day>
-      <weighted_daily_velocity>11.12</weighted_daily_velocity>
+      <days_in_stock>-44.6</days_in_stock>
+      <inventory_age>3</inventory_age>
+      <turnover_rate>11.35</turnover_rate>
+      <sales_30_day>356</sales_30_day>
+      <sales_90_day>865</sales_90_day>
+      <weighted_daily_velocity>10.74</weighted_daily_velocity>
       <last_sale_date>2026-10-20</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
@@ -1578,12 +1578,12 @@
       <qty_available>17</qty_available>
       <qty_allocated>8</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>30</days_in_stock>
-      <inventory_age>1</inventory_age>
-      <turnover_rate>8.76</turnover_rate>
-      <sales_30_day>16</sales_30_day>
-      <sales_90_day>54</sales_90_day>
-      <weighted_daily_velocity>0.57</weighted_daily_velocity>
+      <days_in_stock>32.2</days_in_stock>
+      <inventory_age>2</inventory_age>
+      <turnover_rate>8.6</turnover_rate>
+      <sales_30_day>14</sales_30_day>
+      <sales_90_day>53</sales_90_day>
+      <weighted_daily_velocity>0.53</weighted_daily_velocity>
       <last_sale_date>2026-10-21</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
@@ -1594,7 +1594,7 @@
       <qty_allocated>38</qty_allocated>
       <qty_on_order>40</qty_on_order>
       <days_in_stock>11.9</days_in_stock>
-      <inventory_age>4</inventory_age>
+      <inventory_age>5</inventory_age>
       <turnover_rate>4.46</turnover_rate>
       <sales_30_day>42</sales_30_day>
       <sales_90_day>55</sales_90_day>
@@ -1609,7 +1609,7 @@
       <qty_allocated>0</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>61.1</days_in_stock>
-      <inventory_age>14</inventory_age>
+      <inventory_age>15</inventory_age>
       <turnover_rate>5.86</turnover_rate>
       <sales_30_day>9</sales_30_day>
       <sales_90_day>26</sales_90_day>
@@ -1624,7 +1624,7 @@
       <qty_allocated>15</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>-4.5</days_in_stock>
-      <inventory_age>8</inventory_age>
+      <inventory_age>9</inventory_age>
       <turnover_rate>87.19</turnover_rate>
       <sales_30_day>77</sales_30_day>
       <sales_90_day>129</sales_90_day>
@@ -1639,7 +1639,7 @@
       <qty_allocated>8</qty_allocated>
       <qty_on_order>40</qty_on_order>
       <days_in_stock>1.6</days_in_stock>
-      <inventory_age>0</inventory_age>
+      <inventory_age>1</inventory_age>
       <turnover_rate>76.38</turnover_rate>
       <sales_30_day>75</sales_30_day>
       <sales_90_day>226</sales_90_day>
@@ -1653,12 +1653,12 @@
       <qty_available>-12</qty_available>
       <qty_allocated>64</qty_allocated>
       <qty_on_order>60</qty_on_order>
-      <days_in_stock>-5.9</days_in_stock>
-      <inventory_age>5</inventory_age>
+      <days_in_stock>-6.7</days_in_stock>
+      <inventory_age>6</inventory_age>
       <turnover_rate>12.4</turnover_rate>
-      <sales_30_day>69</sales_30_day>
+      <sales_30_day>55</sales_30_day>
       <sales_90_day>159</sales_90_day>
-      <weighted_daily_velocity>2.03</weighted_daily_velocity>
+      <weighted_daily_velocity>1.8</weighted_daily_velocity>
       <last_sale_date>2026-10-17</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
@@ -1669,7 +1669,7 @@
       <qty_allocated>0</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>36.5</days_in_stock>
-      <inventory_age>11</inventory_age>
+      <inventory_age>12</inventory_age>
       <turnover_rate>8.26</turnover_rate>
       <sales_30_day>26</sales_30_day>
       <sales_90_day>55</sales_90_day>
@@ -1684,7 +1684,7 @@
       <qty_allocated>0</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>47.4</days_in_stock>
-      <inventory_age>14</inventory_age>
+      <inventory_age>15</inventory_age>
       <turnover_rate>10.54</turnover_rate>
       <sales_30_day>2</sales_30_day>
       <sales_90_day>13</sales_90_day>
@@ -1699,7 +1699,7 @@
       <qty_allocated>0</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>58.7</days_in_stock>
-      <inventory_age>5</inventory_age>
+      <inventory_age>6</inventory_age>
       <turnover_rate>5.73</turnover_rate>
       <sales_30_day>16</sales_30_day>
       <sales_90_day>41</sales_90_day>
@@ -1714,7 +1714,7 @@
       <qty_allocated>1</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>19.5</days_in_stock>
-      <inventory_age>12</inventory_age>
+      <inventory_age>13</inventory_age>
       <turnover_rate>12.98</turnover_rate>
       <sales_30_day>7</sales_30_day>
       <sales_90_day>16</sales_90_day>
@@ -1729,7 +1729,7 @@
       <qty_allocated>13</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>70.2</days_in_stock>
-      <inventory_age>16</inventory_age>
+      <inventory_age>17</inventory_age>
       <turnover_rate>3.27</turnover_rate>
       <sales_30_day>10</sales_30_day>
       <sales_90_day>29</sales_90_day>
@@ -1744,7 +1744,7 @@
       <qty_allocated>0</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>33.4</days_in_stock>
-      <inventory_age>3</inventory_age>
+      <inventory_age>4</inventory_age>
       <turnover_rate>9.67</turnover_rate>
       <sales_30_day>13</sales_30_day>
       <sales_90_day>31</sales_90_day>
@@ -1758,42 +1758,42 @@
       <qty_available>38</qty_available>
       <qty_allocated>8</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>17.8</days_in_stock>
-      <inventory_age>5</inventory_age>
+      <days_in_stock>18.4</days_in_stock>
+      <inventory_age>6</inventory_age>
       <turnover_rate>17.46</turnover_rate>
-      <sales_30_day>62</sales_30_day>
+      <sales_30_day>58</sales_30_day>
       <sales_90_day>198</sales_90_day>
-      <weighted_daily_velocity>2.13</weighted_daily_velocity>
+      <weighted_daily_velocity>2.07</weighted_daily_velocity>
       <last_sale_date>2026-10-17</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
     <item sku="WB-CALN-0.5-LB" status="Low Stock" alert="Critical">
       <product_name>WB-CALN-0.5-LB</product_name>
       <qty_on_hand>39</qty_on_hand>
-      <qty_available>-161</qty_available>
-      <qty_allocated>200</qty_allocated>
+      <qty_available>-171</qty_available>
+      <qty_allocated>210</qty_allocated>
       <qty_on_order>600</qty_on_order>
-      <days_in_stock>-21.2</days_in_stock>
-      <inventory_age>2</inventory_age>
+      <days_in_stock>-23.8</days_in_stock>
+      <inventory_age>3</inventory_age>
       <turnover_rate>53.24</turnover_rate>
-      <sales_30_day>286</sales_30_day>
+      <sales_30_day>260</sales_30_day>
       <sales_90_day>512</sales_90_day>
-      <weighted_daily_velocity>7.61</weighted_daily_velocity>
+      <weighted_daily_velocity>7.18</weighted_daily_velocity>
       <last_sale_date>2026-10-20</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
     <item sku="WB-CCN-0.5-LB" status="Low Stock" alert="Warning">
       <product_name>WB-CCN-0.5-LB</product_name>
       <qty_on_hand>170</qty_on_hand>
-      <qty_available>28</qty_available>
-      <qty_allocated>142</qty_allocated>
+      <qty_available>26</qty_available>
+      <qty_allocated>144</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>8.1</days_in_stock>
-      <inventory_age>6</inventory_age>
-      <turnover_rate>8.09</turnover_rate>
-      <sales_30_day>95</sales_30_day>
-      <sales_90_day>339</sales_90_day>
-      <weighted_daily_velocity>3.47</weighted_daily_velocity>
+      <days_in_stock>7.6</days_in_stock>
+      <inventory_age>7</inventory_age>
+      <turnover_rate>7.94</turnover_rate>
+      <sales_30_day>93</sales_30_day>
+      <sales_90_day>333</sales_90_day>
+      <weighted_daily_velocity>3.4</weighted_daily_velocity>
       <last_sale_date>2026-10-16</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
@@ -1849,7 +1849,7 @@
       <qty_allocated>37</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>75.4</days_in_stock>
-      <inventory_age>10</inventory_age>
+      <inventory_age>11</inventory_age>
       <turnover_rate>2.96</turnover_rate>
       <sales_30_day>71</sales_30_day>
       <sales_90_day>133</sales_90_day>
@@ -1863,12 +1863,12 @@
       <qty_available>23</qty_available>
       <qty_allocated>0</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>22.9</days_in_stock>
-      <inventory_age>7</inventory_age>
+      <days_in_stock>23.7</days_in_stock>
+      <inventory_age>8</inventory_age>
       <turnover_rate>13.4</turnover_rate>
-      <sales_30_day>35</sales_30_day>
+      <sales_30_day>33</sales_30_day>
       <sales_90_day>76</sales_90_day>
-      <weighted_daily_velocity>1.01</weighted_daily_velocity>
+      <weighted_daily_velocity>0.97</weighted_daily_velocity>
       <last_sale_date>2026-10-15</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
@@ -1878,12 +1878,12 @@
       <qty_available>102</qty_available>
       <qty_allocated>1</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>18.3</days_in_stock>
-      <inventory_age>0</inventory_age>
-      <turnover_rate>18.94</turnover_rate>
-      <sales_30_day>175</sales_30_day>
-      <sales_90_day>481</sales_90_day>
-      <weighted_daily_velocity>5.59</weighted_daily_velocity>
+      <days_in_stock>18.4</days_in_stock>
+      <inventory_age>1</inventory_age>
+      <turnover_rate>18.9</turnover_rate>
+      <sales_30_day>173</sales_30_day>
+      <sales_90_day>480</sales_90_day>
+      <weighted_daily_velocity>5.55</weighted_daily_velocity>
       <last_sale_date>2026-10-22</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
@@ -1893,12 +1893,12 @@
       <qty_available>54</qty_available>
       <qty_allocated>0</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>33.1</days_in_stock>
-      <inventory_age>1</inventory_age>
+      <days_in_stock>33.4</days_in_stock>
+      <inventory_age>2</inventory_age>
       <turnover_rate>12.84</turnover_rate>
-      <sales_30_day>41</sales_30_day>
+      <sales_30_day>40</sales_30_day>
       <sales_90_day>171</sales_90_day>
-      <weighted_daily_velocity>1.63</weighted_daily_velocity>
+      <weighted_daily_velocity>1.62</weighted_daily_velocity>
       <last_sale_date>2026-10-21</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
@@ -1909,7 +1909,7 @@
       <qty_allocated>0</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>48.3</days_in_stock>
-      <inventory_age>11</inventory_age>
+      <inventory_age>12</inventory_age>
       <turnover_rate>8.67</turnover_rate>
       <sales_30_day>27</sales_30_day>
       <sales_90_day>109</sales_90_day>
@@ -1923,12 +1923,12 @@
       <qty_available>268</qty_available>
       <qty_allocated>167</qty_allocated>
       <qty_on_order>2</qty_on_order>
-      <days_in_stock>21.1</days_in_stock>
-      <inventory_age>7</inventory_age>
+      <days_in_stock>21.4</days_in_stock>
+      <inventory_age>8</inventory_age>
       <turnover_rate>8.46</turnover_rate>
-      <sales_30_day>461</sales_30_day>
+      <sales_30_day>449</sales_30_day>
       <sales_90_day>907</sales_90_day>
-      <weighted_daily_velocity>12.72</weighted_daily_velocity>
+      <weighted_daily_velocity>12.52</weighted_daily_velocity>
       <last_sale_date>2026-10-15</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
@@ -1939,11 +1939,11 @@
       <qty_allocated>61</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>-26.8</days_in_stock>
-      <inventory_age>2</inventory_age>
-      <turnover_rate>251.44</turnover_rate>
+      <inventory_age>3</inventory_age>
+      <turnover_rate>250.09</turnover_rate>
       <sales_30_day>68</sales_30_day>
-      <sales_90_day>186</sales_90_day>
-      <weighted_daily_velocity>2.17</weighted_daily_velocity>
+      <sales_90_day>185</sales_90_day>
+      <weighted_daily_velocity>2.16</weighted_daily_velocity>
       <last_sale_date>2026-10-20</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
@@ -1954,7 +1954,7 @@
       <qty_allocated>39</qty_allocated>
       <qty_on_order>50</qty_on_order>
       <days_in_stock>-9.3</days_in_stock>
-      <inventory_age>5</inventory_age>
+      <inventory_age>6</inventory_age>
       <turnover_rate>49.68</turnover_rate>
       <sales_30_day>83</sales_30_day>
       <sales_90_day>196</sales_90_day>
@@ -1965,15 +1965,15 @@
     <item sku="WB-TXPB-0.5-LB" status="Low Stock" alert="Critical">
       <product_name>WB-TXPB-0.5-LB</product_name>
       <qty_on_hand>14</qty_on_hand>
-      <qty_available>-90</qty_available>
-      <qty_allocated>104</qty_allocated>
+      <qty_available>-91</qty_available>
+      <qty_allocated>105</qty_allocated>
       <qty_on_order>200</qty_on_order>
-      <days_in_stock>-24.6</days_in_stock>
-      <inventory_age>5</inventory_age>
-      <turnover_rate>89.8</turnover_rate>
+      <days_in_stock>-24.9</days_in_stock>
+      <inventory_age>6</inventory_age>
+      <turnover_rate>89.51</turnover_rate>
       <sales_30_day>116</sales_30_day>
-      <sales_90_day>310</sales_90_day>
-      <weighted_daily_velocity>3.66</weighted_daily_velocity>
+      <sales_90_day>309</sales_90_day>
+      <weighted_daily_velocity>3.65</weighted_daily_velocity>
       <last_sale_date>2026-10-17</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
@@ -1984,7 +1984,7 @@
       <qty_allocated>18</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>189.8</days_in_stock>
-      <inventory_age>2</inventory_age>
+      <inventory_age>3</inventory_age>
       <turnover_rate>1.72</turnover_rate>
       <sales_30_day>28</sales_30_day>
       <sales_90_day>82</sales_90_day>
