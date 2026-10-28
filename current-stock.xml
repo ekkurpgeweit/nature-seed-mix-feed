@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<current_stock generated_at="2026-10-28T18:47:32.364Z" sales_channel="woocommerce" feed_last_updated="2026-10-28">
+<current_stock generated_at="2026-10-28T23:06:47.583Z" sales_channel="woocommerce" feed_last_updated="2026-10-28">
   <summary>
     <total_skus>132</total_skus>
-    <total_value>8437</total_value>
-    <low_stock_count>32</low_stock_count>
+    <total_value>9002</total_value>
+    <low_stock_count>31</low_stock_count>
     <overstock_count>39</overstock_count>
     <no_sales_count>10</no_sales_count>
     <new_count>0</new_count>
-    <critical_alerts>25</critical_alerts>
-    <warning_alerts>46</warning_alerts>
-    <avg_turnover_rate>33.58</avg_turnover_rate>
+    <critical_alerts>26</critical_alerts>
+    <warning_alerts>44</warning_alerts>
+    <avg_turnover_rate>32.84</avg_turnover_rate>
   </summary>
   <items>
     <item sku="2750AL-A" status="Overstock" alert="Warning">
@@ -75,10 +75,10 @@
     <item sku="CV-CNFW-5-LB" status="Overstock" alert="Warning">
       <product_name>CV-CNFW-5-LB</product_name>
       <qty_on_hand>20</qty_on_hand>
-      <qty_available>20</qty_available>
-      <qty_allocated>0</qty_allocated>
+      <qty_available>18</qty_available>
+      <qty_allocated>2</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>133.3</days_in_stock>
+      <days_in_stock>120</days_in_stock>
       <inventory_age>6</inventory_age>
       <turnover_rate>1.83</turnover_rate>
       <sales_30_day>6</sales_30_day>
@@ -300,8 +300,8 @@
     <item sku="PB-GOAT-10-LB" status="No Sales" alert="Review">
       <product_name>PB-GOAT-10-LB</product_name>
       <qty_on_hand>67</qty_on_hand>
-      <qty_available>47</qty_available>
-      <qty_allocated>20</qty_allocated>
+      <qty_available>42</qty_available>
+      <qty_allocated>25</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>0</days_in_stock>
       <inventory_age>999</inventory_age>
@@ -645,10 +645,10 @@
     <item sku="PG-BUDA-5-LB" status="Overstock" alert="Warning">
       <product_name>PG-BUDA-5-LB</product_name>
       <qty_on_hand>15</qty_on_hand>
-      <qty_available>13</qty_available>
-      <qty_allocated>2</qty_allocated>
+      <qty_available>11</qty_available>
+      <qty_allocated>4</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>780</days_in_stock>
+      <days_in_stock>660</days_in_stock>
       <inventory_age>35</inventory_age>
       <turnover_rate>0.81</turnover_rate>
       <sales_30_day>0</sales_30_day>
@@ -690,10 +690,10 @@
     <item sku="PG-DAGL-5-LB" status="Low Stock" alert="Critical">
       <product_name>PG-DAGL-5-LB</product_name>
       <qty_on_hand>5</qty_on_hand>
-      <qty_available>-17</qty_available>
-      <qty_allocated>22</qty_allocated>
+      <qty_available>-22</qty_available>
+      <qty_allocated>27</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>-6.2</days_in_stock>
+      <days_in_stock>-8</days_in_stock>
       <inventory_age>15</inventory_age>
       <turnover_rate>266.04</turnover_rate>
       <sales_30_day>55</sales_30_day>
@@ -1125,10 +1125,10 @@
     <item sku="S-RICE-5-LB" status="Low Stock" alert="Critical">
       <product_name>S-RICE-5-LB</product_name>
       <qty_on_hand>38</qty_on_hand>
-      <qty_available>-7</qty_available>
-      <qty_allocated>45</qty_allocated>
+      <qty_available>-11</qty_available>
+      <qty_allocated>49</qty_allocated>
       <qty_on_order>400</qty_on_order>
-      <days_in_stock>-1.4</days_in_stock>
+      <days_in_stock>-2.3</days_in_stock>
       <inventory_age>4</inventory_age>
       <turnover_rate>47.92</turnover_rate>
       <sales_30_day>143</sales_30_day>
@@ -1215,10 +1215,10 @@
     <item sku="TURF-CLV-5-LB" status="Optimal" alert="Good">
       <product_name>TURF-CLV-5-LB</product_name>
       <qty_on_hand>671</qty_on_hand>
-      <qty_available>656</qty_available>
-      <qty_allocated>15</qty_allocated>
+      <qty_available>654</qty_available>
+      <qty_allocated>17</qty_allocated>
       <qty_on_order>2</qty_on_order>
-      <days_in_stock>73.8</days_in_stock>
+      <days_in_stock>73.6</days_in_stock>
       <inventory_age>4</inventory_age>
       <turnover_rate>6.21</turnover_rate>
       <sales_30_day>191</sales_30_day>
@@ -1350,10 +1350,10 @@
     <item sku="TURF-W-BR-5-LB" status="Optimal" alert="Good">
       <product_name>TURF-W-BR-5-LB</product_name>
       <qty_on_hand>157</qty_on_hand>
-      <qty_available>157</qty_available>
-      <qty_allocated>0</qty_allocated>
+      <qty_available>153</qty_available>
+      <qty_allocated>4</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>35.4</days_in_stock>
+      <days_in_stock>34.5</days_in_stock>
       <inventory_age>5</inventory_age>
       <turnover_rate>14.67</turnover_rate>
       <sales_30_day>77</sales_30_day>
@@ -1560,10 +1560,10 @@
     <item sku="W-ESCA-0.25-LB" status="Low Stock" alert="Critical">
       <product_name>W-ESCA-0.25-LB</product_name>
       <qty_on_hand>408</qty_on_hand>
-      <qty_available>-184</qty_available>
-      <qty_allocated>592</qty_allocated>
+      <qty_available>-188</qty_available>
+      <qty_allocated>596</qty_allocated>
       <qty_on_order>400</qty_on_order>
-      <days_in_stock>-12.2</days_in_stock>
+      <days_in_stock>-12.4</days_in_stock>
       <inventory_age>8</inventory_age>
       <turnover_rate>11.1</turnover_rate>
       <sales_30_day>534</sales_30_day>
@@ -1632,13 +1632,13 @@
       <last_sale_date>2026-10-18</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
-    <item sku="W-LUTE-0.25-LB" status="Low Stock" alert="Warning">
+    <item sku="W-LUTE-0.25-LB" status="Low Stock" alert="Critical">
       <product_name>W-LUTE-0.25-LB</product_name>
       <qty_on_hand>42</qty_on_hand>
-      <qty_available>16</qty_available>
-      <qty_allocated>26</qty_allocated>
+      <qty_available>8</qty_available>
+      <qty_allocated>34</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>7.2</days_in_stock>
+      <days_in_stock>3.6</days_in_stock>
       <inventory_age>4</inventory_age>
       <turnover_rate>22.5</turnover_rate>
       <sales_30_day>56</sales_30_day>
@@ -1767,15 +1767,15 @@
       <last_sale_date>2026-10-22</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
-    <item sku="WB-CALN-0.5-LB" status="Low Stock" alert="Critical">
+    <item sku="WB-CALN-0.5-LB" status="Optimal" alert="Good">
       <product_name>WB-CALN-0.5-LB</product_name>
-      <qty_on_hand>21</qty_on_hand>
-      <qty_available>-238</qty_available>
+      <qty_on_hand>586</qty_on_hand>
+      <qty_available>327</qty_available>
       <qty_allocated>259</qty_allocated>
-      <qty_on_order>600</qty_on_order>
-      <days_in_stock>-39.3</days_in_stock>
+      <qty_on_order>0</qty_on_order>
+      <days_in_stock>54</days_in_stock>
       <inventory_age>6</inventory_age>
-      <turnover_rate>101.58</turnover_rate>
+      <turnover_rate>3.64</turnover_rate>
       <sales_30_day>188</sales_30_day>
       <sales_90_day>526</sales_90_day>
       <weighted_daily_velocity>6.06</weighted_daily_velocity>
@@ -1785,10 +1785,10 @@
     <item sku="WB-CCN-0.5-LB" status="Low Stock" alert="Critical">
       <product_name>WB-CCN-0.5-LB</product_name>
       <qty_on_hand>105</qty_on_hand>
-      <qty_available>-4</qty_available>
-      <qty_allocated>109</qty_allocated>
+      <qty_available>-5</qty_available>
+      <qty_allocated>110</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>-0.9</days_in_stock>
+      <days_in_stock>-1.1</days_in_stock>
       <inventory_age>4</inventory_age>
       <turnover_rate>14.99</turnover_rate>
       <sales_30_day>139</sales_30_day>
@@ -1857,13 +1857,13 @@
       <last_sale_date>2026-10-19</last_sale_date>
       <estimated_value>0</estimated_value>
     </item>
-    <item sku="WB-FLCO-0.5-LB" status="Low Stock" alert="Warning">
+    <item sku="WB-FLCO-0.5-LB" status="Low Stock" alert="Critical">
       <product_name>WB-FLCO-0.5-LB</product_name>
       <qty_on_hand>22</qty_on_hand>
-      <qty_available>9</qty_available>
-      <qty_allocated>13</qty_allocated>
+      <qty_available>5</qty_available>
+      <qty_allocated>17</qty_allocated>
       <qty_on_order>120</qty_on_order>
-      <days_in_stock>9.8</days_in_stock>
+      <days_in_stock>5.5</days_in_stock>
       <inventory_age>13</inventory_age>
       <turnover_rate>13.83</turnover_rate>
       <sales_30_day>30</sales_30_day>
@@ -1875,10 +1875,10 @@
     <item sku="WB-FLN-0.5-LB" status="Low Stock" alert="Warning">
       <product_name>WB-FLN-0.5-LB</product_name>
       <qty_on_hand>100</qty_on_hand>
-      <qty_available>58</qty_available>
-      <qty_allocated>42</qty_allocated>
+      <qty_available>56</qty_available>
+      <qty_allocated>44</qty_allocated>
       <qty_on_order>120</qty_on_order>
-      <days_in_stock>11.9</days_in_stock>
+      <days_in_stock>11.5</days_in_stock>
       <inventory_age>5</inventory_age>
       <turnover_rate>18.57</turnover_rate>
       <sales_30_day>139</sales_30_day>
@@ -1920,10 +1920,10 @@
     <item sku="WB-RM-0.5-LB" status="Low Stock" alert="Warning">
       <product_name>WB-RM-0.5-LB</product_name>
       <qty_on_hand>234</qty_on_hand>
-      <qty_available>165</qty_available>
-      <qty_allocated>69</qty_allocated>
+      <qty_available>155</qty_available>
+      <qty_allocated>79</qty_allocated>
       <qty_on_order>2</qty_on_order>
-      <days_in_stock>11.6</days_in_stock>
+      <days_in_stock>10.9</days_in_stock>
       <inventory_age>4</inventory_age>
       <turnover_rate>18.74</turnover_rate>
       <sales_30_day>494</sales_30_day>
@@ -1935,10 +1935,10 @@
     <item sku="WB-SD-0.5-LB" status="Low Stock" alert="Critical">
       <product_name>WB-SD-0.5-LB</product_name>
       <qty_on_hand>1</qty_on_hand>
-      <qty_available>-64</qty_available>
-      <qty_allocated>65</qty_allocated>
+      <qty_available>-74</qty_available>
+      <qty_allocated>75</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>-33</days_in_stock>
+      <days_in_stock>-38.2</days_in_stock>
       <inventory_age>8</inventory_age>
       <turnover_rate>709.72</turnover_rate>
       <sales_30_day>58</sales_30_day>
