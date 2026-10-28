@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mix_compositions generated_at="2026-10-27T04:30:46.222Z" feed_last_updated="2026-09-23T13:05:21-06:00">
+<mix_compositions generated_at="2026-10-28T05:01:44.135Z" feed_last_updated="2026-10-22T11:50:56-06:00">
   <mix sku="CV-BGEC-10-LB" category="Conservation">
     <name>Prairie Native Drought-Tolerant &amp; Erosion Control Mix</name>
     <components>
@@ -192,35 +192,28 @@
     </components>
   </mix>
   <mix sku="PB-ALPACA-10-LB" category="Pasture Blend">
-    <name>Alpaca &amp; Llama Pasture &amp; Forage Mix</name>
+    <name>Alpaca Pasture Mix</name>
     <components>
-      <component>
-        <code>PHPR</code>
-        <common_name>Timothy</common_name>
-        <species>Phleum pratense</species>
-        <variety>Climax</variety>
-        <percentage>25.00</percentage>
-      </component>
       <component>
         <code>BRBI</code>
         <common_name>Meadow Bromegrass</common_name>
         <species>Bromus biebersteinii</species>
         <variety>Cache</variety>
-        <percentage>25.00</percentage>
+        <percentage>50</percentage>
+      </component>
+      <component>
+        <code>PHPR</code>
+        <common_name>Timothy</common_name>
+        <species>Phleum pratense</species>
+        <variety>Climax</variety>
+        <percentage>25</percentage>
       </component>
       <component>
         <code>POPR</code>
         <common_name>Kentucky Bluegrass</common_name>
         <species>Poa pratensis</species>
         <variety>Filly</variety>
-        <percentage>25.00</percentage>
-      </component>
-      <component>
-        <code>DAGL</code>
-        <common_name>Orchardgrass</common_name>
-        <species>Dactylis glomerata</species>
-        <variety>Paiute</variety>
-        <percentage>25.00</percentage>
+        <percentage>25</percentage>
       </component>
     </components>
   </mix>
@@ -327,11 +320,109 @@
     <name>Chaparral Sage Scrub</name>
     <components>
       <component>
-        <code>MIX</code>
-        <common_name></common_name>
-        <species>PREMIXED</species>
-        <variety>Chaparral Sage Scrub</variety>
-        <percentage>100.00</percentage>
+        <code>ERFA</code>
+        <common_name>California buckwheat</common_name>
+        <species>Eriogonum fasciculatum</species>
+        <variety>Foliolosum</variety>
+        <percentage>17.00</percentage>
+      </component>
+      <component>
+        <code>VUMI</code>
+        <common_name>Small Fescue</common_name>
+        <species>Vulpia microstachys</species>
+        <variety>VNS</variety>
+        <percentage>17.00</percentage>
+      </component>
+      <component>
+        <code>LOSC2</code>
+        <common_name>Common Deerweed</common_name>
+        <species>Acmispon glaber</species>
+        <variety>brevialatus</variety>
+        <percentage>13.00</percentage>
+      </component>
+      <component>
+        <code>NAPU</code>
+        <common_name>Purple Needlegrass</common_name>
+        <species>Nassella pulchra</species>
+        <variety>VNS</variety>
+        <percentage>9.00</percentage>
+      </component>
+      <component>
+        <code>ARCA2</code>
+        <common_name>Coastal sagebrush</common_name>
+        <species>Artemisia californica</species>
+        <variety>VNS</variety>
+        <percentage>5.00</percentage>
+      </component>
+      <component>
+        <code>ENFA</code>
+        <common_name>Brittlebush</common_name>
+        <species>Encelia farinosa</species>
+        <variety>VNS</variety>
+        <percentage>5.00</percentage>
+      </component>
+      <component>
+        <code>LUBI</code>
+        <common_name>Miniature Lupine</common_name>
+        <species>Lupinus bicolor</species>
+        <variety>VNS</variety>
+        <percentage>5.00</percentage>
+      </component>
+      <component>
+        <code>PHCI2</code>
+        <common_name>Great Valley phacelia</common_name>
+        <species>Phacelia ciliata</species>
+        <variety>VNS</variety>
+        <percentage>5.00</percentage>
+      </component>
+      <component>
+        <code>SAAP</code>
+        <common_name>White Sage</common_name>
+        <species>Salvia apiana</species>
+        <variety>VNS</variety>
+        <percentage>5.00</percentage>
+      </component>
+      <component>
+        <code>SAME3</code>
+        <common_name>black sage</common_name>
+        <species>Salvia mellifera</species>
+        <variety>VNS</variety>
+        <percentage>5.00</percentage>
+      </component>
+      <component>
+        <code>TRWI</code>
+        <common_name>Tomcat Clover</common_name>
+        <species>Trifolium Willdenovii</species>
+        <variety>VNS</variety>
+        <percentage>5.00</percentage>
+      </component>
+      <component>
+        <code>ESCA</code>
+        <common_name>California Poppy</common_name>
+        <species>Eschscholzia californica</species>
+        <variety>Orange</variety>
+        <percentage>5.00</percentage>
+      </component>
+      <component>
+        <code>LAGL</code>
+        <common_name>Coulter&apos;s goldfields</common_name>
+        <species>Lasthenia glabrata</species>
+        <variety>VNS</variety>
+        <percentage>2.00</percentage>
+      </component>
+      <component>
+        <code>HEWH</code>
+        <common_name>Chaparral yucca</common_name>
+        <species>Hesperoyucca whipplei</species>
+        <variety>VNS</variety>
+        <percentage>1.00</percentage>
+      </component>
+      <component>
+        <code>DIAUA</code>
+        <common_name>Bush Monkeyflower</common_name>
+        <species>Diplacus aurantiacus</species>
+        <variety>VNS</variety>
+        <percentage>1.00</percentage>
       </component>
     </components>
   </mix>
@@ -351,11 +442,123 @@
     <name>Coastal Sage Scrub</name>
     <components>
       <component>
-        <code>MIX</code>
-        <common_name></common_name>
-        <species>PREMIXED</species>
-        <variety>Coastal Sage Scrub</variety>
-        <percentage>100.00</percentage>
+        <code>ERFA</code>
+        <common_name>California buckwheat</common_name>
+        <species>Eriogonum fasciculatum</species>
+        <variety>fasciculatum</variety>
+        <percentage>19.00</percentage>
+      </component>
+      <component>
+        <code>VUMI</code>
+        <common_name>Small Fescue</common_name>
+        <species>Vulpia microstachys</species>
+        <variety>VNS</variety>
+        <percentage>14.00</percentage>
+      </component>
+      <component>
+        <code>LOSC2</code>
+        <common_name>Common Deerweed</common_name>
+        <species>Acmispon glaber</species>
+        <variety>glaber</variety>
+        <percentage>10.00</percentage>
+      </component>
+      <component>
+        <code>ENCA</code>
+        <common_name>California brittlebush</common_name>
+        <species>Encelia californica</species>
+        <variety>VNS</variety>
+        <percentage>7.00</percentage>
+      </component>
+      <component>
+        <code>ISME5</code>
+        <common_name>Menzies&apos; goldenbush</common_name>
+        <species>Isocoma menziesii</species>
+        <variety>VNS</variety>
+        <percentage>7.00</percentage>
+      </component>
+      <component>
+        <code>NAPU</code>
+        <common_name>Purple Needlegrass</common_name>
+        <species>Nassella pulchra</species>
+        <variety>VNS</variety>
+        <percentage>7.00</percentage>
+      </component>
+      <component>
+        <code>LUSU</code>
+        <common_name>Arroyo Lupine</common_name>
+        <species>Lupinus succulentus</species>
+        <variety>VNS</variety>
+        <percentage>7.00</percentage>
+      </component>
+      <component>
+        <code>COHE</code>
+        <common_name>Chinese Houses</common_name>
+        <species>Collinsia heterophylla</species>
+        <variety>VNS</variety>
+        <percentage>4.00</percentage>
+      </component>
+      <component>
+        <code>DIPU4</code>
+        <common_name>Sticky monkeyflower</common_name>
+        <species>Mimulus aurantiacus puniceus</species>
+        <variety>VNS</variety>
+        <percentage>4.00</percentage>
+      </component>
+      <component>
+        <code>SAAP</code>
+        <common_name>White Sage</common_name>
+        <species>Salvia apiana</species>
+        <variety>VNS</variety>
+        <percentage>4.00</percentage>
+      </component>
+      <component>
+        <code>SAME3</code>
+        <common_name>black sage</common_name>
+        <species>Salvia mellifera</species>
+        <variety>VNS</variety>
+        <percentage>4.00</percentage>
+      </component>
+      <component>
+        <code>ARCA2</code>
+        <common_name>Coastal sagebrush</common_name>
+        <species>Artemisia californica</species>
+        <variety>VNS</variety>
+        <percentage>4.00</percentage>
+      </component>
+      <component>
+        <code>CACH2</code>
+        <common_name>Beach Evening Primrose</common_name>
+        <species>Camissoniopsis cheiranthifolia</species>
+        <variety>VNS</variety>
+        <percentage>2.00</percentage>
+      </component>
+      <component>
+        <code>ESCA</code>
+        <common_name>California Poppy</common_name>
+        <species>Eschscholzia californica</species>
+        <variety>Orange</variety>
+        <percentage>2.00</percentage>
+      </component>
+      <component>
+        <code>ACHE</code>
+        <common_name>Heermann&apos;s Bird&apos;s-Foot Trefoil</common_name>
+        <species>Acmispon heermannii</species>
+        <variety>VNS</variety>
+        <percentage>2.00</percentage>
+      </component>
+      <component>
+        <code>SIBE</code>
+        <common_name>Western Blue-Eyed Grass</common_name>
+        <species>Sisyrinchium bellum</species>
+        <variety>VNS</variety>
+        <percentage>2.00</percentage>
+      </component>
+      <component>
+        <code>LACA</code>
+        <common_name>California goldenfields</common_name>
+        <species>Lasthenia californica</species>
+        <variety>VNS</variety>
+        <percentage>1.00</percentage>
       </component>
     </components>
   </mix>
@@ -443,11 +646,46 @@
     <name>Premium Dryland Pasture Mix</name>
     <components>
       <component>
-        <code>PB</code>
-        <common_name></common_name>
-        <species>PREMIXED</species>
-        <variety>Dryland</variety>
-        <percentage>100.00</percentage>
+        <code>AGIN</code>
+        <common_name>Intermediate wheatgrass</common_name>
+        <species>Thinopyrum intermedium</species>
+        <variety>Oahe</variety>
+        <percentage>30.00</percentage>
+      </component>
+      <component>
+        <code>BRIN</code>
+        <common_name>Bromegrass, Smooth</common_name>
+        <species>Bromus inermis</species>
+        <variety>Carlton</variety>
+        <percentage>30.00</percentage>
+      </component>
+      <component>
+        <code>AGDE</code>
+        <common_name>Crested Wheatgrass</common_name>
+        <species>Agropyron desertorum</species>
+        <variety>VNS</variety>
+        <percentage>19.00</percentage>
+      </component>
+      <component>
+        <code>MESA</code>
+        <common_name>Alfalfa</common_name>
+        <species>Medicago sativa</species>
+        <variety>Ladak 65</variety>
+        <percentage>10.00</percentage>
+      </component>
+      <component>
+        <code>DAGL</code>
+        <common_name>Orchardgrass</common_name>
+        <species>Dactylis glomerata</species>
+        <variety>Paiute</variety>
+        <percentage>10.00</percentage>
+      </component>
+      <component>
+        <code>AGCR</code>
+        <common_name>Crested wheatgrass</common_name>
+        <species>Agropyron cristatum</species>
+        <variety>Kirk</variety>
+        <percentage>1.00</percentage>
       </component>
     </components>
   </mix>
@@ -673,84 +911,91 @@
     </components>
   </mix>
   <mix sku="PB-HONEY-5-LB" category="Pasture Blend">
-    <name>Honeybee Cover Crop &amp; Pasture Mix</name>
+    <name>Honey Bee Pasture Mix</name>
     <components>
       <component>
-        <code>TRRE</code>
-        <common_name>White Clover</common_name>
-        <species>Trifolium repens</species>
-        <variety>White Dutch</variety>
-        <percentage>12.00</percentage>
-      </component>
-      <component>
-        <code>TRIN</code>
-        <common_name>Crimson Clover</common_name>
-        <species>Trifolium incarnatum</species>
-        <variety>Dixie</variety>
-        <percentage>15.00</percentage>
+        <code>ONVI</code>
+        <common_name>Sainfoin</common_name>
+        <species>Onobrychis viciifolia</species>
+        <variety>Shoshone</variety>
+        <percentage>20</percentage>
       </component>
       <component>
         <code>MEOF</code>
         <common_name>Sweetclover</common_name>
         <species>Melilotus officinalis</species>
         <variety>Yellow Blossom</variety>
-        <percentage>20.00</percentage>
-      </component>
-      <component>
-        <code>NEME</code>
-        <common_name>Baby Blue Eyes</common_name>
-        <species>Nemophila menziesii</species>
-        <variety>VNS</variety>
-        <percentage>5.00</percentage>
-      </component>
-      <component>
-        <code>RUHI</code>
-        <common_name>Black-Eyed Susan</common_name>
-        <species>Rudbeckia hirta</species>
-        <variety>VNS</variety>
-        <percentage>5.00</percentage>
-      </component>
-      <component>
-        <code>ESCA</code>
-        <common_name>California Poppy</common_name>
-        <species>Eschscholzia californica</species>
-        <variety>Orange</variety>
-        <percentage>5.00</percentage>
-      </component>
-      <component>
-        <code>LILE</code>
-        <common_name>Lewis Flax</common_name>
-        <species>Linum lewisii</species>
-        <variety>Maple Grove</variety>
-        <percentage>5.00</percentage>
-      </component>
-      <component>
-        <code>COLA</code>
-        <common_name>Lance-Leaved Coreopsis</common_name>
-        <species>Coreopsis lanceolata</species>
-        <variety>Tall</variety>
-        <percentage>8.00</percentage>
-      </component>
-      <component>
-        <code>ECPU</code>
-        <common_name>Purple Coneflower</common_name>
-        <species>Echinacea purpurea</species>
-        <variety>VNS</variety>
-        <percentage>3.00</percentage>
-      </component>
-      <component>
-        <code>GAAR</code>
-        <common_name>Blanketflower</common_name>
-        <species>Gaillardia aristata</species>
-        <variety>VNS</variety>
-        <percentage>2.00</percentage>
+        <percentage>10</percentage>
       </component>
       <component>
         <code>PHTA</code>
         <common_name>Lacy Phacelia</common_name>
         <species>Phacelia tanacetifolia</species>
         <variety>CA Native</variety>
-        <percentage>20.00</percentage>
+        <percentage>20</percentage>
+      </component>
+      <component>
+        <code>TRIN</code>
+        <common_name>Crimson Clover</common_name>
+        <species>Trifolium incarnatum</species>
+        <variety>Dixie</variety>
+        <percentage>12</percentage>
+      </component>
+      <component>
+        <code>TRRE</code>
+        <common_name>White Dutch Clover</common_name>
+        <species>Trifolium repens</species>
+        <variety>Dutch</variety>
+        <percentage>8</percentage>
+      </component>
+      <component>
+        <code>COLA</code>
+        <common_name>Lance-Leaved Coreopsis</common_name>
+        <species>Coreopsis lanceolata</species>
+        <variety>Tall</variety>
+        <percentage>6</percentage>
+      </component>
+      <component>
+        <code>NEME</code>
+        <common_name>Baby Blue Eyes</common_name>
+        <species>Nemophila menziesii</species>
+        <variety>VNS</variety>
+        <percentage>5</percentage>
+      </component>
+      <component>
+        <code>RUHI</code>
+        <common_name>Black-Eyed Susan</common_name>
+        <species>Rudbeckia hirta</species>
+        <variety>VNS</variety>
+        <percentage>5</percentage>
+      </component>
+      <component>
+        <code>ESCA</code>
+        <common_name>California Poppy</common_name>
+        <species>Eschscholzia californica</species>
+        <variety>Orange</variety>
+        <percentage>4</percentage>
+      </component>
+      <component>
+        <code>LILE</code>
+        <common_name>Lewis Flax</common_name>
+        <species>Linum lewisii</species>
+        <variety>Maple Grove</variety>
+        <percentage>5</percentage>
+      </component>
+      <component>
+        <code>ECPU</code>
+        <common_name>Purple Coneflower</common_name>
+        <species>Echinacea purpurea</species>
+        <variety>VNS</variety>
+        <percentage>3</percentage>
+      </component>
+      <component>
+        <code>GAAR</code>
+        <common_name>Blanketflower</common_name>
+        <species>Gaillardia aristata</species>
+        <variety>VNS</variety>
+        <percentage>2</percentage>
       </component>
     </components>
   </mix>
@@ -864,11 +1109,46 @@
     <name>Premium Irrigated Pasture Mix</name>
     <components>
       <component>
-        <code>PB</code>
-        <common_name></common_name>
-        <species>PREMIXED</species>
-        <variety>Irrigated</variety>
-        <percentage>100.00</percentage>
+        <code>FEAR2</code>
+        <common_name>Tall Fescue</common_name>
+        <species>Festuca arundinacea</species>
+        <variety>Rustler (F)</variety>
+        <percentage>25.00</percentage>
+      </component>
+      <component>
+        <code>DAGL</code>
+        <common_name>Orchardgrass</common_name>
+        <species>Dactylis glomerata</species>
+        <variety>Potomac</variety>
+        <percentage>20.00</percentage>
+      </component>
+      <component>
+        <code>BRBI</code>
+        <common_name>Meadow Bromegrass</common_name>
+        <species>Bromus biebersteinii</species>
+        <variety>Fleet</variety>
+        <percentage>20.00</percentage>
+      </component>
+      <component>
+        <code>PHPR</code>
+        <common_name>Timothy</common_name>
+        <species>Phleum pratense</species>
+        <variety>Climax</variety>
+        <percentage>15.00</percentage>
+      </component>
+      <component>
+        <code>LOPE</code>
+        <common_name>Perennial Ryegrass</common_name>
+        <species>Lolium perenne</species>
+        <variety>Amazon (F)</variety>
+        <percentage>10.00</percentage>
+      </component>
+      <component>
+        <code>MESA</code>
+        <common_name>Alfalfa</common_name>
+        <species>Medicago sativa</species>
+        <variety>VNS</variety>
+        <percentage>10.00</percentage>
       </component>
     </components>
   </mix>
@@ -1819,11 +2099,67 @@
     <name>Hardy Lawn Blend</name>
     <components>
       <component>
-        <code>LPM</code>
-        <common_name></common_name>
-        <species>PREMIXED</species>
-        <variety>Hardy Lawn - 25#</variety>
-        <percentage>100.00</percentage>
+        <code>POPR</code>
+        <common_name>Kentucky Bluegrass</common_name>
+        <species>Poa pratensis</species>
+        <variety>Full Moon</variety>
+        <percentage>20.00</percentage>
+      </component>
+      <component>
+        <code>POPR</code>
+        <common_name>Kentucky Bluegrass</common_name>
+        <species>Poa pratensis</species>
+        <variety>Baron</variety>
+        <percentage>20.00</percentage>
+      </component>
+      <component>
+        <code>POPR</code>
+        <common_name>Kentucky Bluegrass</common_name>
+        <species>Poa pratensis</species>
+        <variety>Shamrock</variety>
+        <percentage>10.00</percentage>
+      </component>
+      <component>
+        <code>POPR</code>
+        <common_name>Kentucky Bluegrass</common_name>
+        <species>Poa pratensis</species>
+        <variety>Right</variety>
+        <percentage>10.00</percentage>
+      </component>
+      <component>
+        <code>FERU</code>
+        <common_name>Red Fescue</common_name>
+        <species>Festuca rubra</species>
+        <variety>Celestial</variety>
+        <percentage>10.00</percentage>
+      </component>
+      <component>
+        <code>FERU</code>
+        <common_name>Red Fescue</common_name>
+        <species>Festuca rubra</species>
+        <variety>Simmons</variety>
+        <percentage>10.00</percentage>
+      </component>
+      <component>
+        <code>LOPE</code>
+        <common_name>Perennial Ryegrass</common_name>
+        <species>Lolium perenne</species>
+        <variety>Metolius</variety>
+        <percentage>9.00</percentage>
+      </component>
+      <component>
+        <code>LOPE</code>
+        <common_name>Perennial Ryegrass</common_name>
+        <species>Lolium perenne</species>
+        <variety>Palmer III</variety>
+        <percentage>6.00</percentage>
+      </component>
+      <component>
+        <code>LOPE</code>
+        <common_name>Perennial Ryegrass</common_name>
+        <species>Lolium perenne</species>
+        <variety>Molalla</variety>
+        <percentage>5.00</percentage>
       </component>
     </components>
   </mix>
@@ -1878,11 +2214,32 @@
     <name>Meadow Lawn Blend</name>
     <components>
       <component>
-        <code>MLB</code>
-        <common_name></common_name>
-        <species>PREMIXED</species>
-        <variety>Meadow Lawn - 50#</variety>
-        <percentage>100.00</percentage>
+        <code>AGRI</code>
+        <common_name>Streambank wheatgrass</common_name>
+        <species>Elymus lanceolatus ssp. psammophilus</species>
+        <variety>Sodar</variety>
+        <percentage>40.00</percentage>
+      </component>
+      <component>
+        <code>AGCR</code>
+        <common_name>Crested wheatgrass</common_name>
+        <species>Agropyron cristatum</species>
+        <variety>Ephraim</variety>
+        <percentage>32.27</percentage>
+      </component>
+      <component>
+        <code>FEOV</code>
+        <common_name>Sheep Fescue</common_name>
+        <species>Festuca ovina</species>
+        <variety>Blue Ray</variety>
+        <percentage>20.00</percentage>
+      </component>
+      <component>
+        <code>AGCR</code>
+        <common_name>Crested wheatgrass</common_name>
+        <species>Agropyron cristatum</species>
+        <variety>Fairway</variety>
+        <percentage>7.73</percentage>
       </component>
     </components>
   </mix>
@@ -2036,11 +2393,39 @@
     <name>Bluegrass Water-Wise Lawn Mix TWCA Certified</name>
     <components>
       <component>
-        <code>VB</code>
-        <common_name>VELVET BLUE TURF BLEND</common_name>
-        <species>PREMIXED</species>
-        <variety>Vb 25# Bags</variety>
-        <percentage>100.00</percentage>
+        <code>POPR</code>
+        <common_name>Kentucky Bluegrass</common_name>
+        <species>Poa pratensis</species>
+        <variety>Super Moon</variety>
+        <percentage>23.34</percentage>
+      </component>
+      <component>
+        <code>POPR</code>
+        <common_name>Kentucky Bluegrass</common_name>
+        <species>Poa pratensis</species>
+        <variety>Tirem</variety>
+        <percentage>23.33</percentage>
+      </component>
+      <component>
+        <code>POPR</code>
+        <common_name>Kentucky Bluegrass</common_name>
+        <species>Poa pratensis</species>
+        <variety>Full Moon</variety>
+        <percentage>23.33</percentage>
+      </component>
+      <component>
+        <code>POPR</code>
+        <common_name>Kentucky Bluegrass</common_name>
+        <species>Poa pratensis</species>
+        <variety>Tumalo</variety>
+        <percentage>16.67</percentage>
+      </component>
+      <component>
+        <code>POPR</code>
+        <common_name>Kentucky Bluegrass</common_name>
+        <species>Poa pratensis</species>
+        <variety>Jump Start</variety>
+        <percentage>13.33</percentage>
       </component>
     </components>
   </mix>
@@ -2048,11 +2433,144 @@
     <name>Blue Ribbon Water-Wise Lawn Mix TWCA Certified</name>
     <components>
       <component>
-        <code>BR</code>
-        <common_name>BLUE RIBBON MIX</common_name>
-        <species>PREMIXED</species>
-        <variety>Br - 25# Bags</variety>
-        <percentage>100.00</percentage>
+        <code>POPR</code>
+        <common_name>Kentucky Bluegrass</common_name>
+        <species>Poa pratensis</species>
+        <variety>Granite</variety>
+        <percentage>19.99</percentage>
+      </component>
+      <component>
+        <code>POPR</code>
+        <common_name>Kentucky Bluegrass</common_name>
+        <species>Poa pratensis</species>
+        <variety>Tirem</variety>
+        <percentage>10.78</percentage>
+      </component>
+      <component>
+        <code>LOPE</code>
+        <common_name>Perennial Ryegrass</common_name>
+        <species>Lolium perenne</species>
+        <variety>Carly</variety>
+        <percentage>8.63</percentage>
+      </component>
+      <component>
+        <code>POPR</code>
+        <common_name>Kentucky Bluegrass</common_name>
+        <species>Poa pratensis</species>
+        <variety>Full Moon</variety>
+        <percentage>6.24</percentage>
+      </component>
+      <component>
+        <code>POPR</code>
+        <common_name>Kentucky Bluegrass</common_name>
+        <species>Poa pratensis</species>
+        <variety>Diva</variety>
+        <percentage>6.06</percentage>
+      </component>
+      <component>
+        <code>LOPE</code>
+        <common_name>Perennial Ryegrass</common_name>
+        <species>Lolium perenne</species>
+        <variety>Sun Hawk</variety>
+        <percentage>6.00</percentage>
+      </component>
+      <component>
+        <code>POPR</code>
+        <common_name>Kentucky Bluegrass</common_name>
+        <species>Poa pratensis</species>
+        <variety>Jump Start</variety>
+        <percentage>5.80</percentage>
+      </component>
+      <component>
+        <code>POPR</code>
+        <common_name>Kentucky Bluegrass</common_name>
+        <species>Poa pratensis</species>
+        <variety>Argyle</variety>
+        <percentage>5.71</percentage>
+      </component>
+      <component>
+        <code>POPR</code>
+        <common_name>Kentucky Bluegrass</common_name>
+        <species>Poa pratensis</species>
+        <variety>Tumalo</variety>
+        <percentage>5.38</percentage>
+      </component>
+      <component>
+        <code>POPR</code>
+        <common_name>Kentucky Bluegrass</common_name>
+        <species>Poa pratensis</species>
+        <variety>Moonlight Slt</variety>
+        <percentage>5.10</percentage>
+      </component>
+      <component>
+        <code>LOPE</code>
+        <common_name>Perennial Ryegrass</common_name>
+        <species>Lolium perenne</species>
+        <variety>Gray Hawk</variety>
+        <percentage>4.56</percentage>
+      </component>
+      <component>
+        <code>POPR</code>
+        <common_name>Kentucky Bluegrass</common_name>
+        <species>Poa pratensis</species>
+        <variety>Right</variety>
+        <percentage>4.12</percentage>
+      </component>
+      <component>
+        <code>POPR</code>
+        <common_name>Kentucky Bluegrass</common_name>
+        <species>Poa pratensis</species>
+        <variety>Super Moon</variety>
+        <percentage>2.86</percentage>
+      </component>
+      <component>
+        <code>POPR</code>
+        <common_name>Kentucky Bluegrass</common_name>
+        <species>Poa pratensis</species>
+        <variety>Jack Rabbit</variety>
+        <percentage>2.40</percentage>
+      </component>
+      <component>
+        <code>POPR</code>
+        <common_name>Kentucky Bluegrass</common_name>
+        <species>Poa pratensis</species>
+        <variety>Mazama</variety>
+        <percentage>1.71</percentage>
+      </component>
+      <component>
+        <code>POPR</code>
+        <common_name>Kentucky Bluegrass</common_name>
+        <species>Poa pratensis</species>
+        <variety>Shamrock</variety>
+        <percentage>1.59</percentage>
+      </component>
+      <component>
+        <code>POPR</code>
+        <common_name>Kentucky Bluegrass</common_name>
+        <species>Poa pratensis</species>
+        <variety>VNS</variety>
+        <percentage>1.06</percentage>
+      </component>
+      <component>
+        <code>POPR</code>
+        <common_name>Kentucky Bluegrass</common_name>
+        <species>Poa pratensis</species>
+        <variety>SR 2100</variety>
+        <percentage>1.04</percentage>
+      </component>
+      <component>
+        <code>LOPE</code>
+        <common_name>Perennial Ryegrass</common_name>
+        <species>Lolium perenne</species>
+        <variety>Deschutes</variety>
+        <percentage>0.81</percentage>
+      </component>
+      <component>
+        <code>POPR</code>
+        <common_name>Kentucky Bluegrass</common_name>
+        <species>Poa pratensis</species>
+        <variety>Bedazzled</variety>
+        <percentage>0.16</percentage>
       </component>
     </components>
   </mix>
@@ -2620,81 +3138,130 @@
     <name>California Native Wildflower Mix</name>
     <components>
       <component>
-        <code>LUSU</code>
-        <common_name>Arroyo Lupine</common_name>
-        <species>Lupinus succulentus</species>
-        <variety>VNS</variety>
-        <percentage>22.67</percentage>
-      </component>
-      <component>
         <code>ESCA</code>
         <common_name>California Poppy</common_name>
         <species>Eschscholzia californica</species>
         <variety>Orange</variety>
-        <percentage>14.00</percentage>
+        <percentage>15.00</percentage>
       </component>
       <component>
-        <code>PHCA</code>
-        <common_name>California Bluebells</common_name>
-        <species>Phacelia campanularia</species>
+        <code>LUSU</code>
+        <common_name>Arroyo Lupine</common_name>
+        <species>Lupinus succulentus</species>
         <variety>VNS</variety>
-        <percentage>9.33</percentage>
+        <percentage>15.00</percentage>
       </component>
       <component>
-        <code>PHCA2</code>
-        <common_name>California Phacela</common_name>
-        <species>Phacelia californica</species>
-        <variety>VNS</variety>
-        <percentage>9.33</percentage>
+        <code>LUMI</code>
+        <common_name>Chick Lupine</common_name>
+        <species>Lupinus microcarpus</species>
+        <variety>MICROCARPUS</variety>
+        <percentage>10.00</percentage>
       </component>
       <component>
-        <code>COHE</code>
-        <common_name>Chinese Houses</common_name>
-        <species>Collinsia heterophylla</species>
+        <code>NEME</code>
+        <common_name>Baby Blue Eyes</common_name>
+        <species>Nemophila menziesii</species>
         <variety>VNS</variety>
-        <percentage>9.34</percentage>
+        <percentage>10.00</percentage>
       </component>
       <component>
-        <code>SIBE</code>
-        <common_name>Western Blue-Eyed Grass</common_name>
-        <species>Sisyrinchium bellum</species>
-        <variety>VNS</variety>
-        <percentage>9.33</percentage>
+        <code>CLUN</code>
+        <common_name>Mountain Garland</common_name>
+        <species>Clarkia unguiculata</species>
+        <variety>Tall Double</variety>
+        <percentage>6.82</percentage>
       </component>
       <component>
-        <code>CLPU2</code>
-        <common_name>Winecup Clarkia</common_name>
-        <species>Clarkia purpurea</species>
-        <variety>VNS</variety>
-        <percentage>9.33</percentage>
+        <code>DIAUA</code>
+        <common_name>Bush Monkeyflower</common_name>
+        <species>Diplacus aurantiacus</species>
+        <variety>australis</variety>
+        <percentage>6.64</percentage>
       </component>
       <component>
         <code>ACMI</code>
         <common_name>White Yarrow</common_name>
         <species>Achillea millefolium</species>
         <variety>VNS</variety>
-        <percentage>7.33</percentage>
+        <percentage>5.00</percentage>
       </component>
       <component>
-        <code>CLWI</code>
-        <common_name>Fort Miller Fairyfan</common_name>
-        <species>Clarkia williamsonii</species>
+        <code>NEMA</code>
+        <common_name>Five Spot</common_name>
+        <species>Nemophila maculata</species>
         <variety>VNS</variety>
-        <percentage>4.67</percentage>
+        <percentage>5.00</percentage>
       </component>
       <component>
-        <code>LUNA</code>
-        <common_name>Pygmy Lupine</common_name>
-        <species>Lupinus nanus</species>
+        <code>PHCA</code>
+        <common_name>California Bluebells</common_name>
+        <species>Phacelia campanularia</species>
         <variety>VNS</variety>
-        <percentage>2.67</percentage>
+        <percentage>5.00</percentage>
       </component>
       <component>
-        <code>PHTA</code>
-        <common_name>Phacelia</common_name>
-        <species>Phacelia tanacetifolia</species>
+        <code>SIBE</code>
+        <common_name>Western Blue-Eyed Grass</common_name>
+        <species>Sisyrinchium bellum</species>
+        <variety>VNS</variety>
+        <percentage>5.00</percentage>
+      </component>
+      <component>
+        <code>COHE</code>
+        <common_name>Chinese Houses</common_name>
+        <species>Collinsia heterophylla</species>
+        <variety>VNS</variety>
+        <percentage>4.92</percentage>
+      </component>
+      <component>
+        <code>DIAUA</code>
+        <common_name>Bush Monkeyflower</common_name>
+        <species>Diplacus aurantiacus</species>
+        <variety>VNS</variety>
+        <percentage>3.36</percentage>
+      </component>
+      <component>
+        <code>GITR</code>
+        <common_name>Bird&apos;s Eyes</common_name>
+        <species>Gilia tricolor</species>
+        <variety>VNS</variety>
+        <percentage>2.50</percentage>
+      </component>
+      <component>
+        <code>GICA</code>
+        <common_name>Globe Gilia</common_name>
+        <species>Gilia capitata</species>
+        <variety>VNS</variety>
+        <percentage>2.50</percentage>
+      </component>
+      <component>
+        <code>LAGL</code>
+        <common_name>Coulter&apos;s goldfields</common_name>
+        <species>Lasthenia glabrata</species>
+        <variety>VNS</variety>
+        <percentage>1.25</percentage>
+      </component>
+      <component>
+        <code>LAPL</code>
+        <common_name>Coastal Tidytips</common_name>
+        <species>Layia platyglossa</species>
+        <variety>VNS</variety>
+        <percentage>1.25</percentage>
+      </component>
+      <component>
+        <code>CLUN</code>
+        <common_name>Mountain Garland</common_name>
+        <species>Clarkia unguiculata</species>
         <variety>CA Native</variety>
-        <percentage>2.00</percentage>
+        <percentage>0.68</percentage>
+      </component>
+      <component>
+        <code>COHE</code>
+        <common_name>Chinese Houses</common_name>
+        <species>Collinsia heterophylla</species>
+        <variety>Glowing Skies</variety>
+        <percentage>0.08</percentage>
       </component>
     </components>
   </mix>
@@ -2706,84 +3273,126 @@
         <common_name>Arroyo Lupine</common_name>
         <species>Lupinus succulentus</species>
         <variety>VNS</variety>
-        <percentage>20.74</percentage>
+        <percentage>15.00</percentage>
       </component>
       <component>
         <code>ESCA</code>
         <common_name>California Poppy</common_name>
         <species>Eschscholzia californica</species>
         <variety>Orange</variety>
-        <percentage>13.82</percentage>
-      </component>
-      <component>
-        <code>NEME</code>
-        <common_name>Baby Blue Eyes</common_name>
-        <species>Nemophila menziesii</species>
-        <variety>VNS</variety>
-        <percentage>11.06</percentage>
-      </component>
-      <component>
-        <code>SIBE</code>
-        <common_name>Western Blue-Eyed Grass</common_name>
-        <species>Sisyrinchium bellum</species>
-        <variety>VNS</variety>
-        <percentage>8.29</percentage>
-      </component>
-      <component>
-        <code>GITR</code>
-        <common_name>Bird&apos;s Eyes</common_name>
-        <species>Gilia tricolor</species>
-        <variety>VNS</variety>
-        <percentage>8.29</percentage>
-      </component>
-      <component>
-        <code>COHE</code>
-        <common_name>Chinese Houses</common_name>
-        <species>Collinsia heterophylla</species>
-        <variety>VNS</variety>
-        <percentage>7.83</percentage>
-      </component>
-      <component>
-        <code>LUBI</code>
-        <common_name>Miniature Lupine</common_name>
-        <species>Lupinus bicolor</species>
-        <variety>VNS</variety>
-        <percentage>6.91</percentage>
-      </component>
-      <component>
-        <code>GICA</code>
-        <common_name>Globe Gilia</common_name>
-        <species>Gilia capitata</species>
-        <variety>VNS</variety>
-        <percentage>6.45</percentage>
+        <percentage>10.00</percentage>
       </component>
       <component>
         <code>LUMI</code>
         <common_name>Chick Lupine</common_name>
         <species>Lupinus microcarpus</species>
-        <variety>Denisiflorus</variety>
-        <percentage>4.61</percentage>
+        <variety>MICROCARPUS</variety>
+        <percentage>10.00</percentage>
       </component>
       <component>
         <code>LUNA</code>
         <common_name>Pygmy Lupine</common_name>
         <species>Lupinus nanus</species>
         <variety>VNS</variety>
-        <percentage>4.61</percentage>
+        <percentage>7.50</percentage>
+      </component>
+      <component>
+        <code>DILO6</code>
+        <common_name>Southern bush monkeyflower</common_name>
+        <species>Diplacus longiflorus</species>
+        <variety>VNS</variety>
+        <percentage>7.50</percentage>
+      </component>
+      <component>
+        <code>NEME</code>
+        <common_name>Baby Blue Eyes</common_name>
+        <species>Nemophila menziesii</species>
+        <variety>VNS</variety>
+        <percentage>7.50</percentage>
+      </component>
+      <component>
+        <code>CLAM</code>
+        <common_name>Farewell-to-Spring</common_name>
+        <species>Clarkia amoena</species>
+        <variety>VNS</variety>
+        <percentage>5.00</percentage>
       </component>
       <component>
         <code>PESP3</code>
         <common_name>Showy Penstemon</common_name>
         <species>Penstemon Spectabilis</species>
-        <variety>Penstemon</variety>
-        <percentage>3.24</percentage>
+        <variety>VNS</variety>
+        <percentage>5.00</percentage>
+      </component>
+      <component>
+        <code>GICA</code>
+        <common_name>Globe Gilia</common_name>
+        <species>Gilia capitata</species>
+        <variety>VNS</variety>
+        <percentage>5.00</percentage>
+      </component>
+      <component>
+        <code>GITR</code>
+        <common_name>Bird&apos;s Eyes</common_name>
+        <species>Gilia tricolor</species>
+        <variety>VNS</variety>
+        <percentage>5.00</percentage>
+      </component>
+      <component>
+        <code>SIBE</code>
+        <common_name>Western Blue-Eyed Grass</common_name>
+        <species>Sisyrinchium bellum</species>
+        <variety>VNS</variety>
+        <percentage>5.00</percentage>
+      </component>
+      <component>
+        <code>COHE</code>
+        <common_name>Chinese Houses</common_name>
+        <species>Collinsia heterophylla</species>
+        <variety>Glowing Skies</variety>
+        <percentage>4.31</percentage>
+      </component>
+      <component>
+        <code>CLUN</code>
+        <common_name>Mountain Garland</common_name>
+        <species>Clarkia unguiculata</species>
+        <variety>CA Native</variety>
+        <percentage>3.50</percentage>
+      </component>
+      <component>
+        <code>CACH2</code>
+        <common_name>Beach Evening Primrose</common_name>
+        <species>Camissoniopsis cheiranthifolia</species>
+        <variety>VNS</variety>
+        <percentage>2.50</percentage>
+      </component>
+      <component>
+        <code>LAGL</code>
+        <common_name>Coulter&apos;s goldfields</common_name>
+        <species>Lasthenia glabrata</species>
+        <variety>VNS</variety>
+        <percentage>2.50</percentage>
       </component>
       <component>
         <code>LAPL</code>
         <common_name>Coastal Tidytips</common_name>
         <species>Layia platyglossa</species>
         <variety>VNS</variety>
-        <percentage>4.15</percentage>
+        <percentage>2.50</percentage>
+      </component>
+      <component>
+        <code>CLUN</code>
+        <common_name>Mountain Garland</common_name>
+        <species>Clarkia unguiculata</species>
+        <variety>Tall Double</variety>
+        <percentage>1.50</percentage>
+      </component>
+      <component>
+        <code>COHE</code>
+        <common_name>Chinese Houses</common_name>
+        <species>Collinsia heterophylla</species>
+        <variety>VNS</variety>
+        <percentage>0.69</percentage>
       </component>
     </components>
   </mix>
@@ -3450,11 +4059,165 @@
     <name>Rocky Mountain Native Wildflower Mix</name>
     <components>
       <component>
-        <code>RM</code>
-        <common_name>Rocky Mountain Wildflower Mix</common_name>
-        <species>PREMIXED</species>
-        <variety>Rocky Mountain</variety>
-        <percentage>100.00</percentage>
+        <code>ESCA</code>
+        <common_name>California Poppy</common_name>
+        <species>Eschscholzia californica</species>
+        <variety>Orange</variety>
+        <percentage>12.27</percentage>
+      </component>
+      <component>
+        <code>ECPU</code>
+        <common_name>Purple Coneflower</common_name>
+        <species>Echinacea purpurea</species>
+        <variety>VNS</variety>
+        <percentage>8.16</percentage>
+      </component>
+      <component>
+        <code>COBI</code>
+        <common_name>Cosmos Sensation</common_name>
+        <species>Cosmos bipinnatus</species>
+        <variety>Sensation Mix</variety>
+        <percentage>8.16</percentage>
+      </component>
+      <component>
+        <code>CECY</code>
+        <common_name>Bachelor Button</common_name>
+        <species>Centaurea cyanus</species>
+        <variety>Dwarf Blue</variety>
+        <percentage>8.16</percentage>
+      </component>
+      <component>
+        <code>LIPE</code>
+        <common_name>Blue Flax</common_name>
+        <species>Linum perenne</species>
+        <variety>Appar</variety>
+        <percentage>8.16</percentage>
+      </component>
+      <component>
+        <code>GAAR</code>
+        <common_name>Blanketflower</common_name>
+        <species>Gaillardia aristata</species>
+        <variety>VNS</variety>
+        <percentage>6.63</percentage>
+      </component>
+      <component>
+        <code>LIRU</code>
+        <common_name>Scarlet Flax</common_name>
+        <species>Linum grandiflorum spp. rubrum</species>
+        <variety>Western Sky</variety>
+        <percentage>6.12</percentage>
+      </component>
+      <component>
+        <code>COLA</code>
+        <common_name>Lance-Leaved Coreopsis</common_name>
+        <species>Coreopsis lanceolata</species>
+        <variety>Tall</variety>
+        <percentage>6.12</percentage>
+      </component>
+      <component>
+        <code>PEST</code>
+        <common_name>Penstemon, Rocky Mountain</common_name>
+        <species>Penstemon strictus</species>
+        <variety>VNS</variety>
+        <percentage>4.34</percentage>
+      </component>
+      <component>
+        <code>CHAL</code>
+        <common_name>Siberian Wallflower</common_name>
+        <species>Cheiranthus allionii</species>
+        <variety>Sunset</variety>
+        <percentage>4.08</percentage>
+      </component>
+      <component>
+        <code>PEPA</code>
+        <common_name>Penstemon, Palmer</common_name>
+        <species>Penstemon palmeri</species>
+        <variety>Cedar</variety>
+        <percentage>4.08</percentage>
+      </component>
+      <component>
+        <code>RACOY</code>
+        <common_name>Yellow Prairie Coneflower</common_name>
+        <species>Ratibida columnifera</species>
+        <variety>Stillwater</variety>
+        <percentage>3.37</percentage>
+      </component>
+      <component>
+        <code>GITR</code>
+        <common_name>Bird&apos;s Eyes</common_name>
+        <species>Gilia tricolor</species>
+        <variety>VNS</variety>
+        <percentage>3.06</percentage>
+      </component>
+      <component>
+        <code>COTI</code>
+        <common_name>Plains Coreopsis</common_name>
+        <species>Coreopsis tinctoria</species>
+        <variety>Tall</variety>
+        <percentage>3.06</percentage>
+      </component>
+      <component>
+        <code>GAPU</code>
+        <common_name>Firewheel</common_name>
+        <species>Gaillardia pulchella</species>
+        <variety>VNS</variety>
+        <percentage>3.06</percentage>
+      </component>
+      <component>
+        <code>LIMA</code>
+        <common_name>Spurred Snapdragon</common_name>
+        <species>Linaria maroccana</species>
+        <variety>Northern Lights</variety>
+        <percentage>2.04</percentage>
+      </component>
+      <component>
+        <code>RACOY</code>
+        <common_name>Yellow Prairie Coneflower</common_name>
+        <species>Ratibida columnifera</species>
+        <variety>VNS</variety>
+        <percentage>1.73</percentage>
+      </component>
+      <component>
+        <code>LUPE</code>
+        <common_name>Lupine, Perennial</common_name>
+        <species>Lupinus perennis</species>
+        <variety>Bluebird</variety>
+        <percentage>1.63</percentage>
+      </component>
+      <component>
+        <code>LUPE</code>
+        <common_name>Lupine, Perennial</common_name>
+        <species>Lupinus perennis</species>
+        <variety>VNS</variety>
+        <percentage>1.43</percentage>
+      </component>
+      <component>
+        <code>HEBO</code>
+        <common_name>Utah northern sweetvetch</common_name>
+        <species>Hedysarum boreale</species>
+        <variety>Timp</variety>
+        <percentage>1.28</percentage>
+      </component>
+      <component>
+        <code>PERY</code>
+        <common_name>Penstemon, Blue Mountain</common_name>
+        <species>Penstemon rydbergii</species>
+        <variety>VNS</variety>
+        <percentage>1.02</percentage>
+      </component>
+      <component>
+        <code>LIGR</code>
+        <common_name>Mountain phlox</common_name>
+        <species>Linanthus grandiflorus</species>
+        <variety>VNS</variety>
+        <percentage>1.02</percentage>
+      </component>
+      <component>
+        <code>PARH</code>
+        <common_name>Corn Poppy</common_name>
+        <species>Papaver rhoeas</species>
+        <variety>American Legion</variety>
+        <percentage>1.02</percentage>
       </component>
     </components>
   </mix>
@@ -3462,11 +4225,102 @@
     <name>Sonoran Desert Wildflower Mix</name>
     <components>
       <component>
-        <code>SDWF</code>
-        <common_name>SONORAN DESERT WILDFLOWER</common_name>
-        <species>PREMIXED</species>
+        <code>LUSU</code>
+        <common_name>Arroyo Lupine</common_name>
+        <species>Lupinus succulentus</species>
         <variety>VNS</variety>
-        <percentage>100.00</percentage>
+        <percentage>20.00</percentage>
+      </component>
+      <component>
+        <code>KAGR</code>
+        <common_name>Arizona poppy</common_name>
+        <species>Kallstroemia grandiflora</species>
+        <variety>VNS</variety>
+        <percentage>10.00</percentage>
+      </component>
+      <component>
+        <code>COBI</code>
+        <common_name>Cosmos Sensation</common_name>
+        <species>Cosmos bipinnatus</species>
+        <variety>Sensation Mix</variety>
+        <percentage>10.00</percentage>
+      </component>
+      <component>
+        <code>GAAR</code>
+        <common_name>Blanketflower</common_name>
+        <species>Gaillardia aristata</species>
+        <variety>VNS</variety>
+        <percentage>9.00</percentage>
+      </component>
+      <component>
+        <code>CACO</code>
+        <common_name>Desert senna</common_name>
+        <species>Senna covesii</species>
+        <variety>VNS</variety>
+        <percentage>9.00</percentage>
+      </component>
+      <component>
+        <code>PHCR</code>
+        <common_name>Desert bluebells</common_name>
+        <species>Phacelia crenulata</species>
+        <variety>VNS</variety>
+        <percentage>8.00</percentage>
+      </component>
+      <component>
+        <code>LEGO</code>
+        <common_name>Gordon bladderpod</common_name>
+        <species>Lesquerella gordonii</species>
+        <variety>VNS</variety>
+        <percentage>6.00</percentage>
+      </component>
+      <component>
+        <code>ESME</code>
+        <common_name>Mexican gold poppy</common_name>
+        <species>Eschscholzia Mexicana</species>
+        <variety>VNS</variety>
+        <percentage>5.00</percentage>
+      </component>
+      <component>
+        <code>LUAR</code>
+        <common_name>Arizona lupine</common_name>
+        <species>Lupinus arizonicus</species>
+        <variety>VNS</variety>
+        <percentage>5.00</percentage>
+      </component>
+      <component>
+        <code>GAPU</code>
+        <common_name>Firewheel</common_name>
+        <species>Gaillardia pulchella</species>
+        <variety>VNS</variety>
+        <percentage>5.00</percentage>
+      </component>
+      <component>
+        <code>ESCA</code>
+        <common_name>California Poppy</common_name>
+        <species>Eschscholzia californica</species>
+        <variety>Orange</variety>
+        <percentage>4.00</percentage>
+      </component>
+      <component>
+        <code>PESU2</code>
+        <common_name>Superb penstemon</common_name>
+        <species>Penstemon superbus</species>
+        <variety>VNS</variety>
+        <percentage>3.00</percentage>
+      </component>
+      <component>
+        <code>BAMU</code>
+        <common_name>Desert Marigold</common_name>
+        <species>Baileya multiradiata</species>
+        <variety>VNS</variety>
+        <percentage>3.00</percentage>
+      </component>
+      <component>
+        <code>ENFA</code>
+        <common_name>Brittlebush</common_name>
+        <species>Encelia farinosa</species>
+        <variety>VNS</variety>
+        <percentage>3.00</percentage>
       </component>
     </components>
   </mix>
@@ -3589,11 +4443,74 @@
     <name>Central Valley Pollinator Mix (Xerces Society)</name>
     <components>
       <component>
-        <code>MIX</code>
-        <common_name></common_name>
-        <species>PREMIXED</species>
-        <variety>Central Valley Pollinator Mix (Xerces Society)</variety>
-        <percentage>100.00</percentage>
+        <code>HEAN</code>
+        <common_name>Annual Sunflower</common_name>
+        <species>Helianthus annuus</species>
+        <variety>VNS</variety>
+        <percentage>13.35</percentage>
+      </component>
+      <component>
+        <code>ESCA</code>
+        <common_name>California Poppy</common_name>
+        <species>Eschscholzia californica</species>
+        <variety>Orange</variety>
+        <percentage>12.22</percentage>
+      </component>
+      <component>
+        <code>PHTA</code>
+        <common_name>Phacelia</common_name>
+        <species>Phacelia tanacetifolia</species>
+        <variety>VNS</variety>
+        <percentage>12.22</percentage>
+      </component>
+      <component>
+        <code>CLUN</code>
+        <common_name>Mountain Garland</common_name>
+        <species>Clarkia unguiculata</species>
+        <variety>VNS</variety>
+        <percentage>11.11</percentage>
+      </component>
+      <component>
+        <code>PHCA2</code>
+        <common_name>California Phacela</common_name>
+        <species>Phacelia californica</species>
+        <variety>VNS</variety>
+        <percentage>11.11</percentage>
+      </component>
+      <component>
+        <code>NEME</code>
+        <common_name>Baby Blue Eyes</common_name>
+        <species>Nemophila menziesii</species>
+        <variety>VNS</variety>
+        <percentage>10.00</percentage>
+      </component>
+      <component>
+        <code>ACMI</code>
+        <common_name>White Yarrow</common_name>
+        <species>Achillea millefolium</species>
+        <variety>VNS</variety>
+        <percentage>8.89</percentage>
+      </component>
+      <component>
+        <code>HEAN</code>
+        <common_name>Annual Sunflower</common_name>
+        <species>Helianthus annuus</species>
+        <variety>Wild</variety>
+        <percentage>7.76</percentage>
+      </component>
+      <component>
+        <code>SPAI</code>
+        <common_name>Alkali sacaton</common_name>
+        <species>Sporobolus airoides</species>
+        <variety>VNS</variety>
+        <percentage>6.67</percentage>
+      </component>
+      <component>
+        <code>NAPU</code>
+        <common_name>Purple Needlegrass</common_name>
+        <species>Nassella pulchra</species>
+        <variety>VNS</variety>
+        <percentage>6.67</percentage>
       </component>
     </components>
   </mix>
