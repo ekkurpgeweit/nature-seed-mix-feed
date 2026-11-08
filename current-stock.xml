@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<current_stock generated_at="2026-11-08T18:19:34.413Z" sales_channel="woocommerce" feed_last_updated="2026-11-08">
+<current_stock generated_at="2026-11-08T22:47:45.536Z" sales_channel="woocommerce" feed_last_updated="2026-11-08">
   <summary>
     <total_skus>132</total_skus>
     <total_value>8471</total_value>
@@ -510,8 +510,8 @@
     <item sku="PB-SHEP-10-LB" status="No Sales" alert="Review">
       <product_name>PB-SHEP-10-LB</product_name>
       <qty_on_hand>50</qty_on_hand>
-      <qty_available>21</qty_available>
-      <qty_allocated>29</qty_allocated>
+      <qty_available>20</qty_available>
+      <qty_allocated>30</qty_allocated>
       <qty_on_order>0</qty_on_order>
       <days_in_stock>0</days_in_stock>
       <inventory_age>999</inventory_age>
@@ -975,10 +975,10 @@
     <item sku="PG-TRPR-5-LB" status="Optimal" alert="Good">
       <product_name>PG-TRPR-5-LB</product_name>
       <qty_on_hand>52</qty_on_hand>
-      <qty_available>48</qty_available>
-      <qty_allocated>4</qty_allocated>
+      <qty_available>47</qty_available>
+      <qty_allocated>5</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>34.2</days_in_stock>
+      <days_in_stock>33.4</days_in_stock>
       <inventory_age>6</inventory_age>
       <turnover_rate>10.37</turnover_rate>
       <sales_30_day>40</sales_30_day>
@@ -1425,10 +1425,10 @@
     <item sku="W-ACLA-0.25-LB" status="Optimal" alert="Good">
       <product_name>W-ACLA-0.25-LB</product_name>
       <qty_on_hand>67</qty_on_hand>
-      <qty_available>54</qty_available>
-      <qty_allocated>13</qty_allocated>
+      <qty_available>52</qty_available>
+      <qty_allocated>15</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>37.7</days_in_stock>
+      <days_in_stock>36.3</days_in_stock>
       <inventory_age>6</inventory_age>
       <turnover_rate>7.99</turnover_rate>
       <sales_30_day>42</sales_30_day>
@@ -1560,10 +1560,10 @@
     <item sku="W-ESCA-0.25-LB" status="Low Stock" alert="Critical">
       <product_name>W-ESCA-0.25-LB</product_name>
       <qty_on_hand>246</qty_on_hand>
-      <qty_available>-26</qty_available>
-      <qty_allocated>272</qty_allocated>
+      <qty_available>-30</qty_available>
+      <qty_allocated>276</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>-1.2</days_in_stock>
+      <days_in_stock>-1.4</days_in_stock>
       <inventory_age>6</inventory_age>
       <turnover_rate>27.25</turnover_rate>
       <sales_30_day>714</sales_30_day>
@@ -1770,10 +1770,10 @@
     <item sku="WB-CALN-0.5-LB" status="Optimal" alert="Good">
       <product_name>WB-CALN-0.5-LB</product_name>
       <qty_on_hand>378</qty_on_hand>
-      <qty_available>223</qty_available>
-      <qty_allocated>155</qty_allocated>
+      <qty_available>221</qty_available>
+      <qty_allocated>157</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>25.1</days_in_stock>
+      <days_in_stock>24.8</days_in_stock>
       <inventory_age>5</inventory_age>
       <turnover_rate>7.78</turnover_rate>
       <sales_30_day>292</sales_30_day>
@@ -1875,10 +1875,10 @@
     <item sku="WB-FLN-0.5-LB" status="Low Stock" alert="Critical">
       <product_name>WB-FLN-0.5-LB</product_name>
       <qty_on_hand>17</qty_on_hand>
-      <qty_available>14</qty_available>
-      <qty_allocated>3</qty_allocated>
+      <qty_available>12</qty_available>
+      <qty_allocated>5</qty_allocated>
       <qty_on_order>120</qty_on_order>
-      <days_in_stock>3</days_in_stock>
+      <days_in_stock>2.5</days_in_stock>
       <inventory_age>7</inventory_age>
       <turnover_rate>110.22</turnover_rate>
       <sales_30_day>129</sales_30_day>
@@ -1980,10 +1980,10 @@
     <item sku="WB-XCVP-0.5-LB" status="Overstock" alert="Warning">
       <product_name>WB-XCVP-0.5-LB</product_name>
       <qty_on_hand>160</qty_on_hand>
-      <qty_available>157</qty_available>
-      <qty_allocated>3</qty_allocated>
+      <qty_available>156</qty_available>
+      <qty_allocated>4</qty_allocated>
       <qty_on_order>0</qty_on_order>
-      <days_in_stock>120.3</days_in_stock>
+      <days_in_stock>119.5</days_in_stock>
       <inventory_age>6</inventory_age>
       <turnover_rate>2.76</turnover_rate>
       <sales_30_day>42</sales_30_day>
