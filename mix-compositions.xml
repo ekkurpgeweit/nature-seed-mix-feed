@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mix_compositions generated_at="2026-11-09T17:11:35.630Z" feed_last_updated="2026-11-09T10:10:24-07:00">
+<mix_compositions generated_at="2026-11-09T17:12:24.017Z" feed_last_updated="2026-11-09T10:11:18-07:00">
   <mix sku="CV-BGEC-10-LB" category="Conservation">
     <name>Prairie Native Drought-Tolerant &amp; Erosion Control Mix</name>
     <components>
@@ -639,6 +639,18 @@
         <species>Trifolium repens</species>
         <variety>Ladino</variety>
         <percentage>5.00</percentage>
+      </component>
+    </components>
+  </mix>
+  <mix sku="PB-DOVE-10-LB" category="Pasture Blend">
+    <name>Dove Food Plot Mix</name>
+    <components>
+      <component>
+        <code>HEAN</code>
+        <common_name>Annual Sunflower</common_name>
+        <species>Helianthus annuus</species>
+        <variety>Peredovik</variety>
+        <percentage>100</percentage>
       </component>
     </components>
   </mix>
