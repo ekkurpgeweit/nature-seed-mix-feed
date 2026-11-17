@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mix_compositions generated_at="2026-11-17T18:17:46.474Z" feed_last_updated="2026-11-17T11:16:41-07:00">
+<mix_compositions generated_at="2026-11-17T18:23:20.968Z" feed_last_updated="2026-11-17T11:22:15-07:00">
   <mix sku="CV-BGEC-10-LB" category="Conservation">
     <name>Prairie Native Drought-Tolerant &amp; Erosion Control Mix</name>
     <components>
@@ -789,7 +789,7 @@
         <common_name>Tall Fescue</common_name>
         <species>Festuca arundinacea</species>
         <variety>Fawn (F)</variety>
-        <percentage>18.30</percentage>
+        <percentage>21.80</percentage>
       </component>
       <component>
         <code>CHIN</code>
@@ -810,14 +810,14 @@
         <common_name>Red Clover</common_name>
         <species>Trifolium pratense</species>
         <variety>Medium</variety>
-        <percentage>10</percentage>
+        <percentage>10.00</percentage>
       </component>
       <component>
-        <code>DAGL</code>
-        <common_name>Orchardgrass</common_name>
-        <species>Dactylis glomerata</species>
-        <variety>Potomac</variety>
-        <percentage>7.5</percentage>
+        <code>ONVI</code>
+        <common_name>Sainfoin</common_name>
+        <species>Onobrychis viciifolia</species>
+        <variety>Delaney / Shoshone</variety>
+        <percentage>10.00</percentage>
       </component>
       <component>
         <code>PEAS</code>
@@ -831,14 +831,7 @@
         <common_name>Perennial Ryegrass</common_name>
         <species>Lolium perenne</species>
         <variety>Linn</variety>
-        <percentage>5.50</percentage>
-      </component>
-      <component>
-        <code>ASCI</code>
-        <common_name>Cicer Milkvetch</common_name>
-        <species>Astragalus cicer</species>
-        <variety>Monarch</variety>
-        <percentage>10</percentage>
+        <percentage>9.50</percentage>
       </component>
       <component>
         <code>CYDA</code>
